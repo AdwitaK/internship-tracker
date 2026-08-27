@@ -39,11 +39,8 @@ class WorkdayTracker(BaseTracker):
             
             if total is None:
                 total = data["total"]
-                #print(f"Total jobs: {total}") #test
 
             postings = data["jobPostings"]
-
-            #print(offset, postings[0]["title"]) #test
 
             for job in postings:
                 jobs.append({
@@ -55,6 +52,5 @@ class WorkdayTracker(BaseTracker):
                 })
 
             offset+=limit
-            #print(f"total jobs: {len(jobs)}") #test
 
         return jobs
