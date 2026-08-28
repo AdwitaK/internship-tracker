@@ -61,10 +61,13 @@ def main():
                 continue
 
             ## add to new jobs only if relevant
-            new_jobs.append(job)    
+            new_jobs.append(job)
 
     save_seen_jobs(seen_jobs)
-    print(f"{len(new_jobs)} new jobs found in {company["company"]}")
+
+    #Testing
+    for job in new_jobs:
+        print(f"{job["company"]} : {job["title"]} ")
 
 
 if __name__ == "__main__":
