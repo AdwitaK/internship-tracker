@@ -4,7 +4,7 @@ from core.seen_jobs import load_seen_jobs
 from core.seen_jobs import save_seen_jobs
 from core.job_filter import is_relevant
 from notifications.discord_notifier import DiscordNotifier
-from notifications.message_formatter import format_jobs
+from notifications.message_formatter import build_messages
 import os
 from dotenv import load_dotenv
 
@@ -13,7 +13,7 @@ def main():
     seen_jobs = load_seen_jobs()
     new_jobs = []
 
-    for company in companies[:1]:
+    for company in companies:
 
         #Skip custom ats systems
         if(company["ats"] == "custom"):
@@ -72,14 +72,12 @@ def main():
     # Send notification
     if new_jobs:
         load_dotenv()
-        #print(os.getenv("DISCORD_WEBHOOK"))
         notifier = DiscordNotifier(os.getenv("DISCORD_WEBHOOK"))
-        message = format_jobs(new_jobs)
-        notifier.send(message)
-        print("message sent!") #test
+        messages = build_messages(new_jobs)
+        for message in messages:
+            notifier.send(message)
 
     #Testing
-    print(len(new_jobs))
     for job in new_jobs:
         print(f"{job["company"]} : {job["title"]} ")
 
