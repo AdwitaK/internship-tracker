@@ -3,13 +3,17 @@ from trackers.tracker_map import TRACKER_MAP
 from core.seen_jobs import load_seen_jobs
 from core.seen_jobs import save_seen_jobs
 from core.job_filter import is_relevant
+from notifications.discord_notifier import DiscordNotifier
+from notifications.message_formatter import format_jobs
+import os
+from dotenv import load_dotenv
 
 def main():
     companies = load_companies()
     seen_jobs = load_seen_jobs()
     new_jobs = []
 
-    for company in companies:
+    for company in companies[:1]:
 
         #Skip custom ats systems
         if(company["ats"] == "custom"):
@@ -65,7 +69,17 @@ def main():
 
     save_seen_jobs(seen_jobs)
 
+    # Send notification
+    if new_jobs:
+        load_dotenv()
+        #print(os.getenv("DISCORD_WEBHOOK"))
+        notifier = DiscordNotifier(os.getenv("DISCORD_WEBHOOK"))
+        message = format_jobs(new_jobs)
+        notifier.send(message)
+        print("message sent!") #test
+
     #Testing
+    print(len(new_jobs))
     for job in new_jobs:
         print(f"{job["company"]} : {job["title"]} ")
 
