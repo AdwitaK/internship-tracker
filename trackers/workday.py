@@ -15,7 +15,9 @@ class WorkdayTracker(BaseTracker):
         path_parts = parsed.path.strip("/").split("/")
 
         tenant = host.split(".")[0]
-        site = path_parts[-1]
+        site = path_parts[1]
+        locale = path_parts[0]
+        base_url = f"{parsed.scheme}://{host}/{locale}/{site}"
 
         url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
 
@@ -50,10 +52,7 @@ class WorkdayTracker(BaseTracker):
                     "company": company["company"],
                     "title": job.get("title", "Unknown"),
                     "location": job.get("locationsText", "Unknown"),
-                    "url": (f"{parsed.scheme}://{host}{external_path}" 
-                            if external_path 
-                            else "Unknown" 
-                    )
+                    "url" : f"{base_url}{external_path}" if external_path else "Unknown"
                 })
 
             offset+=limit
