@@ -43,12 +43,17 @@ class WorkdayTracker(BaseTracker):
             postings = data["jobPostings"]
 
             for job in postings:
+                external_path = job.get("externalPath")
+
+                if not external_path:
+                    continue
+
                 jobs.append({
-                    "job_id": job["bulletFields"],
+                    "job_id": job.get("bulletFields", ["Unknown"])[0],
                     "company": company["company"],
-                    "title": job["title"],
-                    "location": job["locationsText"],
-                    "url": f"{parsed.scheme}://{host}{job['externalPath']}"
+                    "title": job.get("title", "Unknown"),
+                    "location": job.get("locationsText", "Unknown"),
+                    "url": f"{parsed.scheme}://{host}{external_path}"
                 })
 
             offset+=limit
