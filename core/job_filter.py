@@ -15,7 +15,8 @@ EXCLUDE_KEYWORDS = [
     "lead",
     "2026", 
     "internal",
-    "phd"
+    "phd",
+    "ph.d"
 ]
 
 TECH_KEYWORDS = TECH_KEYWORDS = [
@@ -51,9 +52,16 @@ TECH_KEYWORDS = TECH_KEYWORDS = [
     "researcher"
 ]
 
+EXCLUDE_LOCATIONS = [
+    "CHINA",
+    "TAIWAN",
+    "SINGAPORE"
+]
+
 def is_relevant(job):
 
     title = str(job.get("title", "")).lower()
+    location = str(job.get("location", "")).lower()
 
     has_include = any(
         keyword in title
@@ -70,4 +78,9 @@ def is_relevant(job):
         for keyword in TECH_KEYWORDS
     )
 
-    return has_include and is_tech and not has_exclude
+    has_exclude_location = any(
+        keyword in location
+        for keyword in EXCLUDE_LOCATIONS
+    )
+
+    return has_include and is_tech and not has_exclude and not has_exclude_location
