@@ -17,11 +17,11 @@ class WorkableTracker(BaseTracker):
 
         for job in data["jobs"]:
             jobs.append({
-                "job_id": str(job["shortcode"]),
+                "job_id": str(job.get("shortcode", "Unknown")),
                 "company": company["company"],
-                "title": job["title"],
-                "location": job["city"] + ", " + job["country"],
-                "url": job["url"]
+                "title": job.get("title", "Unknown"),
+                "location": job.get("city", "Unknown") + ", " + job.get("country", "Unknown"),
+                "url": job.get("url", "Unknown")
             })
 
         return jobs

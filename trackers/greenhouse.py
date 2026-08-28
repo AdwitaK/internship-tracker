@@ -17,11 +17,11 @@ class GreenhouseTracker(BaseTracker):
 
         for job in data["jobs"]:
             jobs.append({
-                "job_id": str(job["id"]),
+                "job_id": str(job.get("id", "Unknown")),
                 "company": company["company"],
-                "title": job["title"],
-                "location": job["location"]["name"],
-                "url": job["absolute_url"]
+                "title": job.get("title", "Unknown"),
+                "location": job.get("location", {}).get("name", "Unknown"),
+                "url": job.get("absolute_url", "Unknown")
             })
 
         return jobs

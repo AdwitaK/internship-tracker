@@ -17,11 +17,11 @@ class LeverTracker(BaseTracker):
 
         for job in data:
             jobs.append({
-                "job_id": str(job["id"]),
+                "job_id": str(job.get("id", "Unknown")),
                 "company": company["company"],
-                "title": job["text"],
-                "location": job["categories"]["location"],
-                "url": job["hostedUrl"]
+                "title": job.get("text", "Unknown"),
+                "location": job.get("categories", {}).get("location", "Unknown"),
+                "url": job.get("hostedUrl", "Unknown")
             })
 
         return jobs

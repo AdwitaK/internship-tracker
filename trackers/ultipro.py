@@ -41,13 +41,20 @@ class UltiproTracker(BaseTracker):
                 total = data["totalCount"]
 
             for job in data["opportunities"]:
+                jobId = job.get("Id", "Unknown")
 
                 jobs.append({
-                    "job_id": job["Id"],
+                    "job_id": jobId,
                     "company": company["company"],
-                    "title": job["Title"],
-                    "location": job["Locations"][0]["Address"]["City"],
-                    "url": url + "OpportunityDetail?opportunityId=" + job["Id"]
+                    "title": job.get("Title", "Unknown"),
+                    "location": (
+                        job.get("Locations", [{}])[0]
+                        .get("Address", {})
+                        .get("City", "Unknown")
+                    ),
+                    "url": (url + "OpportunityDetail?opportunityId=" + jobId 
+                            if jobId != "Unknown" 
+                            else jobId)
                 })
 
             skip += top

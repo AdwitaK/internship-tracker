@@ -17,11 +17,11 @@ class AshbyTracker(BaseTracker):
 
         for job in data["jobs"]:
             jobs.append({
-                "job_id": str(job["id"]),
+                "job_id": str(job.get("id", "Unknown")),
                 "company": company["company"],
-                "title": job["title"],
-                "location": job["location"],
-                "url": job["jobUrl"]
+                "title": job.get("title", "Unknown"),
+                "location": job.get("location", "Unknown"),
+                "url": job.get("jobUrl", "Unknown")
             })
 
         return jobs
