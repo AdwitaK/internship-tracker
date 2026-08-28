@@ -9,13 +9,13 @@ INTERNSHIP_KEYWORDS = [
 
 EXCLUDE_KEYWORDS = [
     "senior",
-    "staff",
     "principal",
     "manager",
     "director",
     "lead",
     "2026", 
-    "internal"
+    "internal",
+    "phd"
 ]
 
 TECH_KEYWORDS = TECH_KEYWORDS = [
