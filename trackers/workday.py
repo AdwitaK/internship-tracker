@@ -16,9 +16,22 @@ class WorkdayTracker(BaseTracker):
         path_parts = parsed.path.strip("/").split("/")
 
         tenant = host.split(".")[0]
-        site = path_parts[1]
-        locale = path_parts[0]
-        base_url = f"{parsed.scheme}://{host}/{locale}/{site}"
+
+        #Handle different URL formats
+        if len(path_parts) >= 2:
+            locale = path_parts[0]
+            site = path_parts[1]
+            base_url = f"{parsed.scheme}://{host}/{locale}/{site}"
+
+        elif len(path_parts) == 1:
+            locale = None
+            site = path_parts[0]
+            base_url = f"{parsed.scheme}://{host}/{site}"
+
+        else:
+            raise ValueError(
+                f"Unexpected Workday URL format: {careers_url}"
+            )
 
         url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
 
