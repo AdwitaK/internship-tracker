@@ -3,6 +3,7 @@ from trackers.lever import LeverTracker
 from trackers.ashby import AshbyTracker
 from trackers.workable import WorkableTracker
 from trackers.workday import WorkdayTracker
+from trackers.ultipro import UltiproTracker
 
 
 TRACKER_MAP = {
@@ -10,5 +11,6 @@ TRACKER_MAP = {
     "ashbyhq": AshbyTracker,
     "lever": LeverTracker, 
     "workable": WorkableTracker,
-    "workday": WorkdayTracker
+    "workday": WorkdayTracker,
+    "ultipro": UltiproTracker
 }
