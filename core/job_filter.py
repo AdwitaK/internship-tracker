@@ -14,7 +14,8 @@ EXCLUDE_KEYWORDS = [
     "manager",
     "director",
     "lead",
-    "2026"
+    "2026", 
+    "internal"
 ]
 
 TECH_KEYWORDS = TECH_KEYWORDS = [
@@ -25,13 +26,13 @@ TECH_KEYWORDS = TECH_KEYWORDS = [
     "engineering",
     "engineer",
     "machine learning",
-    "ml",
-    "ai",
+    "ml ",
+    "ai ",
     "artificial intelligence",
     "robotics",
     "perception",
     "computer vision",
-    "cv",
+    "cv ",
     "vision",
     "autonomy",
     "autonomous",
