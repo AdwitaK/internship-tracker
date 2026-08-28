@@ -1,0 +1,72 @@
+INTERNSHIP_KEYWORDS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student",
+    "university"
+]
+
+EXCLUDE_KEYWORDS = [
+    "senior",
+    "staff",
+    "principal",
+    "manager",
+    "director",
+    "lead",
+    "2026"
+]
+
+TECH_KEYWORDS = TECH_KEYWORDS = [
+    "software",
+    "developer",
+    "development",
+    "data", 
+    "engineering",
+    "engineer",
+    "machine learning",
+    "ml",
+    "ai",
+    "artificial intelligence",
+    "robotics",
+    "perception",
+    "computer vision",
+    "cv",
+    "vision",
+    "autonomy",
+    "autonomous",
+    "embedded",
+    "firmware",
+    "backend",
+    "frontend",
+    "full stack",
+    "full-stack",
+    "platform",
+    "data",
+    "simulation",
+    "controls",
+    "systems",
+    "research",
+    "researcher"
+]
+
+def is_relevant(job):
+
+    title = str(job.get("title", "")).lower()
+
+    has_include = any(
+        keyword in title
+        for keyword in INTERNSHIP_KEYWORDS
+    )
+
+    has_exclude = any(
+        keyword in title
+        for keyword in EXCLUDE_KEYWORDS
+    )
+
+    is_tech = any(
+        keyword in title
+        for keyword in TECH_KEYWORDS
+    )
+
+    return has_include and is_tech and not has_exclude
