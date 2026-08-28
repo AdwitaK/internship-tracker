@@ -34,7 +34,6 @@ class UltiproTracker(BaseTracker):
             response = requests.post(search_url, json=payload)
             response.raise_for_status()
 
-            print(response.url)
             data = response.json()
 
             if total is None:
