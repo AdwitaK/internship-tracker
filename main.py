@@ -7,7 +7,7 @@ from notifications.discord_notifier import DiscordNotifier
 from notifications.message_formatter import build_messages
 import os
 from dotenv import load_dotenv
-import traceback #test
+import traceback
 
 def main():
     companies = load_companies()
@@ -42,7 +42,7 @@ def main():
                 f"({company['ats']})"
             )
             print(e)
-            traceback.print_exc() #test
+            traceback.print_exc()
             continue
 
         # Process fetched jobs

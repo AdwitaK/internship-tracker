@@ -7,7 +7,6 @@ class WorkdayTracker(BaseTracker):
 
     def fetch_jobs(self, company):
         careers_url = company["identifier"]
-        print(f"Workday URL for {company['company']}: {careers_url}") #test
 
         # Parse careers URL
         parsed = urlparse(careers_url)
@@ -60,9 +59,6 @@ class WorkdayTracker(BaseTracker):
 
             for job in postings:
                 external_path = job.get("externalPath")
-
-                print(f"{company['company']} job response:") #test
-                print(job) #test
 
                 jobs.append({
                     "job_id": external_path or "Unknown",
