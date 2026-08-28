@@ -1,32 +1,27 @@
-def format_jobs(jobs):
+def build_messages(jobs):
 
     if not jobs:
         return None
-
-    lines = []
-
-    lines.append(
-        f"{len(jobs)} new internship(s) found\n"
-    )
+    
+    messages = []
+    current_message = "New internships found\n\n"
 
     for job in jobs:
 
-        lines.append(
-            f"**{job['company']}**"
+        job_text = (
+            f"**{job['company']}**\n"
+            f"{job['title']}\n"
+            f"{job['location']}\n"
+            f"<{job['url']}>\n\n"
         )
 
-        lines.append(
-            job["title"]
-        )
+        if len(current_message) + len(job_text) > 1900:
+            messages.append(current_message)
+            current_message = ""
 
-        lines.append(
-            job["location"]
-        )
+        current_message += job_text
 
-        lines.append(
-            job["url"]
-        )
+    if current_message:
+        messages.append(current_message)
 
-        lines.append("")
-
-    return "\n".join(lines)
+    return messages
