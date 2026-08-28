@@ -7,6 +7,7 @@ class WorkdayTracker(BaseTracker):
 
     def fetch_jobs(self, company):
         careers_url = company["identifier"]
+        print(f"Workday URL for {company['company']}: {careers_url}") #test
 
         # Parse careers URL
         parsed = urlparse(careers_url)
