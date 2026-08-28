@@ -47,8 +47,11 @@ class WorkdayTracker(BaseTracker):
             for job in postings:
                 external_path = job.get("externalPath")
 
+                print(f"{company['company']} job response:") #test
+                print(job) #test
+
                 jobs.append({
-                    "job_id": job.get("bulletFields", ["Unknown"])[0],
+                    "job_id": external_path or "Unknown",
                     "company": company["company"],
                     "title": job.get("title", "Unknown"),
                     "location": job.get("locationsText", "Unknown"),
