@@ -31738,5 +31738,213 @@
     "5063930007": {
         "company": "xAI",
         "title": "Web Engineer - X"
+    },
+    "cd919b4f-a866-47c3-8652-464a3f5390b6": {
+        "company": "Shield AI",
+        "title": "Technician II, Production (R5665)"
+    },
+    "5223373007": {
+        "company": "Anduril",
+        "title": "Compliance Project Manager"
+    },
+    "5213010007": {
+        "company": "Anduril",
+        "title": "Director, Test & Evaluation - Robotics"
+    },
+    "5220217007": {
+        "company": "Anduril",
+        "title": "Lead Quality Systems Engineer - Maritime"
+    },
+    "5220945007": {
+        "company": "Anduril",
+        "title": "Manager, Demand & Supply Planning "
+    },
+    "5225232007": {
+        "company": "Anduril",
+        "title": "Senior Product Manager, Manufacturing and Industrial Design Systems"
+    },
+    "5225835007": {
+        "company": "Anduril",
+        "title": "Strategic Supply Chain, Industrial Base Operations"
+    },
+    "4709290006": {
+        "company": "Figure AI",
+        "title": "NPI Buyer/Planner"
+    },
+    "7980236003": {
+        "company": "Motional",
+        "title": "IT Support Specialist [6 Month Contract]"
+    },
+    "/job/US-CA-Santa-Clara/Characterization-Product-Development-Engineer_JR2021756": {
+        "company": "NVIDIA",
+        "title": "Characterization Product Development Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Commodity-Manager---PCB_JR2023077": {
+        "company": "NVIDIA",
+        "title": "Senior Commodity Manager - PCB"
+    },
+    "/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950": {
+        "company": "NVIDIA",
+        "title": "ATE Test Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Network-Deployment-Engineer--PoP-Management---DGX-Cloud_JR2024739": {
+        "company": "NVIDIA",
+        "title": "Senior Network Deployment Engineer, PoP Management - DGX Cloud"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Product-Quality-Engineer--Board---Automotive_JR2021690": {
+        "company": "NVIDIA",
+        "title": "Senior Product Quality Engineer, Board \u2013 Automotive"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Services-Supply-Chain-Inventory-Management-and-Control-Engineer_JR2021477": {
+        "company": "NVIDIA",
+        "title": "Senior Services Supply Chain Inventory Management and Control Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Hardware-Product-Quality-Manager--PQM_JR2022611": {
+        "company": "NVIDIA",
+        "title": "Senior Hardware Product Quality Manager, PQM"
+    },
+    "/job/Mexico-Remote/Staff-Product-Engineer--Manufacturing---Board_JR2022940": {
+        "company": "NVIDIA",
+        "title": "Staff Product Engineer, Manufacturing - Board"
+    },
+    "/job/US-CA-Santa-Clara/Test-Methodology-Engineer_JR2022767": {
+        "company": "NVIDIA",
+        "title": "Test Methodology Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Manager--Product-Development-Engineering---HBM_JR2021325": {
+        "company": "NVIDIA",
+        "title": "Manager, Product Development Engineering - HBM"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Product-Development-Engineer_JR2019271": {
+        "company": "NVIDIA",
+        "title": "Senior Product Development Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Board-Product-Development-Engineer_JR2022464": {
+        "company": "NVIDIA",
+        "title": "Senior Board Product Development Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2021498": {
+        "company": "NVIDIA",
+        "title": "Senior NPI Program Manager"
+    },
+    "/job/US-CA-Santa-Clara/Principal-System-Engineer--Operations_JR2022354": {
+        "company": "NVIDIA",
+        "title": "Principal System Engineer, Operations"
+    },
+    "/job/Mexico-Remote/Staff-Product-Engineer--Manufacturing---Networking_JR2022832-1": {
+        "company": "NVIDIA",
+        "title": "Staff Product Engineer, Manufacturing - Networking"
+    },
+    "/job/US-CA-Santa-Clara/Product-Engineer---Datacenter_JR2023146": {
+        "company": "NVIDIA",
+        "title": "Product Engineer - Datacenter"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Product-Quality-Engineer--Chip---Automotive_JR2022860": {
+        "company": "NVIDIA",
+        "title": "Senior Product Quality Engineer, Chip - Automotive"
+    },
+    "/job/US-CA-Santa-Clara/Product-Development-Engineer----Post-Si-Characterization_JR2023281": {
+        "company": "NVIDIA",
+        "title": "Product Development Engineer -- Post-Si Characterization"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Commodity-Manager---PCB_JR2023078": {
+        "company": "NVIDIA",
+        "title": "Senior Commodity Manager - PCB"
+    },
+    "/job/US-TX-Remote/Senior-Electrical-Product-Engineer---Datacenter_JR2024103": {
+        "company": "NVIDIA",
+        "title": "Senior Electrical Product Engineer - Datacenter"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Factory-Planner--Repair-Operations_JR2023348": {
+        "company": "NVIDIA",
+        "title": "Senior Factory Planner, Repair Operations"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--Supply-Chain-Business-Transformation_JR2023862": {
+        "company": "NVIDIA",
+        "title": "Senior Technical Program Manager, Supply Chain Business Transformation"
+    },
+    "/job/US-CA-Santa-Clara/System-Level-Product-Development-Engineer_JR2023455": {
+        "company": "NVIDIA",
+        "title": "System Level Product Development Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Product-Engineer---Datacenter_JR2023145": {
+        "company": "NVIDIA",
+        "title": "Senior Product Engineer - Datacenter"
+    },
+    "/job/US-CA-Santa-Clara/Senior-RMA-Customer-Service-Transformation-Engineer_JR2021539": {
+        "company": "NVIDIA",
+        "title": "Senior RMA Customer Service Transformation Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Director--Engineering---Autonomous-Vehicles_JR2023529": {
+        "company": "NVIDIA",
+        "title": "Director, Engineering - Autonomous Vehicles"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Tegra_JR2024717": {
+        "company": "NVIDIA",
+        "title": "Senior Technical Program Manager - Tegra"
+    },
+    "/job/US-CA-Santa-Clara/Senior-AI-Engineer--High-Performance-AI_JR2024664-1": {
+        "company": "NVIDIA",
+        "title": "Senior AI Engineer, High Performance AI"
+    },
+    "/job/US-TX-Houston/Senior-Manager--Operations-Regional-Inventory-Control_JR2023141-1": {
+        "company": "NVIDIA",
+        "title": "Senior Manager, Operations Regional Inventory Control"
+    },
+    "/job/US-CA-Santa-Clara/Manager--Supply-Chain-Planning---Wafers_JR2022635": {
+        "company": "NVIDIA",
+        "title": "Manager, Supply Chain Planning - Wafers"
+    },
+    "/job/US-CA-Santa-Clara/Director--System-Level-Testing---Product-Development-Engineering_JR2023409": {
+        "company": "NVIDIA",
+        "title": "Director, System Level Testing - Product Development Engineering"
+    },
+    "/job/US-CA-Santa-Clara/Solutions-Architect---NVIDIA-Cloud-Partners_JR2024361": {
+        "company": "NVIDIA",
+        "title": "Solutions Architect - NVIDIA Cloud Partners"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Data-Scientist--Cloud-Gaming---Prescriptive-Analytics-and-Optimization_JR2020400": {
+        "company": "NVIDIA",
+        "title": "Senior Data Scientist, Cloud Gaming - Prescriptive Analytics and Optimization"
+    },
+    "5409055008": {
+        "company": "Anthropic",
+        "title": "Director, Finance Systems - Revenue Systems Engineering"
+    },
+    "5104756008": {
+        "company": "Anthropic",
+        "title": "Enterprise Account Executive, System Integrators"
+    },
+    "5409934008": {
+        "company": "Anthropic",
+        "title": "Product Manager, Multi-Cloud Trust & Safety"
+    },
+    "5409299008": {
+        "company": "Anthropic",
+        "title": "Regulatory Counsel, AI Regulation, US"
+    },
+    "5403775008": {
+        "company": "Anthropic",
+        "title": "Safeguards Enforcement Lead, Cyber Harms"
+    },
+    "5126008008": {
+        "company": "Anthropic",
+        "title": "Strategic Account Executive, Tech"
+    },
+    "4728956005": {
+        "company": "Scale AI",
+        "title": "Operations Associate"
+    },
+    "5223190007": {
+        "company": "Together AI",
+        "title": "GTM Data Analytics Engineer"
+    },
+    "5225824007": {
+        "company": "xAI",
+        "title": "Controls Technician"
+    },
+    "5225844007": {
+        "company": "xAI",
+        "title": "Journeyman Electrician"
     }
 }
