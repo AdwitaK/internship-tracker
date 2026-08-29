@@ -7,6 +7,7 @@ from trackers.ultipro import UltiproTracker
 from trackers.smartrecruiters import SmartRecruitersTracker
 from trackers.dayforce import DayforceTracker
 from trackers.gem import GemTracker
+from trackers.bamboohr import BambooHRTracker
 
 
 TRACKER_MAP = {
@@ -18,5 +19,6 @@ TRACKER_MAP = {
     "ultipro": UltiproTracker,
     "smartrecruiters": SmartRecruitersTracker,
     "dayforce": DayforceTracker,
-    "gem": GemTracker
+    "gem": GemTracker,
+    "bamboohr": BambooHRTracker
 }
