@@ -6,6 +6,7 @@ from trackers.workday import WorkdayTracker
 from trackers.ultipro import UltiproTracker
 from trackers.smartrecruiters import SmartRecruitersTracker
 from trackers.dayforce import DayforceTracker
+from trackers.gem import GemTracker
 
 
 TRACKER_MAP = {
@@ -16,5 +17,6 @@ TRACKER_MAP = {
     "workday": WorkdayTracker,
     "ultipro": UltiproTracker,
     "smartrecruiters": SmartRecruitersTracker,
-    "dayforce": DayforceTracker
+    "dayforce": DayforceTracker,
+    "gem": GemTracker
 }
