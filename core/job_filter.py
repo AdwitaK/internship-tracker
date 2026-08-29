@@ -56,11 +56,11 @@ TECH_KEYWORDS = [
 ]
 
 EXCLUDE_LOCATIONS = [
-    "China",
-    "Taiwan",
-    "Singapore",
-    "Poland",
-    "Germany"
+    "china",
+    "taiwan",
+    "singapore",
+    "poland",
+    "germany"
 ]
 
 def is_relevant(job):
