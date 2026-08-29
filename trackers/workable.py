@@ -19,6 +19,7 @@ class WorkableTracker(BaseTracker):
             jobs.append({
                 "job_id": str(job.get("shortcode", "Unknown")),
                 "company": company["company"],
+                "priority": int(company["priority"]),
                 "title": job.get("title", "Unknown"),
                 "location": job.get("city", "Unknown") + ", " + job.get("country", "Unknown"),
                 "url": job.get("url", "Unknown")

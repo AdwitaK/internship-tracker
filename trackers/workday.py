@@ -63,6 +63,7 @@ class WorkdayTracker(BaseTracker):
                 jobs.append({
                     "job_id": external_path or "Unknown",
                     "company": company["company"],
+                    "priority": int(company["priority"]),
                     "title": job.get("title", "Unknown"),
                     "location": job.get("locationsText", "Unknown"),
                     "url" : f"{base_url}{external_path}" if external_path else "Unknown"

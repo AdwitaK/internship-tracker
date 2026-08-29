@@ -46,6 +46,7 @@ class UltiproTracker(BaseTracker):
                 jobs.append({
                     "job_id": jobId,
                     "company": company["company"],
+                    "priority": int(company["priority"]),
                     "title": job.get("Title", "Unknown"),
                     "location": (
                         job.get("Locations", [{}])[0]

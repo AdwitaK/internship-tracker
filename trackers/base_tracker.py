@@ -7,6 +7,7 @@ class BaseTracker(ABC):
         '''Returns a list of dictionaries with:
         - job_id
         - company
+        - priority
         - title
         - location
         - url

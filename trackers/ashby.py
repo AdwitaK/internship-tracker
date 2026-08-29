@@ -19,6 +19,7 @@ class AshbyTracker(BaseTracker):
             jobs.append({
                 "job_id": str(job.get("id", "Unknown")),
                 "company": company["company"],
+                "priority": int(company["priority"]),
                 "title": job.get("title", "Unknown"),
                 "location": job.get("location", "Unknown"),
                 "url": job.get("jobUrl", "Unknown")

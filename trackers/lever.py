@@ -19,6 +19,7 @@ class LeverTracker(BaseTracker):
             jobs.append({
                 "job_id": str(job.get("id", "Unknown")),
                 "company": company["company"],
+                "priority": int(company["priority"]),
                 "title": job.get("text", "Unknown"),
                 "location": job.get("categories", {}).get("location", "Unknown"),
                 "url": job.get("hostedUrl", "Unknown")
