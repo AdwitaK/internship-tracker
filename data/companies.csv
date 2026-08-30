@@ -1,50 +1,210 @@
 Company,Priority,ATS,Identifier
-Waabi,1,lever,waabi
-Clearpath Robotics,1,workday,https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation
-MDA Space,1,ultipro,https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/
-Shield AI,1,lever,shieldai
-Shield AI (2),1,greenhouse,aechelontechnology
 Applied Intuition,1,ashbyhq,applied
-Waymo,1,custom,https://careers.withwaymo.com/jobs/search
-Zoox,1,lever,zoox
-Aurora Innovation,1,custom,https://aurora.tech/careers
-Tesla (Autopilot),1,custom,https://www.tesla.com/en_ca/careers
-Tesla (Optimus),1,custom,https://www.tesla.com/en_CA/careers/search/?query=Optimus&site=CA
 Skydio,1,ashbyhq,skydio
-Boston Dynamics,1,workday,https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics
-Anduril,1,greenhouse,andurilindustries
-Figure AI,1,greenhouse,figureai
-Agility Robotics,1,custom,https://www.agilityrobotics.com/careers
-Intrinsic,1,greenhouse,intrinsicrobotics
 Gecko Robotics,1,ashbyhq,gecko-robotics
-Nuro,1,custom,https://www.nuro.ai/careers
-Kodiak Robotics,1,greenhouse,kodiak
-Saildrone,1,custom,https://www.saildrone.com/careers/available-jobs
-Dexterity,1,lever,dexterity
 Symbotic,1,ashbyhq,symbiotic
 Physical Intelligence,1,ashbyhq,physicalintelligence
+Hayden AI,2,ashbyhq,haydenai
+OpenAI,1,ashbyhq,openai
+Cohere,1,ashbyhq,cohere
+Perplexity,1,ashbyhq,perplexity
+Runway,1,ashbyhq,runway-ml
+Character.AI,1,ashbyhq,character
+Confluent,2,ashbyhq,confluent
+Notion,2,ashbyhq,notion
+Redis,2,ashbyhq,redis
+Sentry,2,ashbyhq,sentry
+1Password,2,ashbyhq,1password
+Wealthsimple,2,ashbyhq,wealthsimple
+Miovision,2,ashbyhq,miovision
+PickNik Robotics,2,ashbyhq,picknik
+Foxglove,2,ashbyhq,foxglove
+Solink,3,ashbyhq,solink
+Safe Superintelligence (SSI),5,ashbyhq,ssi
+Thinking Machines Lab,5,ashbyhq,ThinkingMachines
+Modal,5,ashbyhq,modal
+Twelve Labs,5,ashbyhq,twelve-labs
+Lambda,5,ashbyhq,lambda
+Neo Financial,3,ashbyhq,neofinancial
+Lightspeed commerce,3,ashbyhq,lightspeedhq
+Jobber,3,ashbyhq,jobber
+Kindred AI,2,ashbyhq,kindred
+Standard Bots,2,ashbyhq,StandardBots
+Top Hat,3,ashbyhq,top-hat
+Trulioo,3,ashbyhq,trulioo
+Benevity,3,ashbyhq,benevity
+Plaid,2,ashbyhq,plaid
+Ramp,2,ashbyhq,ramp
+Linear,2,ashbyhq,Linear
+SkyWatch,3,ashbyhq,skywatch
+Thinkific,3,ashbyhq,thinkific
+Clearco,3,ashbyhq,clearco
+Hopper,2,ashbyhq,hopper
+SurveyMonkey,3,ashbyhq,surveymonkey
+Loopio,3,ashbyhq,loopio
+Relay,3,ashbyhq,relayfi
+KOHO,3,ashbyhq,koho
+Solace,3,bamboohr,solace
+AvidBots,1,bamboohr,avidbots
+Elastic Path,3,bamboohr,elasticpath
+Questrade,4,dayforce,qfg
+Equitable,4,dayforce,equitable
+Converge Technology Solutions,4,dayforce,converge
+eSentire,3,dayforce,esentire
+Dayforce,3,dayforce,mydayforce
+Retool,2,gem,retool
+Index Exchange,1,gem,index-exchange
+Chef Robotics,2,gem,chef-robotics
+FreshBooks,3,gem,freshbooks
+Axonify,3,gem,axonify
+Shield AI (2),1,greenhouse,aechelontechnology
+Anduril,1,greenhouse,andurilindustries
+Figure AI,1,greenhouse,figureai
+Intrinsic,1,greenhouse,intrinsicrobotics
+Kodiak Robotics,1,greenhouse,kodiak
 Skild AI,1,greenhouse,skildai-careers
 Motional,1,greenhouse,motional
 Latitude AI,1,greenhouse,latitude
 Gatik,1,greenhouse,gatikaiinc
-Torc Robotics,1,greenhouse,torcrobotics
-Plus AI,1,lever,plus-2
-Hayden AI,1,ashbyhq,haydenai
-Google,1,custom,https://www.google.com/about/careers/applications/jobs/results
-Microsoft,1,custom,https://careers.microsoft.com/v2/global/en/home.html
-Amazon,1,custom,https://www.amazon.jobs/en/
-Meta,1,custom,https://www.metacareers.com/jobsearch/
-Apple,1,custom,https://jobs.apple.com/en-ca/search?location=canada-CANC
-NVIDIA,1,workday,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
-OpenAI,1,custom,https://openai.com/careers/search/
+Torc Robotics,2,greenhouse,torcrobotics
 Anthropic,1,greenhouse,anthropic
-Google DeepMind,1,custom,https://www.google.com/about/careers/applications/jobs/results
-Cohere,1,ashbyhq,cohere
 Scale AI,1,greenhouse,scaleai
-Hugging Face,1,workable,huggingface
-Perplexity,1,ashbyhq,perplexity
-Runway,1,ashbyhq,runway-ml
-Weights & Biases,1,custom,https://coreweave.com/careers/weights-biases
 Together AI,1,greenhouse,togetherai
-Character.AI,1,ashbyhq,character
 xAI,1,greenhouse,xai
+Jane Street,1,greenhouse,janestreet
+IMC Trading,1,greenhouse,imc
+DRW,1,greenhouse,drweng
+Jump Trading,1,greenhouse,jumptrading
+SpaceX,1,greenhouse,spacex
+Rocket Lab,1,greenhouse,rocketlab
+Cloudflare,2,greenhouse,cloudflare
+HubSpot,2,greenhouse,hubspotjobs
+Robinhood,2,greenhouse,robinhood
+Figma,2,greenhouse,figma
+Mercury,2,greenhouse,mercury
+Postman,2,greenhouse,postman
+GitLab,2,greenhouse,gitlab
+Reddit,2,greenhouse,reddit
+Discord,2,greenhouse,discord
+Geotab,2,greenhouse,geotab
+Carta,2,greenhouse,carta
+Tenstorrent,2,greenhouse,tenstorrent
+Samsung AI Center Toronto,2,greenhouse,saictoronto
+Viam,2,greenhouse,viamrobotics
+Locus Robotics,2,greenhouse,locusrobotics
+Apptronik,2,greenhouse,apptronik
+Visier,2,greenhouse,visiersolutionsinc
+PagerDuty,2,greenhouse,pagerduty
+Ada`,3,greenhouse,ada18
+May Mobility,2,greenhouse,maymobility
+Outrider,2,greenhouse,outrider
+League Inc,3,greenhouse,leagueinc
+Hootsuite,3,greenhouse,hootsuite
+Later.com,3,greenhouse,later
+Unbounce,3,greenhouse,unbounce
+Twilio,2,greenhouse,twilio
+Vercel,2,greenhouse,vercel
+Coinbase,2,greenhouse,embed
+DoorDash (USA),2,greenhouse,doordashusa
+DoorDash (Canada),2,greenhouse,doordashcanada
+Tower Research Capital,2,greenhouse,towerresearchcapital
+Tenstorrent,1,greenhouse,tenstorrent
+Faire,2,greenhouse,faire
+Versaterm,2,greenhouse,versaterm
+Waabi,1,lever,waabi
+Shield AI,1,lever,shieldai
+Zoox,1,lever,zoox
+Dexterity,1,lever,dexterity
+Plus AI,2,lever,plus-2
+Kepler Communications,1,lever,kepler
+Telesat,1,lever,telesat
+Palantir,2,lever,palantir
+BenchSci,5,lever,benchsci
+Deep Genomics,2,lever,deepgenomics
+Magnet Forensics,2,lever,magnetforensics
+PointClickCare,2,lever,pointclickcare
+AltaML,4,lever,altaml
+Ambi Robotics,2,lever,ambirobotics
+OSARO,2,lever,osaro
+Bright Machines,2,lever,brightmachines
+ANYbotics,2,lever,anybotics
+Wave,3,lever,waveapps
+Achievers,3,lever,achievers
+Fullscript,2,lever,fullscript
+Wattpad,3,lever,wattpad
+Magellan Aerospace,2,successfactors,https://career17.sapsf.com/careers?company=magellanae
+Scotiabank,3,successfactors,https://career17.sapsf.com/careers?company=scotiabank
+Softchoice,4,successfactors,https://career17.sapsf.com/careers?company=softchoice
+ServiceNow,2,smartrecruiters,servicenow
+Canva,2,smartrecruiters,canva
+General Dynamics Mission Systems,2,smartrecruiters,gdmsi
+Ubisoft,2,smartrecruiters,ubisoft2
+Assent,3,smartrecruiters,assent
+Klick Health,3,smartrecruiters,klick1
+Bombardier,2,successfactors,https://career5.successfactors.eu/careers?company=Bombardier
+SAP Vancouver,2,successfactors,https://career5.successfactors.eu/careers?company=SAP
+Ericsson,3,successfactors,https://career2.successfactors.eu/career?company=Ericsson
+MDA Space,1,ultipro,https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/?q=&o=postedDateDesc
+MNP Digital,4,ultipro,https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/?q=&o=postedDateDesc&f5=1LYEQfHFXkubFTGHG-RIjg
+AppLogic Networks,3,ultipro,https://recruiting2.ultipro.com/PRO1053PROC/JobBoard/d6eed263-4950-420d-b9f8-5b1a441c931e/?q=&o=postedDateDesc&w=&wc=&we=&wpst=&f5=b5gWLlBTJU-U_STo5P0DsQ
+Hugging Face,1,workable,huggingface
+Mila,1,workable,mila-2
+Realtime Robotics,2,workable,realtime-robotics
+Genetec,2,workable,genetec-inc
+March Networks,3,workable,march-networks
+DarwinAI,1,workable,darwin-ai
+GHGSat,1,workable,ghgsat
+Borrowell,4,workable,borrowell
+Bridgit,3,workable,bridgit
+Versa Networks,3,workable,versa-networks
+Float,3,workable,floatjobs
+Clearpath Robotics,1,workday,https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation
+Boston Dynamics,1,workday,https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics
+NVIDIA,1,workday,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+Blue Origin,1,workday,https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin
+Salesforce,2,workday,https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+Adobe,2,workday,https://adobe.wd5.myworkdayjobs.com/external_experienced
+Cisco,2,workday,https://cisco.wd5.myworkdayjobs.com/Cisco_Careers
+Expedia Group,2,workday,https://expedia.wd108.myworkdayjobs.com/search
+ApplyBoard,2,workday,https://applyboard.wd3.myworkdayjobs.com/ApplyBoardNH
+Arctic Wolf,2,workday,https://arcticwolf.wd1.myworkdayjobs.com/External
+Intel,2,workday,https://intel.wd1.myworkdayjobs.com/External
+Cadence,2,workday,https://cadence.wd1.myworkdayjobs.com/External_Careers
+Marvell,2,workday,https://marvell.wd1.myworkdayjobs.com/MarvellCareers
+Broadcom,2,workday,https://broadcom.wd1.myworkdayjobs.com/External_Career
+BlackBerry QNX,2,workday,https://bb.wd3.myworkdayjobs.com/BlackBerry
+ABB Robotics,2,workday,https://abb.wd3.myworkdayjobs.com/External_Career_Page
+CAE,2,workday,https://cae.wd3.myworkdayjobs.com/career
+Thales,2,workday,https://thales.wd3.myworkdayjobs.com/Careers
+Maxar Technologies,2,workday,https://maxar.wd1.myworkdayjobs.com/Vantor
+Unity,2,workday,https://unitytech.wd1.myworkdayjobs.com/Unity
+EXFO,2,workday,https://exfo.wd10.myworkdayjobs.com/EXFO_Careers
+Clio,2,workday,https://clio.wd3.myworkdayjobs.com/ClioCareerSite
+Capital One,2,workday,https://capitalone.wd12.myworkdayjobs.com/Capital_One
+Ciena,2,workday,https://ciena.wd5.myworkdayjobs.com/Careers
+Motorola Solutions,3,workday,https://motorolasolutions.wd5.myworkdayjobs.com/Careers
+Trend Micro,3,workday,https://trendmicro.wd3.myworkdayjobs.com/External
+Thomson Reuters,3,workday,https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site
+General Motors,3,workday,https://generalmotors.wd5.myworkdayjobs.com/Careers_GM
+Canadian Tire Digital,3,workday,https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site
+TD,3,workday,https://td.wd3.myworkdayjobs.com/TD_Bank_Careers
+BMO,3,workday,https://bmo.wd3.myworkdayjobs.com/External
+CIBC,3,workday,https://cibc.wd3.myworkdayjobs.com/search
+Manulife,3,workday,https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs
+Sun Life,3,workday,https://sunlife.wd3.myworkdayjobs.com/Campus
+Autodesk,3,workday,https://autodesk.wd1.myworkdayjobs.com/Ext
+Hewlett Packard Enterprise (HPE),3,workday,https://hpe.wd5.myworkdayjobs.com/Jobsathpe
+Red Hat,3,workday,https://redhat.wd5.myworkdayjobs.com/Jobs
+Caterpillar,3,workday,https://cat.wd5.myworkdayjobs.com/CaterpillarCareers
+SS&C Technologies,4,workday,https://ssctech.wd1.myworkdayjobs.com/SSCTechnologies
+iRobot,4,workday,https://irobot.wd503.myworkdayjobs.com/iRobot
+Trimble,4,workday,https://trimble.wd1.myworkdayjobs.com/TrimbleCareers
+Perceptive Automata,2,workday,https://calyx.wd1.myworkdayjobs.com/Perceptive
+Ecobee,3,workday,https://generac.wd5.myworkdayjobs.com/External
+Snap,2,workday,https://snapchat.wd1.myworkdayjobs.com/snap
+Mitel,3,workday,https://mitel.wd3.myworkdayjobs.com/mitelcareers
+Entrust,3,workday,https://entrust.wd1.myworkdayjobs.com/EntrustCareers
+SOTI,2,workday,https://soti.wd3.myworkdayjobs.com/Careers
+Hitachi Rail,3,workday,https://hitachi.wd1.myworkdayjobs.com/hitachi
+Aptiv,2,workday,https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS
+SSIMWAVE,3,workday,https://imax.wd10.myworkdayjobs.com/IMAX-Careers
