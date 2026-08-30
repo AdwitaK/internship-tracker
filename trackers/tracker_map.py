@@ -8,6 +8,7 @@ from trackers.smartrecruiters import SmartRecruitersTracker
 from trackers.dayforce import DayforceTracker
 from trackers.gem import GemTracker
 from trackers.bamboohr import BambooHRTracker
+from trackers.successfactors import SuccessFactorsTracker
 
 
 TRACKER_MAP = {
@@ -20,5 +21,6 @@ TRACKER_MAP = {
     "smartrecruiters": SmartRecruitersTracker,
     "dayforce": DayforceTracker,
     "gem": GemTracker,
-    "bamboohr": BambooHRTracker
+    "bamboohr": BambooHRTracker,
+    "successfactors": SuccessFactorsTracker
 }
