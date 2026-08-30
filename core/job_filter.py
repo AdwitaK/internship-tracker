@@ -19,7 +19,9 @@ EXCLUDE_KEYWORDS = [
     "ph.d",
     "electrical",
     "mechanical",
-    "manufacturing"
+    "manufacturing",
+    "civil",
+    "chemical"
 ]
 
 TECH_KEYWORDS = [
@@ -60,7 +62,26 @@ EXCLUDE_LOCATIONS = [
     "taiwan",
     "singapore",
     "poland",
-    "germany"
+    "germany",
+    "london",
+    "amsterdam",
+    "netherlands",
+    "argentina",
+    "mexico",
+    "australia",
+    "hong kong",
+    "bristol",
+    "paris",
+    "france",
+    "belgrade",
+    "auckland",
+    "nz",
+    "new zealand",
+    "egypt",
+    "italy",
+    "switzerland",
+    "india",
+    "gurgaon"
 ]
 
 def is_relevant(job):
