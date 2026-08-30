@@ -53,12 +53,13 @@ def main():
                 continue
 
             ## skip all jobs seen before
-            if job["job_id"] in seen_jobs:
+            job_key = f"{job['company']}:{job['job_id']}"
+
+            if job_key in seen_jobs:
                 continue
 
             ## add newly found job to seen regardless of relevance
-            seen_jobs[job["job_id"]] = {
-                "company": job["company"],
+            seen_jobs[job_key] = {
                 "title": job["title"]
             }
 
