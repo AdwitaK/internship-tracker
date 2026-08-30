@@ -104,7 +104,7 @@ Later.com,3,greenhouse,later
 Unbounce,3,greenhouse,unbounce
 Twilio,2,greenhouse,twilio
 Vercel,2,greenhouse,vercel
-Coinbase,2,greenhouse,embed
+coinbase,2,greenhouse,embed
 DoorDash (USA),2,greenhouse,doordashusa
 DoorDash (Canada),2,greenhouse,doordashcanada
 Tower Research Capital,2,greenhouse,towerresearchcapital
@@ -144,9 +144,9 @@ Klick Health,3,smartrecruiters,klick1
 Bombardier,2,successfactors,https://career5.successfactors.eu/careers?company=Bombardier
 SAP Vancouver,2,successfactors,https://career5.successfactors.eu/careers?company=SAP
 Ericsson,3,successfactors,https://career2.successfactors.eu/career?company=Ericsson
-MDA Space,1,ultipro,https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/?q=&o=postedDateDesc
-MNP Digital,4,ultipro,https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/?q=&o=postedDateDesc&f5=1LYEQfHFXkubFTGHG-RIjg
-AppLogic Networks,3,ultipro,https://recruiting2.ultipro.com/PRO1053PROC/JobBoard/d6eed263-4950-420d-b9f8-5b1a441c931e/?q=&o=postedDateDesc&w=&wc=&we=&wpst=&f5=b5gWLlBTJU-U_STo5P0DsQ
+MDA Space,1,ultipro,https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/
+MNP Digital,4,ultipro,https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/
+AppLogic Networks,3,ultipro,https://recruiting2.ultipro.com/PRO1053PROC/JobBoard/d6eed263-4950-420d-b9f8-5b1a441c931e/
 Hugging Face,1,workable,huggingface
 Mila,1,workable,mila-2
 Realtime Robotics,2,workable,realtime-robotics
