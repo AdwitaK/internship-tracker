@@ -31946,5 +31946,105 @@
     "5225844007": {
         "company": "xAI",
         "title": "Journeyman Electrician"
+    },
+    "/job/Kitchener-Ontario-Canada/Executive-Assistant---AMR_R26-4149": {
+        "company": "Clearpath Robotics",
+        "title": "Executive Assistant - AMR"
+    },
+    "b2258b1e-336f-4412-aafb-7e5f4e612c7e": {
+        "company": "Applied Intuition",
+        "title": "System Designer"
+    },
+    "5225343007": {
+        "company": "Anduril",
+        "title": "Senior Aviation Maintenance Engineer"
+    },
+    "5225339007": {
+        "company": "Anduril",
+        "title": "Senior Aviation Maintenance Engineer"
+    },
+    "5225359007": {
+        "company": "Anduril",
+        "title": "Senior Avionics Maintenance Engineer"
+    },
+    "/job/China-Beijing/Deep-Learning-Solution-Architect---RL-and-Post-training_JR2024056": {
+        "company": "NVIDIA",
+        "title": "Deep Learning Solution Architect - RL and Post-training"
+    },
+    "/job/China-Shenzhen/Senior-Solution-Architect---OEM_JR2024114": {
+        "company": "NVIDIA",
+        "title": "Senior Solution Architect - OEM"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648": {
+        "company": "NVIDIA",
+        "title": "Software Engineering Intern, Test Development - 2027"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652": {
+        "company": "NVIDIA",
+        "title": "Software Engineering Intern, Test Development - 2027"
+    },
+    "/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500": {
+        "company": "NVIDIA",
+        "title": "System Software Engineer (RDSS Intern)"
+    },
+    "/job/Israel-Tel-Aviv/Senior-Physical-Design-Backend-Engineer_JR2013712": {
+        "company": "NVIDIA",
+        "title": "Senior Physical Design Backend Engineer"
+    },
+    "/job/Israel-Tel-Aviv/Senior-Physical-Design-Engineer_JR2012373": {
+        "company": "NVIDIA",
+        "title": "Senior Physical Design Engineer"
+    },
+    "/job/Israel-Yokneam/IC-Digital-Test-Engineer_JR2021802": {
+        "company": "NVIDIA",
+        "title": "IC Digital Test Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839": {
+        "company": "NVIDIA",
+        "title": "Principal System Software Engineer - AV Platform"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Platform_JR2018686": {
+        "company": "NVIDIA",
+        "title": "Senior Systems Software Engineer - Autonomous Vehicles Platform"
+    },
+    "/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387": {
+        "company": "NVIDIA",
+        "title": "Senior AI Architect, Foundation Models and SoC Co-Design \u2013 Autonomous Vehicles"
+    },
+    "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2017457": {
+        "company": "NVIDIA",
+        "title": "Senior System Software Engineer - AV Platform"
+    },
+    "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469": {
+        "company": "NVIDIA",
+        "title": "Senior System Software Engineer - Autonomous Vehicles"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Embedded-Software-Engineer---AV-Platform_JR2016466-1": {
+        "company": "NVIDIA",
+        "title": "Senior Embedded Software Engineer - AV Platform"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2014870": {
+        "company": "NVIDIA",
+        "title": "Senior Technical Program Manager - Autonomous Vehicles"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Vehicles_JR2014431": {
+        "company": "NVIDIA",
+        "title": "Senior Software Engineer - Autonomous Vehicles"
+    },
+    "/job/Israel-Yokneam/Senior-IT-Enterprise-Security-Engineer_JR2024000": {
+        "company": "NVIDIA",
+        "title": "Senior IT Enterprise Security Engineer"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer--L3-and-L4---Autonomous-Driving_JR2013922": {
+        "company": "NVIDIA",
+        "title": "Senior Software Systems Engineer, L3 and L4 - Autonomous Driving"
+    },
+    "/job/US-CA-Santa-Clara/Senior-Machine-Learning-and-Simulation-Engineer---Autonomous-Vehicles_JR2010863": {
+        "company": "NVIDIA",
+        "title": "Senior Machine Learning and Simulation Engineer - Autonomous Vehicles"
+    },
+    "/job/US-CA-Santa-Clara/EDA-Workflow-Optimization-Engineer_JR2005386": {
+        "company": "NVIDIA",
+        "title": "EDA Workflow Optimization Engineer"
     }
 }
