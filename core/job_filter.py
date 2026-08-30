@@ -21,7 +21,8 @@ EXCLUDE_KEYWORDS = [
     "mechanical",
     "manufacturing",
     "civil",
-    "chemical"
+    "chemical",
+    "winter 2027"
 ]
 
 TECH_KEYWORDS = [
