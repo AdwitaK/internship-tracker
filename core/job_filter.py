@@ -4,7 +4,8 @@ INTERNSHIP_KEYWORDS = [
     "co-op",
     "coop",
     "student",
-    "university"
+    "university",
+    "undergraduate"
 ]
 
 EXCLUDE_KEYWORDS = [
@@ -26,7 +27,7 @@ EXCLUDE_KEYWORDS = [
     "chemical",
     "environmental",
     "industrial",
-    "graduate"
+    " graduate"
 ]
 
 TECH_KEYWORDS = [
