@@ -22,7 +22,11 @@ EXCLUDE_KEYWORDS = [
     "manufacturing",
     "civil",
     "chemical",
-    "winter 2027"
+    "winter",
+    "chemical",
+    "environmental",
+    "industrial",
+    "graduate"
 ]
 
 TECH_KEYWORDS = [
@@ -82,7 +86,11 @@ EXCLUDE_LOCATIONS = [
     "italy",
     "switzerland",
     "india",
-    "gurgaon"
+    "gurgaon",
+    "norway",
+    "israel",
+    "tianjin",
+    "ireland"
 ]
 
 def is_relevant(job):
