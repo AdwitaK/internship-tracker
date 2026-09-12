@@ -203788,5 +203788,2282 @@
     },
     "Ciena:/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652": {
         "title": "Wavelogic Modem HW Engineering Intern/Co-op (Winter 2027 - 4 month)"
+    },
+    "Applied Intuition:bded8844-1f21-42ee-ab17-7a056440716a": {
+        "title": "Engineering Technician"
+    },
+    "Physical Intelligence:7f8397a4-c3cd-45c6-90c7-13c4481f4699": {
+        "title": "Software Engineer, AI Productivity"
+    },
+    "Physical Intelligence:1922d627-e2bf-4cd9-8c0f-92b919b6324f": {
+        "title": "PiBnB Logistics Coordinator"
+    },
+    "OpenAI:9d9d9fba-e955-4c4d-8e6f-e7fc80d7a919": {
+        "title": "Audience & Content Growth Lead, SMB Ads"
+    },
+    "OpenAI:e36955a7-403d-41e4-b54e-37edc7039173": {
+        "title": "Scaled Programs Lead, SMB Ads"
+    },
+    "OpenAI:31f7b3d9-eb5f-4e70-98ab-9115dd153993": {
+        "title": "Lifecycle Marketing Manager, SMB Ads"
+    },
+    "OpenAI:b15442c5-8e3c-4370-9abf-4b9c63f56de0": {
+        "title": "Android Engineer, ChatGPT ImageGen"
+    },
+    "OpenAI:e7a4ee23-138a-4004-916e-72a452e7d115": {
+        "title": "Backend Software Engineer, ChatGPT ImageGen"
+    },
+    "OpenAI:fa5114ae-c6ff-4bbd-9e21-5dcfafd032f7": {
+        "title": "Lead, Ads Prospecting & Customer Intelligence"
+    },
+    "OpenAI:bd2b8228-bb0f-42e0-94bd-c853cdd56140": {
+        "title": "Research Engineer, AI for Chip Design"
+    },
+    "OpenAI:7f4c5eef-37f9-4454-a1fb-ef1e66b075d9": {
+        "title": "Forward Deployed Engineer (FDE) - Seattle"
+    },
+    "OpenAI:967f94aa-1706-4dba-ac89-bfbc2c38b688": {
+        "title": "Forward Deployed Engineer (FDE) - SF"
+    },
+    "OpenAI:241154df-ab1a-4dfa-8b18-66e087d1e636": {
+        "title": "Engineering Manager, Cooperative Systems "
+    },
+    "OpenAI:9471b38b-f65c-4a01-9626-bd33fca90f1d": {
+        "title": "Forward Deployed Engineer (FDE) - NYC"
+    },
+    "OpenAI:f4f7dc99-74ce-46e5-a42b-6f173b5e6234": {
+        "title": "B2B Communications Manager, LATAM"
+    },
+    "OpenAI:abc4b2b4-c251-482e-8f71-f02dda1e3b65": {
+        "title": "Head of Analyst Relations"
+    },
+    "OpenAI:b60d3040-38e4-4abe-8af8-881286b10d50": {
+        "title": "Researcher, Safety Training, National Security"
+    },
+    "OpenAI:7495a0fe-be5a-42b4-bded-77870a122776": {
+        "title": "Legal Program Manager (Regulatory Compliance)"
+    },
+    "Cohere:80c4460f-21f8-4162-aa28-fd8ad294b715": {
+        "title": "Senior Director, Integrated Marketing"
+    },
+    "Perplexity:38caef61-f8b9-4ba9-a640-870a1e77ba54": {
+        "title": "Senior Cinematographer, Brand Studio"
+    },
+    "Notion:6f7c5ae6-9632-4436-8b1c-a1e4c1050633": {
+        "title": "Technical Education Specialist"
+    },
+    "1Password:6f78b170-9600-4b2d-9682-feead160100d": {
+        "title": "Senior GTM Engineering Analyst"
+    },
+    "1Password:ec030dda-caff-4579-93ab-c9aa147a0241": {
+        "title": "Developer, Web Extension"
+    },
+    "Wealthsimple:ca4434c0-9935-40aa-8bf9-5caaf0f2ce1b": {
+        "title": "Lead, Workplace Operations"
+    },
+    "Wealthsimple:1f61607b-85f9-440b-8345-64889add3bb8": {
+        "title": "Lead, Learning & Employee Experience"
+    },
+    "Lambda:a6f698ce-4efb-42c1-b2b0-09d8b44b3287": {
+        "title": "Principal Network Engineer"
+    },
+    "Lambda:dce516d5-2e8e-4bc1-970c-ad7c0c222674": {
+        "title": "Director, Network Capacity Automation"
+    },
+    "Lambda:11fe10ba-50b3-48ac-b650-041d1c9eda39": {
+        "title": "Staff Mechanical Engineer - Data Center Cooling"
+    },
+    "Neo Financial:fedd2bd7-b567-4a69-b887-ee05cebce11b": {
+        "title": "Sales Representative - Dufferin Mall"
+    },
+    "Lightspeed commerce:e322aaea-a289-433c-ba55-cb983d59a725": {
+        "title": "Senior Manager, Revenue Operations"
+    },
+    "Lightspeed commerce:a9fecd3d-a5e9-4a75-8303-a40b5ec16428": {
+        "title": "Senior Manager, Revenue Operations"
+    },
+    "Lightspeed commerce:ae55dabd-1369-4940-9283-a2c3ff34772f": {
+        "title": "Senior Manager, Revenue Operations"
+    },
+    "Plaid:0e2be3c9-78c5-42d0-81c4-f2dd5cc49599": {
+        "title": "Payroll Accountant"
+    },
+    "Plaid:2bf6dcf7-373d-4bd3-ba62-1e2842f050eb": {
+        "title": "Onboarding Coordinator"
+    },
+    "Plaid:4003dc3c-5714-4449-bf65-ac0c7d5385e1": {
+        "title": "Fraud Data Partnerships"
+    },
+    "Plaid:d2c9d8b1-0428-4fdf-8b00-fd3ea28271b3": {
+        "title": "GTM Compliance Analyst"
+    },
+    "Plaid:361c4725-ab72-4895-a3aa-9b642f4927a9": {
+        "title": "Data Scientist - Fraud"
+    },
+    "Plaid:55eacfa6-71e0-42ac-8788-04dc1e5fd694": {
+        "title": "Data Science Manager - Fraud"
+    },
+    "Plaid:e9a9aeab-be90-43f3-b898-63a846cb5777": {
+        "title": "Senior Machine Learning Engineer - Infra/Ops - Fraud"
+    },
+    "Plaid:5e56c0a6-3caa-4255-8c63-95c29cbc2a32": {
+        "title": "Senior Machine Learning Engineer (Research Scientist) - Fraud"
+    },
+    "Plaid:85cd5d07-9920-45fa-931a-daf8c3558e5b": {
+        "title": "Senior Machine Learning Engineer - Fraud"
+    },
+    "Ramp:100c09be-f179-406f-893e-8a212f32c642": {
+        "title": "Technical Consultant, Commercial"
+    },
+    "Ramp:b3b0875d-cbf2-41ed-bda3-2714c82c4b57": {
+        "title": "Systems Engineer, Corporate Security"
+    },
+    "KOHO:e28b8cce-87df-4fd5-a1b3-909322fc25c9": {
+        "title": "Talent Development Partner & Performance Coach (15 Month Contract)"
+    },
+    "Converge Technology Solutions:3076": {
+        "title": "GTM - Enterprise Architect"
+    },
+    "eSentire:5737": {
+        "title": "Support Center Analyst II"
+    },
+    "Dayforce:102223": {
+        "title": "Gestionnaire, Relations avec les employ\u00e9s"
+    },
+    "Dayforce:102224": {
+        "title": "Gestionnaire, Relations avec les employ\u00e9s"
+    },
+    "Dayforce:102231": {
+        "title": "HR Delivery Partner"
+    },
+    "Dayforce:102232": {
+        "title": "HR Delivery Partner"
+    },
+    "Dayforce:102237": {
+        "title": "Partenaire, Prestation des services RH"
+    },
+    "Dayforce:102238": {
+        "title": "Partenaire, Prestation des services RH"
+    },
+    "Retool:am9icG9zdDqasHwy_zyOO2oO9sgTi-N0": {
+        "title": "Product Manager, Integration Platform & Partnerships"
+    },
+    "Index Exchange:am9icG9zdDpTKZ6l9LFFPBb28tFWVWD2": {
+        "title": "Senior and Staff Software Engineers (Product Engineering) \u2014 Multiple Roles"
+    },
+    "Index Exchange:am9icG9zdDr0IBppOdlI_n4_7IJgWIvz": {
+        "title": "FP&A Analyst, Commercial"
+    },
+    "Anduril:5156362007": {
+        "title": "Asset Improvement Lead"
+    },
+    "Anduril:5236241007": {
+        "title": "Business Operations, Production"
+    },
+    "Anduril:5124525007": {
+        "title": "Construction Systems Specialist"
+    },
+    "Anduril:5236226007": {
+        "title": "Contract Technical Recruiter, Production (Technicians)"
+    },
+    "Anduril:5233989007": {
+        "title": "Electrical Integration Systems Engineer, Edge Compute and Communications"
+    },
+    "Anduril:5236276007": {
+        "title": "Information Systems Security Officer, Space"
+    },
+    "Anduril:5009792007": {
+        "title": "Lead Manufacturing Engineer, Analytics / Digital Tools"
+    },
+    "Anduril:5234809007": {
+        "title": "Manufacturing Security Operations Manager"
+    },
+    "Anduril:5219399007": {
+        "title": "Perception Systems Engineer"
+    },
+    "Anduril:5227691007": {
+        "title": "Product Test Engineer, EW"
+    },
+    "Anduril:5235985007": {
+        "title": "Senior Commodity Engineer, Electronics "
+    },
+    "Anduril:5236153007": {
+        "title": "Senior Electrical Integration Systems Engineer, Edge Compute and Communications"
+    },
+    "Anduril:5209991007": {
+        "title": "Senior Product Sourcing Engineer, Core Tech"
+    },
+    "Anduril:5235779007": {
+        "title": "Senior Salesforce Developer"
+    },
+    "Anduril:5236044007": {
+        "title": "Senior Salesforce Developer"
+    },
+    "Anduril:5236123007": {
+        "title": "Senior Systems Engineer, C2 Integration"
+    },
+    "Anduril:5236143007": {
+        "title": "Senior Systems Engineer, C2 Networking, Edge Compute and Communications"
+    },
+    "Anduril:5149450007": {
+        "title": "Senior Technical Hardware Recruiter "
+    },
+    "Anduril:5236234007": {
+        "title": "Senior Technical Hardware Recruiter, Quality Control"
+    },
+    "Anduril:5233224007": {
+        "title": "Senior Technical Writer"
+    },
+    "Anduril:5236154007": {
+        "title": "Staff Electrical Integration Systems Engineer, Edge Compute and Communications"
+    },
+    "Anduril:5236039007": {
+        "title": "Staff Salesforce Developer"
+    },
+    "Anduril:5236127007": {
+        "title": "Staff Systems Engineer, C2 Integration"
+    },
+    "Anduril:5236144007": {
+        "title": "Staff Systems Engineer, C2 Networking, Edge Compute and Communications"
+    },
+    "Anduril:4992780007": {
+        "title": "Supervisor, Manufacturing Operations, Intelligence Systems"
+    },
+    "Anduril:5235711007": {
+        "title": "System Integration and Test Engineer, Space Systems"
+    },
+    "Anduril:5119303007": {
+        "title": "Systems Engineer"
+    },
+    "Anduril:5233972007": {
+        "title": "Systems Engineer, C2 Integration "
+    },
+    "Anduril:5233962007": {
+        "title": "Systems Engineer, C2 Networking, Edge Compute and Communications"
+    },
+    "Motional:7992920003": {
+        "title": "Strategy Analyst"
+    },
+    "Anthropic:5419210008": {
+        "title": "Head of Strategic Startups"
+    },
+    "Anthropic:5385602008": {
+        "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work"
+    },
+    "Anthropic:5385651008": {
+        "title": "Product Marketing Manager, Knowledge Work - Core Products"
+    },
+    "Anthropic:5363210008": {
+        "title": "Senior Engineering Manager, Capacity Engineering"
+    },
+    "Anthropic:5422684008": {
+        "title": "Staff Software Engineer, Search"
+    },
+    "Anthropic:5345583008": {
+        "title": "Strategic Projects Lead, Recruiting"
+    },
+    "Anthropic:5421566008": {
+        "title": "Technical Architect "
+    },
+    "xAI:5234209007": {
+        "title": "Expert Team Lead, Human Data Operations"
+    },
+    "xAI:5234211007": {
+        "title": "Post-training Team Lead"
+    },
+    "IMC Trading:4974924101": {
+        "title": "2027 US Chess Academy Interest Form"
+    },
+    "DRW:8180034": {
+        "title": "Senior Virtualization Engineer"
+    },
+    "DRW:8167047": {
+        "title": "Service Reliability Engineer"
+    },
+    "DRW:8180036": {
+        "title": "Systems Engineer - Microsoft"
+    },
+    "Jump Trading:8127001": {
+        "title": "People Operations Coordinator "
+    },
+    "SpaceX:8803200002": {
+        "title": "CNC Machinist, Tool & Die - Level 4/5"
+    },
+    "SpaceX:8796171002": {
+        "title": "E-Commerce & Merchandising Project Lead"
+    },
+    "SpaceX:8802398002": {
+        "title": "EDM Programmer (Starlink) - Level 4/5"
+    },
+    "SpaceX:8784105002": {
+        "title": "Electromagnetic Effects Test Technician"
+    },
+    "SpaceX:8803646002": {
+        "title": "Industrial Security Analyst (PERSEC) "
+    },
+    "SpaceX:8803006002": {
+        "title": "Industrial Security Analyst (PERSEC) "
+    },
+    "SpaceX:8648202002": {
+        "title": "Material Handler (Starshield) - Temporary Position"
+    },
+    "SpaceX:8795738002": {
+        "title": "Materials Engineer, Metals (Starlink)"
+    },
+    "SpaceX:8780622002": {
+        "title": "Mission Integration Engineer (Security Products) - Top Secret Clearance"
+    },
+    "SpaceX:8803009002": {
+        "title": "New Graduate Engineer, Power Generation (Starship)"
+    },
+    "SpaceX:8802897002": {
+        "title": "New Graduate Engineer, Security Software (Starshield) "
+    },
+    "SpaceX:8802882002": {
+        "title": "New Graduate Engineer, Security Software (Starshield) "
+    },
+    "SpaceX:8804276002": {
+        "title": "Sourcing Specialist - CapEx (Starlink)"
+    },
+    "SpaceX:8797934002": {
+        "title": "Sr. IT Network Engineer"
+    },
+    "SpaceX:8796044002": {
+        "title": "Sr. Materials Engineer, Metals (Starlink)"
+    },
+    "SpaceX:8803653002": {
+        "title": "Sr. Technical Sales Architect (Starlink)"
+    },
+    "SpaceX:8803651002": {
+        "title": "Starlink Operations Technician - Night Shift"
+    },
+    "SpaceX:8796097002": {
+        "title": "Supervisor, Development Machining"
+    },
+    "SpaceX:8801224002": {
+        "title": "Supervisor, Facilities - 2nd Shift"
+    },
+    "SpaceX:8801541002": {
+        "title": "Test Technician (Falcon) "
+    },
+    "Rocket Lab:7993343003": {
+        "title": "Flight Software Engineer II"
+    },
+    "Rocket Lab:7992602003": {
+        "title": "Lead, Manufacturing Engineer"
+    },
+    "Rocket Lab:7992604003": {
+        "title": "Mechanical Engineer I"
+    },
+    "Rocket Lab:7985641003": {
+        "title": "Mechanical Test Engineer I"
+    },
+    "Rocket Lab:7983603003": {
+        "title": "Mechanical Test Engineer II"
+    },
+    "Rocket Lab:7992932003": {
+        "title": "Optical Engineer I"
+    },
+    "Rocket Lab:7993154003": {
+        "title": "Spacecraft Propulsion Components Engineer I"
+    },
+    "Rocket Lab:7993156003": {
+        "title": "Spacecraft Propulsion Systems Engineer I"
+    },
+    "Cloudflare:8188498": {
+        "title": "Customer Solution Strategy Lead"
+    },
+    "Cloudflare:8196425": {
+        "title": "EMEA Senior Talent Acquisition Business Partner - Tech GTM"
+    },
+    "Cloudflare:8157997": {
+        "title": "IAM Security Engineer"
+    },
+    "Cloudflare:8173956": {
+        "title": "Principal Partner Engineer"
+    },
+    "Cloudflare:8196631": {
+        "title": "Rack Integration Operations Engineer"
+    },
+    "Cloudflare:8173954": {
+        "title": "Senior Product Manager, Email Security"
+    },
+    "HubSpot:8112791": {
+        "title": "LATAM Inbound Success Coach 2026 - Spanish (P)"
+    },
+    "HubSpot:8192229": {
+        "title": "Principal Compensation Analyst"
+    },
+    "Mercury:6190457004": {
+        "title": "AML Investigator III"
+    },
+    "Mercury:6013499004": {
+        "title": "Product Marketing Lead - Growth & Revenue"
+    },
+    "Mercury:6190742004": {
+        "title": "Senior Customer Support Systems Administrator"
+    },
+    "GitLab:8801523002": {
+        "title": "Candidate Experience Specialist, Contractor "
+    },
+    "GitLab:8789857002": {
+        "title": "Professional Services - Technical Architect"
+    },
+    "GitLab:8795736002": {
+        "title": "Senior Professional Services Technical Architect - Security "
+    },
+    "GitLab:8790538002": {
+        "title": "Solutions Architect, Manager - Public Sector"
+    },
+    "GitLab:8786425002": {
+        "title": "Strategic Account Executive, Northeast"
+    },
+    "Reddit:8198102": {
+        "title": "Front End Software Engineer, Media Player"
+    },
+    "Reddit:8198130": {
+        "title": "Senior Frontend Engineer, Home Experience"
+    },
+    "Reddit:8192057": {
+        "title": "Senior Software Engineer, Community Builders"
+    },
+    "Discord:8369347002": {
+        "title": "Senior Software Engineer, Machine Learning (Safety)"
+    },
+    "Discord:8642213002": {
+        "title": "Software Engineer, Notifications"
+    },
+    "Tenstorrent:5233849007": {
+        "title": "Corporate Controller "
+    },
+    "Tenstorrent:5227927007": {
+        "title": "Corporate Development Associate - Global Supply Chain Management & IP"
+    },
+    "Tenstorrent:5236092007": {
+        "title": "Global Supply Chain Manager, OSAT"
+    },
+    "Visier:4712473006": {
+        "title": "Account Executive, Embedded Analytics"
+    },
+    "Later.com:8792586002": {
+        "title": "Influencer Marketing Coordinator (Canada)"
+    },
+    "Later.com:8792587002": {
+        "title": "Influencer Marketing Coordinator (Canada)"
+    },
+    "Later.com:8802804002": {
+        "title": "Influencer Marketing Services Co-op"
+    },
+    "Later.com:8802818002": {
+        "title": "Influencer Marketing Strategy Co-Op"
+    },
+    "Later.com:8802822002": {
+        "title": "Social Media Content Creator Co-op - Client Services"
+    },
+    "Twilio:8175075": {
+        "title": "Director, LATAM Carrier Relations"
+    },
+    "Twilio:8197775": {
+        "title": "Principal PR Manager"
+    },
+    "coinbase:8097444": {
+        "title": "Derivative Sales Analyst"
+    },
+    "coinbase:8198059": {
+        "title": "Operational Excellence Senior Program Lead"
+    },
+    "coinbase:8198065": {
+        "title": "Senior Strategic Program Lead"
+    },
+    "DoorDash (USA):8197734": {
+        "title": "Associate, Dasher Tasks, Strategy & Operations"
+    },
+    "DoorDash (USA):8197596": {
+        "title": "Catering Concierge Specialist, DoorDash for Business"
+    },
+    "DoorDash (USA):8197722": {
+        "title": "Director of TPM"
+    },
+    "DoorDash (USA):8196479": {
+        "title": "Hardware Engineer -  Electronics Packaging & Vehicle Integration"
+    },
+    "DoorDash (USA):5481642": {
+        "title": "Shift Lead - Lazybrook / Timbergrove"
+    },
+    "DoorDash (USA):8197854": {
+        "title": "Software Engineer - Developer Experience, Web"
+    },
+    "DoorDash (USA):8076046": {
+        "title": "Supply Chain Sales Account Executive"
+    },
+    "Faire:8803008002": {
+        "title": "Core Strategy Senior Lead"
+    },
+    "Faire:8801507002": {
+        "title": "Senior Applied AI/ML Scientist - Brand Growth"
+    },
+    "Faire:8804205002": {
+        "title": "Senior Product Analytics Engineer - Ads"
+    },
+    "Faire:8804240002": {
+        "title": "Senior Product Manager, Fulfillment"
+    },
+    "Faire:8801834002": {
+        "title": "Staff Applied Scientist, LTV Modeling"
+    },
+    "Faire:8803938002": {
+        "title": "Staff Software Engineer - Code Authoring"
+    },
+    "Waabi:2af36079-94fb-423d-a2b6-10b3a1ad5aa3": {
+        "title": "Senior / Staff Software Engineer, AI Tech Strike Team"
+    },
+    "Waabi:611e0988-35aa-4463-ac94-e2a31a79355e": {
+        "title": "Senior Network Engineer"
+    },
+    "Waabi:cb383962-ad2d-40ab-93ce-e3aead4b3838": {
+        "title": "Staff Systems Engineer - Safety Methodologies"
+    },
+    "Shield AI:1d559be1-9d5a-4d65-a008-97212c210c2b": {
+        "title": "Principal Engineer, Fluid & Thermal Systems (R5620)"
+    },
+    "Shield AI:353b31f2-f075-4503-806a-151a362ee7a2": {
+        "title": "Senior V-BAT Air Vehicle Operator, Field Integration and Test (R5130)"
+    },
+    "Shield AI:cb1b575b-abfb-4903-887e-0f3b7a0ee23f": {
+        "title": "Sr Director, Simulation - International"
+    },
+    "Shield AI:270ad491-2ae9-4df1-b986-9d4e1e943328": {
+        "title": "Staff Platform Engineer"
+    },
+    "Zoox:48125a3d-c929-49f0-a045-b2492b3e5b5b": {
+        "title": "Senior / Staff CAD BOM Quality Engineer"
+    },
+    "Zoox:978e36ef-e8e9-4874-ade6-f33a80e46309": {
+        "title": "Software Engineer - Pipeline Infrastructure & Integration"
+    },
+    "AltaML:0c9a8c8c-08ed-4ff2-b578-b1ad269c82fb": {
+        "title": "Technical Product Manager"
+    },
+    "Magellan Aerospace:2569": {
+        "title": "General Help (Night Shift)"
+    },
+    "Magellan Aerospace:2562": {
+        "title": "General Helper (Day Shift)"
+    },
+    "Scotiabank:272550": {
+        "title": "AML Senior Analyst"
+    },
+    "Scotiabank:273463": {
+        "title": "Analyst, Derivative Settlements, Settlements and Clearing (GWO 1 Year Contract)"
+    },
+    "Scotiabank:272461": {
+        "title": "Analyst, Supply Chain Finance, GTB, Lending Services - Toronto"
+    },
+    "Scotiabank:252898": {
+        "title": "Associate Private Banker"
+    },
+    "Scotiabank:272481": {
+        "title": "Bilingual (English/Spanish) Manager,  International Compliance &amp; AML, Policy Management"
+    },
+    "Scotiabank:273526": {
+        "title": "Business Advisor - Nored Plaza Branch - Nanaimo, BC"
+    },
+    "Scotiabank:273573": {
+        "title": "Business Advisor-Carrefour Saint-Hubert, QC"
+    },
+    "Scotiabank:273552": {
+        "title": "Client Relationship Manager, Canadian Commercial Banking - Toronto, Ontario"
+    },
+    "Scotiabank:270002": {
+        "title": "Coord Pyme Culiac\u00e1n, Sinaloa"
+    },
+    "Scotiabank:273471": {
+        "title": "Customer Experience Associate - Abbotsford Banking Centre, Abbotsford BC (22.5hrs/week)"
+    },
+    "Scotiabank:273555": {
+        "title": "Customer Experience Associate - Hatley Park Shopping Centre, Victoria BC (15hrs/week)"
+    },
+    "Scotiabank:273452": {
+        "title": "Customer Experience Associate, Casual (Part-Time) - Castleridge Centre, AB"
+    },
+    "Scotiabank:273522": {
+        "title": "Customer Experience Associate, Part-Time (3-Month Contract) - Olds, AB (18.75 Hours/Week)"
+    },
+    "Scotiabank:273303": {
+        "title": "Customer Experience Lead - Mahogany Branch, AB (37.5 hours/week) Tuesday - Saturday"
+    },
+    "Scotiabank:260734": {
+        "title": "Director, Enterprise Strategy - Global Banking &amp; Markets (GBM)"
+    },
+    "Scotiabank:273387": {
+        "title": "Financial Advisor - MacLeod Centre Branch, AB (Contract- March, 2027)"
+    },
+    "Scotiabank:273456": {
+        "title": "Financial Advisor - North Vancouver BC"
+    },
+    "Scotiabank:273464": {
+        "title": "Financial Advisor - Village Green Branch, Vernon, BC"
+    },
+    "Scotiabank:273561": {
+        "title": "Global Banking and Markets - Sales and Trading Intern Co-op - Winter/Summer 2027 - Montreal"
+    },
+    "Scotiabank:270381": {
+        "title": "Investment &amp; Personal Banking Specialist - Laval Est/440, Laval, Qc"
+    },
+    "Scotiabank:273222": {
+        "title": "Manager, ALM and Options Strategy"
+    },
+    "Scotiabank:273234": {
+        "title": "Manager, RESL Credit Strategy and Policy Analytics"
+    },
+    "Scotiabank:273472": {
+        "title": "Senior Customer Experience Associate - Abbotsford Banking Centre, Abbotsford BC (18.75hrs/week)"
+    },
+    "Scotiabank:273402": {
+        "title": "Senior Manager, Fraud Analytics &amp; Strategy"
+    },
+    "Scotiabank:272717": {
+        "title": "Total Wealth Planner - Calgary/Vancouver"
+    },
+    "ServiceNow:744000149124469": {
+        "title": "Staff Machine Learning Engineer"
+    },
+    "ServiceNow:744000149124234": {
+        "title": "Senior Staff Machine Learning Engineer"
+    },
+    "ServiceNow:744000149124309": {
+        "title": "Director of Engineering, AI Security Incubation & Innovation "
+    },
+    "ServiceNow:744000149124269": {
+        "title": "Senior Staff Machine Learning Engineer"
+    },
+    "ServiceNow:744000149124199": {
+        "title": "Principal Machine Learning Engineer"
+    },
+    "ServiceNow:744000149080205": {
+        "title": "Senior Machine Learning Engineer"
+    },
+    "ServiceNow:744000149073920": {
+        "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE"
+    },
+    "Canva:6000000001399982": {
+        "title": "Staff Security Engineer"
+    },
+    "General Dynamics Mission Systems:744000149100009": {
+        "title": "Co-op Winter 2027 - Systems Integration, Verification, and Validation - 8-12 months"
+    },
+    "General Dynamics Mission Systems:744000149095849": {
+        "title": "Co-op Winter 2027 \u2013 System of Systems Integration, Verification and Validation \u2013 4-8 months"
+    },
+    "General Dynamics Mission Systems:744000149071040": {
+        "title": "Co-op Winter 2027  DevOps Engineering - 8-16 Months"
+    },
+    "Bombardier:15400": {
+        "title": "Advisor, Marketing, Shows &amp; Events"
+    },
+    "Bombardier:15508": {
+        "title": "Engineering New Graduate - Engineering Career Acceleration Program (ECAP) - Montr\u00e9al"
+    },
+    "Bombardier:15509": {
+        "title": "Engineering New Graduate - Engineering Career Acceleration Program (ECAP) - Toronto"
+    },
+    "Bombardier:15527": {
+        "title": "Export Compliance Analyst"
+    },
+    "Bombardier:15466": {
+        "title": "Intern, Global 5500/6500 Aircraft Integration (Winter 2027)"
+    },
+    "Bombardier:15385": {
+        "title": "Intern, Research &amp; Technology Internship: EcoJet Project Management (Winter 2027)"
+    },
+    "Bombardier:15391": {
+        "title": "Intern, Research &amp; Technology: PDA Project Management (Winter 2027)"
+    },
+    "Bombardier:15390": {
+        "title": "Intern, Sales Strategy &amp; Enablement (Winter 2027)"
+    },
+    "Bombardier:15461": {
+        "title": "Manager, Engineering - Program and Engineering - Bombardier Experimental"
+    },
+    "Bombardier:15434": {
+        "title": "Methods Agent"
+    },
+    "Bombardier:15436": {
+        "title": "Methods Agent, Final Test Center"
+    },
+    "Bombardier:15484": {
+        "title": "Methods Agent, Natural Team (Green)"
+    },
+    "Bombardier:15460": {
+        "title": "Methods Agent, Production Support, Natural Team"
+    },
+    "Bombardier:15433": {
+        "title": "Project Manager / Scrum Master, Digital Transformation"
+    },
+    "Bombardier:14352": {
+        "title": "Project manager, Methods"
+    },
+    "Bombardier:15011": {
+        "title": "Propulsion Systems Engineer"
+    },
+    "SAP Vancouver:459251": {
+        "title": "Communications and Operations Senior Specialist (Temporary Contract) - SAP Canada"
+    },
+    "SAP Vancouver:459997": {
+        "title": "SAP iXp - Global Revenue Operations Intern - Project Management and Business Analysis"
+    },
+    "SAP Vancouver:456901": {
+        "title": "SAP iXp Intern - Support Engineer at Technical Support - Data &amp; Platform ABAP"
+    },
+    "Ericsson:788514": {
+        "title": "ASIC Verification Engineer"
+    },
+    "Ericsson:790945": {
+        "title": "CN Solution Delivery Transformation"
+    },
+    "Ericsson:790170": {
+        "title": "Co op Agentic AI Development"
+    },
+    "Ericsson:790547": {
+        "title": "Data Center Technician"
+    },
+    "Ericsson:789483": {
+        "title": "E2E Core Network Solution Architect"
+    },
+    "Ericsson:789272": {
+        "title": "Networks CNE Engineering Intern"
+    },
+    "Ericsson:790976": {
+        "title": "Program Lead NDO Telcel"
+    },
+    "Ericsson:790290": {
+        "title": "Sales Development Representative"
+    },
+    "Ericsson:790380": {
+        "title": "Senior Construction Manager"
+    },
+    "MNP Digital:cb1be9ff-e075-490d-8e43-99a42f2f6336": {
+        "title": "Analyst, Consulting Services"
+    },
+    "MNP Digital:9eb67667-deba-4044-aa07-9e400dd39fe4": {
+        "title": "Senior Consultant, Business AI"
+    },
+    "MNP Digital:bed48a66-b5a6-4e90-abce-64eb8a462641": {
+        "title": "Consultant, Consulting - Strategic Planning (Northeastern Ontario)"
+    },
+    "Versa Networks:52599B9AA8": {
+        "title": "Director of HR"
+    },
+    "Versa Networks:F8D023F093": {
+        "title": "Human Resources (HR) Manager"
+    },
+    "Versa Networks:86DCA3DCD1": {
+        "title": "VP of People & HR"
+    },
+    "Clearpath Robotics:/job/Monterrey-Nuevo-Leon-Mexico/Inventory-Control-Analyst_R26-6972": {
+        "title": "Inventory Control Analyst"
+    },
+    "Clearpath Robotics:/job/Sao-Paulo-Brazil/Intern--Project-Administrator_R26-6342": {
+        "title": "Intern, Project Administrator"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Executive-Assistant_JR2022902": {
+        "title": "Executive Assistant"
+    },
+    "NVIDIA:/job/Netherlands-Remote/Senior-Solutions-Architect--Networking-Solutions_JR2025043-1": {
+        "title": "Senior Solutions Architect, Networking Solutions"
+    },
+    "NVIDIA:/job/Germany-Munich/Senior-Developer-Relations-Manager---DACH_JR2025099": {
+        "title": "Senior Developer Relations Manager - DACH"
+    },
+    "NVIDIA:/job/Germany-Munich/Manager--Third-Party-Events---Europe_JR2024424": {
+        "title": "Manager, Third Party Events - Europe"
+    },
+    "NVIDIA:/job/France-Remote/Senior-Developer-Relations-Manager---France_JR2025100": {
+        "title": "Senior Developer Relations Manager - France"
+    },
+    "NVIDIA:/job/US-TX-Austin/Senior-Technical-Support-Engineer---Slurm_JR2025573": {
+        "title": "Senior Technical Support Engineer \u2013 Slurm"
+    },
+    "NVIDIA:/job/France-Remote/Media-Relations-Lead---France-and-Southern-Europe_JR2024939": {
+        "title": "Media Relations Lead - France and Southern Europe"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887": {
+        "title": "Security Research Engineer, AI Safety and Security Engineering"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Enterprise-AV-Design-and-Collaboration-Engineer_JR2025082": {
+        "title": "Enterprise AV Design and Collaboration Engineer"
+    },
+    "NVIDIA:/job/US-CA-Remote/Senior-Software-Engineer--AI-Agent-Compute_JR2025063": {
+        "title": "Senior Software Engineer, AI Agent Compute"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-Staff-Engineer---Employee-Productivity_JR2024564": {
+        "title": "Senior Staff Engineer - Employee Productivity"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Staff-Unified-Communications-Engineer_JR2025118": {
+        "title": "Staff Unified Communications Engineer"
+    },
+    "NVIDIA:/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1": {
+        "title": "Silicon Co-design Intern - 2027"
+    },
+    "NVIDIA:/job/US-WA-Seattle/Senior-Staff-Site-Reliability-Operations_JR2025124": {
+        "title": "Senior Staff Site Reliability Operations"
+    },
+    "NVIDIA:/job/US-DC-Remote/Senior-Solution-Architect--AI-Infrastructure_JR2025235": {
+        "title": "Senior Solution Architect, AI Infrastructure"
+    },
+    "NVIDIA:/job/US-NC-Durham/Senior-Staff-Site-Reliability-Operations-Technical-Lead_JR2025122": {
+        "title": "Senior Staff Site Reliability Operations Technical Lead"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Robotics-Simulation_JR2025348": {
+        "title": "Senior Solutions Architect, Robotics Simulation"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-AI-and-ML-Software-Engineer_JR2025455": {
+        "title": "Senior AI and ML Software Engineer"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Solutions-Architecture-Intern---Summer-2027_JR2025245": {
+        "title": "Solutions Architecture Intern - Summer 2027"
+    },
+    "NVIDIA:/job/Israel-Yokneam/DevOps-and-Automation-Engineer---ICPE_JR2025436-1": {
+        "title": "DevOps and Automation Engineer \u2013 ICPE"
+    },
+    "NVIDIA:/job/India-Mumbai/Senior-Solutions-Architect--Generative-AI_JR2025198": {
+        "title": "Senior Solutions Architect, Generative AI"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Infrastructure-Tools_JR2018693": {
+        "title": "Senior C++ Software Engineer - Infrastructure Tools"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-Hardware-Security-Architect_JR2025548": {
+        "title": "Senior Hardware Security Architect"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-High-Performance-AI-Engineer--Agentic-AI_JR2025164": {
+        "title": "Senior High Performance AI Engineer, Agentic AI"
+    },
+    "NVIDIA:/job/India-Bengaluru/Senior-System-Software-Engineer--Software-Defined-Networking_JR2025441": {
+        "title": "Senior System Software Engineer, Software Defined Networking"
+    },
+    "NVIDIA:/job/India-Bengaluru/Senior-Silicon-Engineer--Power-and-Thermal-Controllers_JR2025300": {
+        "title": "Senior Silicon Engineer, Power and Thermal Controllers"
+    },
+    "NVIDIA:/job/India-Bengaluru/Chip-Power-Estimation-Engineer_JR2025565": {
+        "title": "Chip Power Estimation Engineer"
+    },
+    "NVIDIA:/job/India-Bengaluru/Power-Architecture-Engineer_JR2025546": {
+        "title": "Power Architecture Engineer"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Director--Server-CPU-Product-Architecture_JR2025321": {
+        "title": "Director, Server CPU Product Architecture"
+    },
+    "Salesforce:/job/Germany---Munich/Account-Executive---Slack_JR359921": {
+        "title": "Account Executive - Slack"
+    },
+    "Salesforce:/job/Austria---Vienna/Account-Executive---Slack_JR359932": {
+        "title": "Account Executive - Slack"
+    },
+    "Salesforce:/job/Australia---Sydney/Forward-Deployed-Engineer----Agentforce-Operations--Regrillo-_JR359868": {
+        "title": "Forward Deployed Engineer  - Agentforce Operations (Regrillo)"
+    },
+    "Salesforce:/job/Georgia---Atlanta/Product-Marketing-Budget-Associate-Manager_JR358844": {
+        "title": "Product Marketing Budget Associate Manager"
+    },
+    "Salesforce:/job/Washington---Seattle/Product-Marketing-Sr-Lead_JR358683": {
+        "title": "Product Marketing Sr. Lead"
+    },
+    "Salesforce:/job/Washington---Seattle/Corp-Counsel_JR359504": {
+        "title": "Sustainability Corporate Counsel"
+    },
+    "Salesforce:/job/Washington---Seattle/Site-Reliability-Operations-Engineer_JR357770": {
+        "title": "Site Reliability Operations Engineer"
+    },
+    "Salesforce:/job/Australia---Sydney/Partner-Success-Technical-Architect_JR358030": {
+        "title": "Partner Success Technical Architect"
+    },
+    "Salesforce:/job/Washington---Seattle/Site-Reliability-Operations-Engineer_JR357769": {
+        "title": "Site Reliability Operations Engineer"
+    },
+    "Salesforce:/job/Georgia---Atlanta/Senior-Data-Engineer_JR359294-1": {
+        "title": "Senior Data Engineer"
+    },
+    "Salesforce:/job/Argentina---Buenos-Aires/ECS-Account-Executive_JR359396": {
+        "title": "ECS Account Executive"
+    },
+    "Salesforce:/job/Canada---Toronto/Data-and-Financial-Insights-Analyst_JR360001": {
+        "title": "Data and Financial Insights Analyst"
+    },
+    "Salesforce:/job/Georgia---Atlanta/Manager--Revenue-Strategy_JR359612": {
+        "title": "Manager, Revenue Strategy"
+    },
+    "Salesforce:/job/Germany---Munich/Agentforce-Operations-Account-Executive_JR359678": {
+        "title": "Agentforce Operations Account Executive"
+    },
+    "Salesforce:/job/Washington---Seattle/Data-Engineer_JR358418": {
+        "title": "Data Engineer"
+    },
+    "Salesforce:/job/New-York---New-York/Senior-Software-Engineer_JR357399": {
+        "title": "Senior Software Engineer"
+    },
+    "Salesforce:/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1": {
+        "title": "Software Engineer II (Full-Stack)"
+    },
+    "Salesforce:/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2": {
+        "title": "AI Builder Intern [Mexico]"
+    },
+    "Salesforce:/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969": {
+        "title": "AI Builder Intern [Brazil]"
+    },
+    "Adobe:/job/San-Jose/Sr-Staff-Engineer_R171717": {
+        "title": "Senior Staff Engineer"
+    },
+    "Adobe:/job/San-Jose/Machine-Learning-Engineer_R171718": {
+        "title": "Machine Learning Engineer"
+    },
+    "Adobe:/job/San-Jose/Machine-Learning-Engineer_R171719": {
+        "title": "Machine Learning Engineer"
+    },
+    "Adobe:/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856": {
+        "title": "2027 Intern - Enterprise Architecture Analyst"
+    },
+    "Adobe:/job/Remote-Illinois/Principal-Enterprise-Architect_R171035": {
+        "title": "Principal Enterprise Architect"
+    },
+    "Adobe:/job/San-Jose/Payments---Commercial-Abuse-Analyst_R171848": {
+        "title": "Payments & Commercial Abuse Analyst"
+    },
+    "Adobe:/job/San-Jose/Threat-Intelligence---Reverse-Engineering-Investigator_R171849": {
+        "title": "Threat Intelligence / Reverse Engineering Investigator"
+    },
+    "Adobe:/job/San-Jose/Senior-Customer-Success-Manager_R171799": {
+        "title": "Senior Customer Success Manager"
+    },
+    "Adobe:/job/San-Francisco/Senior-Community-Product-Manager_R171758": {
+        "title": "Senior Community Product Manager"
+    },
+    "Adobe:/job/Remote-New-York/Senior-Corporate-Account-Manager_R163417": {
+        "title": "Senior Corporate Account Manager"
+    },
+    "Cisco:/job/San-Jose-California-US/Senior-Software-Engineer--Control-Plane--Go----Hypershield_2022480": {
+        "title": "Senior Software Engineer, Control Plane (Go) - Hypershield"
+    },
+    "Cisco:/job/Durham-North-Carolina-US/Content-Designer--Remote-_2025596": {
+        "title": "Content Designer (Remote)"
+    },
+    "Cisco:/job/San-Jose-California-US/Principal-Software-Engineer_2025605": {
+        "title": "Principal Software Engineer"
+    },
+    "Cisco:/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594": {
+        "title": "Security Engineer (Remote)"
+    },
+    "Cisco:/job/Bangalore-India/Senior-Site-Reliability-Engineer--SRE----Technical-Leader--Kubernetes-Platform--IRAP-_2016283-1": {
+        "title": "Senior Site Reliability Engineer (SRE) \u2013 Technical Leader, Kubernetes Platform (IRAP)"
+    },
+    "Cisco:/job/San-Jose-California-US/Business-Systems-Analysis-Manager_2023958-1": {
+        "title": "Business Systems Analysis Manager"
+    },
+    "Cisco:/job/San-Jose-California-US/DevOps-Software-Engineer-Hybrid_2023709": {
+        "title": "DevOps Software Engineer Hybrid"
+    },
+    "Cisco:/job/Bangalore-India/Senior-Data-Engineer---Apache-Spark---Kafka---Flink---Trino---Iceberg---Big-Data---Streaming---Data-Platform-8-12-Years_2018748": {
+        "title": "Senior Data Engineer \u2013 Apache Spark | Kafka | Flink | Trino | Iceberg | Big Data | Streaming | Data Platform 8\u201312 Years"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Finance-Manager_2024281-1": {
+        "title": "Finance Manager"
+    },
+    "Cisco:/job/Annapolis-Junction-Maryland-US/Sales-Operations-Analyst-Hybrid_2023707-1": {
+        "title": "Sales Operations Analyst Hybrid"
+    },
+    "Cisco:/job/Annapolis-Junction-Maryland-US/Software-Engineer--Hybrid-_2023750": {
+        "title": "Software Engineer (Hybrid)"
+    },
+    "Cisco:/job/Seattle-Washington-US/Machine-Learning-Engineering-Technical-Leader_2023913": {
+        "title": "Machine Learning Engineering Technical Leader"
+    },
+    "Cisco:/job/San-Jose-California-US/DSE-Deal-Manager--Splunk_2020427": {
+        "title": "DSE Deal Manager, Splunk"
+    },
+    "Cisco:/job/San-Jose-California-US/Pricing-Business-Analyst_2023520-1": {
+        "title": "Pricing Business Analyst"
+    },
+    "Cisco:/job/Dallas-Texas-US/Solution-Engineer---Splunk--Remote-_2022453-1": {
+        "title": "Solution Engineer - Splunk (Remote)"
+    },
+    "Cisco:/job/Budapest-Hungary/Account-Executive---Small---Medium-Business_2023892-1": {
+        "title": "Account Executive - Small & Medium Business"
+    },
+    "Cisco:/job/San-Jose-California-US/Leader--Semiconductor-Product-Engineering_2024238": {
+        "title": "Leader, Semiconductor Product Engineering"
+    },
+    "Cisco:/job/San-Francisco-California-US/Product-Compliance-Manager--Remote-_2025600": {
+        "title": "Product Compliance Manager (Remote)"
+    },
+    "Cisco:/job/San-Jose-California-US/Product-Manager--SASE-Platform_2023445": {
+        "title": "Product Manager, SASE Platform"
+    },
+    "Cisco:/job/Dubai-United-Arab-Emirates/Director--General-Manager-Sales_2016756-1": {
+        "title": "Director, General Manager Sales"
+    },
+    "Cisco:/job/Milpitas-California-US/Engineering-Product-Manager--Cloud-Control-Studio_2024659": {
+        "title": "Engineering Product Manager, Cloud Control Studio"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Strategy---Planning--NPI---Lead_2020398-1": {
+        "title": "Strategy & Planning (NPI), Lead"
+    },
+    "Cisco:/job/San-Jose-California-US/Software-Engineer_2016728": {
+        "title": "Software Engineer"
+    },
+    "Cisco:/job/Columbia-South-Carolina-US/Solutions-Engineer_2018469-1": {
+        "title": "Solutions Engineer"
+    },
+    "Cisco:/job/San-Jose-California-US/Principal-Technical-Marketing-Engineer_2022719-1": {
+        "title": "Principal Technical Marketing Engineer"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Business-Segment-Strategy---Process-Manager_2025469": {
+        "title": "Business Segment Strategy & Process Manager"
+    },
+    "Cisco:/job/Chicago-Illinois-US/Account-Executive--Architecture_2022791": {
+        "title": "Inside Account Executive - Expansion"
+    },
+    "Expedia Group:/job/Canada---Quebec---Montreal/Gestionnaire-de-march-adjoint-e------Associate-Account-Manager_R-109518": {
+        "title": "Gestionnaire de march\u00e9 adjoint(e)   / Associate Account Manager"
+    },
+    "Arctic Wolf:/job/Remote-Canada/Staff-Software-Developer---Endpoint-Security_R26_910": {
+        "title": "Staff Software Developer - Endpoint Security"
+    },
+    "Arctic Wolf:/job/Remote-Canada/R-D-Tools-Senior-Developer_R26_1013": {
+        "title": "R&D Tools Senior Developer"
+    },
+    "Intel:/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932": {
+        "title": "Module Engineering PhD Intern"
+    },
+    "Intel:/job/Costa-Rica-San-Jose/Finance-Rebate-Analyst_JR0287140": {
+        "title": "Finance Rebate Analyst"
+    },
+    "Intel:/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021": {
+        "title": "Module Engineering PhD Intern New 2027"
+    },
+    "Intel:/job/US-Arizona-Phoenix/Semiconductor-Packaging-Integration-Research-Manager_JR0286872": {
+        "title": "Semiconductor Packaging Integration Research Manager"
+    },
+    "Intel:/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020": {
+        "title": "Module Engineering PhD Intern New 2027"
+    },
+    "Intel:/job/US-Oregon-Hillsboro/Module-Development-Engineer---LTD-Dry-Etch_JR0287217": {
+        "title": "Module Development Engineer - LTD Dry Etch"
+    },
+    "Intel:/job/US-Oregon-Hillsboro/Mid-level-Physical-Design-Engineer-CPU_JR0284896": {
+        "title": "Mid-level Physical Design Engineer CPU"
+    },
+    "Intel:/job/US-Arizona-Phoenix/Data-Scientist--Semiconductor-Manufacturing-Analytics_JR0287216": {
+        "title": "Data Scientist, Semiconductor Manufacturing Analytics"
+    },
+    "Intel:/job/US-Texas-Austin/Software-Product-Manager-AI-Acceleration_JR0287125": {
+        "title": "Software Product Manager AI Acceleration"
+    },
+    "Cadence:/job/Nanjing/Lead-Design-Engineer_R56212": {
+        "title": "Lead Design Engineer"
+    },
+    "Cadence:/job/SHANGHAI/Lead-Technical-Communications-Engineer_R56144": {
+        "title": "Lead Technical Communications Engineer"
+    },
+    "Cadence:/job/Nanjing/Design-Engineer-II_R56275": {
+        "title": "Design Engineer II"
+    },
+    "Cadence:/job/Nanjing/Design-Engineer-II_R56277": {
+        "title": "Design Engineer II"
+    },
+    "Cadence:/job/SAN-JOSE/Software-Engineer-II_R51818-1": {
+        "title": "Lead Software Engineer"
+    },
+    "Marvell:/job/Santa-Clara-CA/Principal-Engineer---Software-Firmware---CXL-PCIe_2503776": {
+        "title": "Principal Engineer , Software/Firmware - CXL/PCIe"
+    },
+    "Marvell:/job/Santa-Clara-CA/Staff-Engineer---Embedded-Firmware-Development---CXL---PCIe---Memory_2600112": {
+        "title": "Staff Engineer - Embedded Firmware Development - CXL / PCIe / Near-memory accelerator / Memory-Expansion Controllers"
+    },
+    "Marvell:/job/Santa-Clara-CA/Sr-Staff-Optical-Product-Engineer_2503368": {
+        "title": "Principal Product Engineer, Optics"
+    },
+    "Marvell:/job/US-CA---Santa-Clara/Principal-Professional---Oracle-EBS---Oracle-Cloud-Supply-Chain--Technical--AI--and-High-Tech-Industry-Expertise-_2603294": {
+        "title": "Principal Professional \u2013 Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise)"
+    },
+    "Marvell:/job/Santa-Clara-CA/Sr-IT-SOX-Compliance-Manager_2601897-1": {
+        "title": "Sr IT SOX/Compliance Manager"
+    },
+    "Marvell:/job/Santa-Clara-CA/Sr-Staff-Thermo-Mechanical-Engineer_2601616": {
+        "title": "Sr. Staff Thermo-Mechanical Engineer"
+    },
+    "Marvell:/job/Cordoba-Argentina/Summer-Program-Intern_2604538": {
+        "title": "Summer Program Intern"
+    },
+    "Broadcom:/job/USA-NM-Remote-Location/Forward-Deployed-Engineer--Staff-_R027075": {
+        "title": "Forward Deployed Engineer (Staff)"
+    },
+    "Broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Administrative-Support_R027099": {
+        "title": "Administrative Support"
+    },
+    "Broadcom:/job/USA-TX-Plano-Legacy-Drive-Suite-700/Product-Owner---Precision-Design-System-UX-UI_R026977": {
+        "title": "Product Owner - Precision Design System UX/UI"
+    },
+    "Broadcom:/job/USA-MD-Remote-Location/Senior-Program-Manager---Global-Professional-Services-Channel-Programs_R026369": {
+        "title": "Senior Program Manager \u2013 Global Professional Services Channel Programs"
+    },
+    "Broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/DSP-System-Architect_R027020": {
+        "title": "DSP System Architect"
+    },
+    "Broadcom:/job/USA-NY-Melville/R-D-Software-Engineer_R025496": {
+        "title": "R&D Software Engineer"
+    },
+    "Broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Engineer-Hardware-4_R026998": {
+        "title": "R&D Engineer Hardware 5"
+    },
+    "Broadcom:/job/USA-CA---Promontory-B/Software-Engineer-ESXi-CPU---Server-Platform_R025562": {
+        "title": "OS kernel system software development engineer"
+    },
+    "ABB Robotics:/job/Shanghai-Shanghai-China/Operation-Manager_JR00046502": {
+        "title": "Operation Manager"
+    },
+    "ABB Robotics:/job/Bogota-Cundinamarca-Colombia/Sales-Manager-AUEN-CO_JR00045293": {
+        "title": "Sales Manager AUEN CO"
+    },
+    "ABB Robotics:/job/USA-NC-Cary/Data-Center-Tender-Quotation-Specialist_JR00046314": {
+        "title": "Data Center Tender/Quotation Specialist"
+    },
+    "ABB Robotics:/job/USA-NC-Cary/Global-Customer-Application-Engineer_JR00042697": {
+        "title": "Global Customer Application Engineer"
+    },
+    "ABB Robotics:/job/Remote-New-Jersey-United-States-of-America/Senior-Field-Service-Technician_JR00031118": {
+        "title": "Senior Field Service Technician"
+    },
+    "ABB Robotics:/job/USA-MS-Senatobia/Supplier-Quality-and-Development-Engineer--SQE-SDE--_JR00036452-1": {
+        "title": "Supplier Quality and Development Engineer (SQE/SDE))"
+    },
+    "ABB Robotics:/job/So-Paulo-So-Paulo-Brazil/Analista-de-Suporte-a-Vendas-Pleno_JR00046806": {
+        "title": "Analista de Suporte a Vendas Pleno"
+    },
+    "ABB Robotics:/job/Remote-Illinois-United-States-of-America/OEM-Business-Development-Manager---East_JR00045828": {
+        "title": "OEM Business Development Manager - East"
+    },
+    "ABB Robotics:/job/Remote-Texas-United-States-of-America/OEM-Business-Development-Manager---West_JR00045827": {
+        "title": "OEM Business Development Manager - West"
+    },
+    "ABB Robotics:/job/USA-MS-Senatobia/Shift-Leader---Material-Handlers_JR00047233": {
+        "title": "Shift Leader \u2013 Material Handlers"
+    },
+    "ABB Robotics:/job/Remote-Washington-United-States-of-America/Field-Service-Technician_JR00046976": {
+        "title": "Field Service Technician"
+    },
+    "ABB Robotics:/job/Saint-Laurent-Quebec-Canada/Chef-fe--d-quipe_JR00044710": {
+        "title": "Production Team Lead"
+    },
+    "ABB Robotics:/job/Quebec-Quebec-Canada/Quality-Control-Technician_JR00046444": {
+        "title": "Quality Control Technician"
+    },
+    "ABB Robotics:/job/Remote-Georgia-United-States-of-America/Business-Development-Manager---Mining-and-Aggregates--VFDs-_JR00046572": {
+        "title": "Business Development Manager \u2013 Mining and Aggregates (VFDs)"
+    },
+    "ABB Robotics:/job/San-Pedro-Garza-Garcia-Nuevo-Len--Mexico/Key-Account-Manager-ELECTRIFICATION_JR00046998": {
+        "title": "Key Account Manager-ELECTRIFICATION"
+    },
+    "ABB Robotics:/job/San-Pedro-Garza-Garcia-Nuevo-Len--Mexico/Key-Account-Manager-Electrification_JR00046997": {
+        "title": "Key Account Manager-Electrification"
+    },
+    "ABB Robotics:/job/USA-MS-Senatobia/Assembler-II_JR00037791": {
+        "title": "Assembler II"
+    },
+    "CAE:/job/Montreal-St-Laurent/Analyst--Corporate-Strategy_123354": {
+        "title": "Analyst, Corporate Strategy"
+    },
+    "CAE:/job/Montreal-St-Laurent/Lead--D-S-Consolidation---Accounting_123143-1": {
+        "title": "Lead, D&S Consolidation & Accounting"
+    },
+    "Thales:/job/Vlizy-Villacoublay/Architecte-Industriel---F-H_R0339543-1": {
+        "title": "Architecte Industriel - F/H"
+    },
+    "Thales:/job/California/Regional-Marketing-Manager_R0337400-1": {
+        "title": "Regional Marketing Manager"
+    },
+    "Thales:/job/Ottawa/Data-Coordinator_R0339354-2": {
+        "title": "Data Coordinator"
+    },
+    "Thales:/job/Halifax---Wilkinson/DRMIS-Data-Coordinator_R0339351-2": {
+        "title": "DRMIS Data Coordinator"
+    },
+    "Thales:/job/Orlando/Supply-Chain-Program-Coordinator_R0338024-1": {
+        "title": "Supply Chain Program Coordinator"
+    },
+    "Thales:/job/Barueri/Estgio-em-Responsabilidade-Social_R0338765-1": {
+        "title": "Est\u00e1gio em Responsabilidade Social"
+    },
+    "Maxar Technologies:/job/Herndon-VA/Deployment-Strategist--Secret-_R24528": {
+        "title": "Deployment Strategist (Secret)"
+    },
+    "EXFO:/job/Quertaro-Mexico/Warehouse-Technician-Mexico_R-100355-1": {
+        "title": "Warehouse Technician Mexico"
+    },
+    "Clio:/job/Remote---USA/Sales-Operations-Specialist_REQ-4510": {
+        "title": "Sales Operations Manager, Channel"
+    },
+    "Clio:/job/Remote---USA/Director--Executive-Search_REQ-5125": {
+        "title": "Director, Executive Search"
+    },
+    "Clio:/job/Toronto/Senior-Customer-Success-Revenue-Enablement--Launch-Team_REQ-5154": {
+        "title": "Senior Customer Success Revenue Enablement, Launch Team"
+    },
+    "Clio:/job/Toronto/Account-Executive--Enterprise_REQ-5051-1": {
+        "title": "Account Executive, Enterprise"
+    },
+    "Capital One:/job/Richmond-VA/Senior-Manager--Software-Engineering--Back-End--Python--Java--Spark-_R1000234": {
+        "title": "Senior Manager, Software Engineering, Back End (Python, Java, Spark)"
+    },
+    "Capital One:/job/Plano-TX/Lead-Software-Engineer--DevOps--Network-Automation-_R1000552-1": {
+        "title": "Lead Software Engineer, DevOps (Network Automation)"
+    },
+    "Capital One:/job/Richmond-VA/Director--Project-Management---Bank-Tech-Operations_R1000506-1": {
+        "title": "Director, Project Management - Bank Tech Operations"
+    },
+    "Capital One:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": {
+        "title": "Senior Lead Data Engineer"
+    },
+    "Capital One:/job/San-Francisco--CA/Senior-Director--Technical-Program-Management---AI---Remote-Eligible-_R246138-1": {
+        "title": "Senior Director, Technical Program Management - AI  (Remote Eligible)"
+    },
+    "Capital One:/job/McLean-VA/Lead-Data-Engineer--Python--Spark--AWS-_R1000317-1": {
+        "title": "Lead Data Engineer (Python, Spark, AWS)"
+    },
+    "Capital One:/job/McLean-VA/Lead-Software-Engineer---Full-Stack_R1000472": {
+        "title": "Lead Software Engineer - Full Stack"
+    },
+    "Capital One:/job/McLean-VA/Manager--Project-Management---Card--Customer-Office-Team--Hybrid-_R245610-2": {
+        "title": "Manager, Project Management - Card, Customer Office Team (Hybrid)"
+    },
+    "Capital One:/job/McLean-VA/Manager--Co-brand-and-Strategic-Partnerships_R1000584-1": {
+        "title": "Manager, Co-brand and Strategic Partnerships"
+    },
+    "Capital One:/job/McLean-VA/Lead-Software-Engineer--Front-End_R1000578-1": {
+        "title": "Lead Software Engineer, Front End"
+    },
+    "Capital One:/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R1000425-1": {
+        "title": "Lead Software Engineer, Full Stack"
+    },
+    "Capital One:/job/Cambridge-MA/Part-Time-Applied-Data-Scientist_R1000592": {
+        "title": "Part-Time Applied Data Scientist"
+    },
+    "Capital One:/job/New-York-NY/Audit-Manager--Commercial-Bank--Hybrid-_R1000579-1": {
+        "title": "Audit Manager, Commercial Bank (Hybrid)"
+    },
+    "Capital One:/job/McLean-VA/Senior-Manager--Senior-Counsel---Commercial-Real-Estate-Lending_R1000583-1": {
+        "title": "Senior Manager, Senior Counsel - Commercial Real Estate Lending"
+    },
+    "Capital One:/job/McLean-VA/Director--Chief-of-Staff_R243587-2": {
+        "title": "Director, Chief of Staff"
+    },
+    "Capital One:/job/Riverwoods-IL/Lead-Software-Engineer--DevOps_R999396-2": {
+        "title": "Lead Software Engineer, DevOps"
+    },
+    "Capital One:/job/McLean-VA/Cyber-Product-Lead_R1000556-1": {
+        "title": "Cyber Product Lead"
+    },
+    "Capital One:/job/Takoma-Park-MD/Full-Time-Branch-Ambassador---Eastern-Maryland--Northwest-Cluster-_R1000575-1": {
+        "title": "Full Time Branch Ambassador - Eastern Maryland (Northwest Cluster)"
+    },
+    "Capital One:/job/McLean-VA/Principal-Associate-Third-Party-Manager_R1000539-1": {
+        "title": "Principal Associate Third Party Manager"
+    },
+    "Capital One:/job/Toronto-ON/Manager--Privacy-Compliance_R1000538-1": {
+        "title": "Manager, Privacy Compliance"
+    },
+    "Capital One:/job/Plano-TX/Senior-Manager-HR-Business-Partner--FS-Servicing_R1000273-1": {
+        "title": "Senior Manager HR Business Partner, FS Servicing"
+    },
+    "Capital One:/job/McLean-VA/Senior-Marketing-Associate---Social--US-Card-Performance-Marketing--Hybrid-_R999538-1": {
+        "title": "Senior Marketing Associate - Social, U.S. Card Performance Marketing (Hybrid)"
+    },
+    "Capital One:/job/Bronx-NY/Full-Time-Branch-Ambassador---Williamsbridge_R1000531-1": {
+        "title": "Full Time Branch Ambassador - Williamsbridge"
+    },
+    "Capital One:/job/New-York-NY/Lead-Software-Engineer_R1000307-1": {
+        "title": "Lead Software Engineer"
+    },
+    "Capital One:/job/New-York-NY/Lead-Data-Engineer_R1000308-2": {
+        "title": "Lead Data Engineer"
+    },
+    "Capital One:/job/New-York-NY/Senior-Business-Director_R1000546-1": {
+        "title": "Senior Business Director"
+    },
+    "Capital One:/job/Bethesda-MD/Full-Time-Branch-Ambassador---Montgomery-County--Mid-County-Cluster-_R1000542-1": {
+        "title": "Full Time Branch Ambassador - Montgomery County (Mid-County Cluster)"
+    },
+    "Capital One:/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R1000480-1": {
+        "title": "Lead Software Engineer, Full Stack"
+    },
+    "Capital One:/job/Atlanta-GA/Flex-Relationship-Manager_R249303-1": {
+        "title": "Flex Relationship Manager"
+    },
+    "Capital One:/job/Plano-TX/Lead-Software-Engineer--Full-Stack--Java--Python--Docker--AI---Enterprise-Platforms-Technology-_R1000336-1": {
+        "title": "Lead Software Engineer, Full Stack (Java, Python, Docker, AI) (Enterprise Platforms Technology)"
+    },
+    "Capital One:/job/San-Jose-CA/Applied-Researcher-I--AI-Foundations--LLM-Customization--Finetuning--Reinforcement-Learning-_R1000537-1": {
+        "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)"
+    },
+    "Capital One:/job/Chicago-IL/Senior-Manager-Data-Engineer--Databricks--Pyspark--Snowflake-_R1000387-1": {
+        "title": "Senior Manager Data Engineer (Databricks, Pyspark, Snowflake)"
+    },
+    "Capital One:/job/McLean-VA/Senior-Manager--Product-Design_R1000180-2": {
+        "title": "Senior Manager, Product Design"
+    },
+    "Capital One:/job/McLean-VA/Senior-Manager--Product-Design_R999824-2": {
+        "title": "Senior Manager, Product Design"
+    },
+    "Capital One:/job/New-York-NY/Applied-Researcher-II--AI-Foundations-_R1000524-1": {
+        "title": "Applied Researcher II (AI Foundations)"
+    },
+    "Capital One:/job/McLean-VA/Sr-Director--Global-Payment-Network---Business-Market-Strategy_R1000471": {
+        "title": "Sr. Director, Global Payment Network - Business Market Strategy"
+    },
+    "Capital One:/job/McLean-VA/Senior-Manager--Software-Engineering--Full-Stack_R999915-1": {
+        "title": "Senior Manager, Software Engineering, Full Stack"
+    },
+    "Capital One:/job/Gaithersburg-MD/Full-Time-Branch-Ambassador---Montgomery-County--North---East-Cluster-_R1000530-1": {
+        "title": "Full Time Branch Ambassador - Montgomery County (North & East Cluster)"
+    },
+    "Capital One:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III---Card_R1000448": {
+        "title": "Senior Administrative Assistant (Administrative Support Assistant III)- Card"
+    },
+    "Capital One:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R1000235": {
+        "title": "Senior Administrative Assistant (Administrative Support Assistant III)"
+    },
+    "Capital One:/job/McLean-VA/Senior-Lead-Software-Engineer--Marketing-and-Messaging-Experimentation_R1000479-1": {
+        "title": "Senior Lead Software Engineer, Marketing and Messaging Experimentation"
+    },
+    "Capital One:/job/Cambridge-MA/Lead-AI-Engineer--AI-Foundations-_R1000488-1": {
+        "title": "Lead AI Engineer (AI Foundations)"
+    },
+    "Motorola Solutions:/job/Buenos-Aires-Ar---bus-cntr-ZAR20/Senior-Accountant_R65391": {
+        "title": "Senior Accountant"
+    },
+    "Motorola Solutions:/job/Virginia-Remote-Work/Software-Customer-Service-Manager_R68195": {
+        "title": "Software Customer Service Manager"
+    },
+    "Motorola Solutions:/job/Vancouver-Canada/Senior-Business-System-Analyst--Order-Management-_R68826": {
+        "title": "Senior Business System Analyst (Order Management)"
+    },
+    "Motorola Solutions:/job/New-Hampshire-Remote-Work/Manager--Technical-Services---Customer-Support_R68133": {
+        "title": "Manager, Technical Services & Customer Support"
+    },
+    "Motorola Solutions:/job/Illinois-Remote-Work/Scaled-Customer-Success-Associate_R68804": {
+        "title": "Scaled Customer Success Associate"
+    },
+    "Motorola Solutions:/job/Chicago-IL/VS-A-Supply-Chain-Intern_R68739": {
+        "title": "VS&A Supply Chain Intern"
+    },
+    "Motorola Solutions:/job/New-Hampshire-US-Offsite/Product-Manager_R68164": {
+        "title": "Product Manager"
+    },
+    "Motorola Solutions:/job/Ontario-Remote-Work/Global-Product-Marketing-Manager---Cameras_R68266": {
+        "title": "Global Product Marketing Manager - Cameras"
+    },
+    "Motorola Solutions:/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669": {
+        "title": "Product Quality Engineering Intern"
+    },
+    "Motorola Solutions:/job/Illinois-Remote-Work/Technical-Trainer_R68500": {
+        "title": "Technical Trainer"
+    },
+    "Motorola Solutions:/job/Richardson-TX-TX145/GenAI-Engineering-Manager_R68814": {
+        "title": "GenAI Engineering Manager"
+    },
+    "Thomson Reuters:/job/United-States-of-America-Eagan-Minnesota/AI-Reliability-Manager_JREQ203294": {
+        "title": "AI Reliability Manager"
+    },
+    "Thomson Reuters:/job/United-States-of-America-New-York-New-York/Manager--Implementation-Services_JREQ203170": {
+        "title": "Manager, Implementation Services"
+    },
+    "Thomson Reuters:/job/Brazil-Campinas-So-Paulo/Analista-de-Suporte-Jnior---PL-SQL_JREQ203624": {
+        "title": "Analista de Suporte J\u00fanior - PL/SQL"
+    },
+    "Thomson Reuters:/job/United-States-of-America-Frisco-Texas/Cloud-Engineer---Professional-Services_JREQ203383": {
+        "title": "Cloud Engineer - Professional Services"
+    },
+    "Thomson Reuters:/job/United-States-of-America-Ann-Arbor-Michigan/Account-Specialist_JREQ203618": {
+        "title": "Account Specialist"
+    },
+    "Thomson Reuters:/job/United-States-of-America-Eagan-Minnesota/Accounting-and-Audit-CPA-Editor_JREQ200594": {
+        "title": "Accounting and Audit CPA Editor"
+    },
+    "Thomson Reuters:/job/Canada-Montreal-Quebec/Tax-support-agent_JREQ203534": {
+        "title": "Tax support agent"
+    },
+    "Thomson Reuters:/job/United-States-of-America-Ann-Arbor-Michigan/Senior-Account-Specialist_JREQ203477": {
+        "title": "Senior Account Specialist"
+    },
+    "General Motors:/job/San-Luis-Potosi-Mexico/Ingeniero-Ambiental_JR-202619796": {
+        "title": "Ingeniero Ambiental"
+    },
+    "General Motors:/job/Ramos-Arizpe-Coahuila-Mexico/Sr-Deployment-Engineer_JR-202619359": {
+        "title": "Sr Deployment Engineer"
+    },
+    "General Motors:/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103": {
+        "title": "Machine Learning Engineer, AI Inference Solutions (Early in Career)"
+    },
+    "General Motors:/job/Austin-Texas-United-States-of-America/Privacy-by-Design-Engineer_JR-202614481": {
+        "title": "Privacy by Design Engineer"
+    },
+    "General Motors:/job/Warren-Michigan-United-States-of-America/Global-Customer-Research-Analyst---Digital-Media--Apps---Websites-_JR-202619849": {
+        "title": "Global Customer Research Analyst \u2013 Digital Media (Apps & Websites)"
+    },
+    "General Motors:/job/Warren-Michigan-United-States-of-America/Senior-Software-Engineer---Java---Azure-Microservices_JR-202616111": {
+        "title": "Senior Software Engineer \u2013 Java & Azure Microservices"
+    },
+    "General Motors:/job/Sao-Caetano-do-Sul-Sao-Paulo-Brazil/Logistics-Analyst---So-Caetano-SP_JR-202618036": {
+        "title": "Logistics Analyst - S\u00e3o Caetano/SP"
+    },
+    "General Motors:/job/Sao-Caetano-do-Sul-Sao-Paulo-Brazil/Senior-Buyer_JR-202618619": {
+        "title": "Senior Buyer"
+    },
+    "General Motors:/job/Flint-Michigan-United-States-of-America/Manufacturing-Controls-Engineer_JR-202615376-1": {
+        "title": "Manufacturing Controls Engineer"
+    },
+    "General Motors:/job/Warren-Michigan-United-States-of-America/Chassis-Structure-Suspension-and-Driveline-VDDV--CAE--Engineer_JR-202619580": {
+        "title": "Chassis Structure Suspension and Driveline VDDV (CAE) Engineer"
+    },
+    "General Motors:/job/Warren-Michigan-United-States-of-America/Senior-creative-designer---exteriors_JR-202612324-1": {
+        "title": "Senior creative designer - exteriors"
+    },
+    "General Motors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer--Instrument-Panel--Floor-Console-and-Deco-Trim-Systems_JR-202614399": {
+        "title": "Design Release Engineer- Instrument Panel, Floor Console and Deco Trim Systems"
+    },
+    "General Motors:/job/Arlington-Texas-United-States-of-America/Entry-Level-Mechanical-Engineer_JR-202620162": {
+        "title": "Entry-Level Mechanical Engineer"
+    },
+    "General Motors:/job/Defiance-Ohio-United-States-of-America/Entry-Level-Manufacturing-Controls-Electrical-Engineer_JR-202620159": {
+        "title": "Entry-Level Manufacturing Controls/Electrical Engineer"
+    },
+    "General Motors:/job/Lansing-Michigan-United-States-of-America/Entry-Level-Paint-Process-Engineer_JR-202620152": {
+        "title": "Entry-Level Paint Process Engineer"
+    },
+    "General Motors:/job/General-Motors-LLC/Contracts-Manager---GM-Defense_JR-202616582-2": {
+        "title": "Contracts Manager - GM Defense"
+    },
+    "Canadian Tire Digital:/job/North-Bay-ON/Customer-Experience-Manager--McKeown-Ave_JR166076-1": {
+        "title": "Customer Experience Manager, McKeown Ave"
+    },
+    "Canadian Tire Digital:/job/Calgary-AB/Manager--Store-Modernization_JR165034": {
+        "title": "Manager, Store Modernization"
+    },
+    "Canadian Tire Digital:/job/Oakville-ON/Anti-Money-Laundering-Program-Manager_JR161216": {
+        "title": "Anti-Money Laundering Program Manager"
+    },
+    "Canadian Tire Digital:/job/Toronto-ON/Category-Business-Analyst---Party-City_JR165436": {
+        "title": "Category Business Analyst - Party City"
+    },
+    "TD:/job/Toronto-Ontario/Sr-Business-Systems-Analyst--TD-Securities_R_1509315": {
+        "title": "Sr. Business Systems Analyst, TD Securities"
+    },
+    "TD:/job/Brossard-Qubec/French-Bilingual-Contact-Center-Rep-II_R_1508331": {
+        "title": "French Bilingual Contact Center Rep II"
+    },
+    "TD:/job/Houston-Texas/Vice-President---Treasury-Solutions-Corporate---GTB--TD-Securities_R_1510663": {
+        "title": "Vice President - Treasury Solutions Corporate - GTB, TD Securities"
+    },
+    "TD:/job/Toronto-Ontario/Contact-Center-Rep-II_R_1508330": {
+        "title": "Contact Center Rep II"
+    },
+    "TD:/job/Toronto-Ontario/Senior-Data-Modeller---Data-Product-Designer---Enterprise-Payments-_R_1498893-1": {
+        "title": "Senior Data\u00a0Modeller\u00a0/ Data Product Designer \u2014 Enterprise Payments\u00a0"
+    },
+    "TD:/job/Charlotte-North-Carolina/Audit-Manager-I--US----Financial-Crimes---Fraud---Insider-Risk_R_1510668": {
+        "title": "Audit Manager I (US) - Financial Crimes - Fraud & Insider Risk"
+    },
+    "TD:/job/Welland-Ontario/Personal-Banking-Associate_R_1510483-1": {
+        "title": "Personal Banking Associate"
+    },
+    "TD:/job/125-The-Queensway-Toronto-Ontario/Customer-Experience-Associate_R_1510199-1": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/Montral-Qubec/Account-Manager--Small-Business_R_1492248-1": {
+        "title": "Account Manager, Small Business"
+    },
+    "TD:/job/Vancouver-British-Columbia/Customer-Experience-Associate---Spanish-and-or-Japanese-Language-Skills-an-Asset_R_1510220": {
+        "title": "Customer Experience Associate - Spanish and/or Japanese Language Skills an Asset"
+    },
+    "TD:/job/Maple-Ridge-British-Columbia/Customer-Experience-Associate---Korean-and-or-Punjabi-Language-Skills-an-Asset_R_1509844": {
+        "title": "Customer Experience Associate - Korean and/or Punjabi Language Skills an Asset"
+    },
+    "TD:/job/Toronto-Ontario/Senior-Financial-Crime-Risk-Analyst--FCRM-Reporting--5327-_R_1506596": {
+        "title": "Senior Financial Crime Risk Analyst, FCRM Reporting and Strategic Insights (5327)"
+    },
+    "TD:/job/Vancouver-British-Columbia/Manager-Commercial-Services--National-Real-Estate-Group_R_1510375": {
+        "title": "Manager Commercial Services, National Real Estate Group"
+    },
+    "TD:/job/TD-Centre---West---100-Wellington-Street-West-Toronto-Ontario/Manager-Governance-and-Control--ATHN464-_R_1508467": {
+        "title": "Manager Governance and Control (ATHN464)"
+    },
+    "TD:/job/Regina-Saskatchewan/Customer-Experience-Associate_R_1509657": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/Toronto-Ontario/Senior-Governance---Control-Analyst--ATHN466-_R_1508236": {
+        "title": "Senior Governance & Control Analyst (ATHN466)"
+    },
+    "TD:/job/Brampton-Ontario/Senior-Personal-Banker---Home-Borrowing_R_1496573": {
+        "title": "Senior Personal Banker - Home Borrowing"
+    },
+    "TD:/job/Surrey-British-Columbia/Financial-Planner--Surrey--Cedar-Hill_R_1510352": {
+        "title": "Financial Planner- Surrey, Cedar Hill"
+    },
+    "TD:/job/Ossining-New-York/Store-Manager-II---Ossining--Bilingual-Spanish-Preferred-_R_1509551": {
+        "title": "Store Manager II - Ossining (Bilingual Spanish Preferred)"
+    },
+    "TD:/job/Burnaby-British-Columbia/Personal-Banking-Associate-Trainee_R_1510755": {
+        "title": "Personal Banking Associate Trainee"
+    },
+    "TD:/job/Mount-Laurel-New-Jersey/Software-Developer---Software-Engineer-II--US-_R_1510347": {
+        "title": "Software Developer / Software Engineer II (US)"
+    },
+    "TD:/job/Mount-Laurel-New-Jersey/Client-Outreach---Capabilities-Strategy--Sr-Manager_R_1509395": {
+        "title": "Client Outreach & Capabilities Strategy, Sr Manager"
+    },
+    "TD:/job/Mount-Laurel-New-Jersey/Client-Outreach-Delivery-Manager_R_1509399-1": {
+        "title": "Client Outreach Delivery Manager"
+    },
+    "TD:/job/Washington-District-of-Columbia/Retail-Banker-II-Float--7th-I-_R_1502822": {
+        "title": "Relationship Banker II (Sr.) Float (7th&I)"
+    },
+    "TD:/job/Mount-Laurel-New-Jersey/Retail-Programs-Delivery-Manager_R_1509398": {
+        "title": "Retail Programs Delivery Manager"
+    },
+    "TD:/job/Darien-Connecticut/Store-Supervisor---Darien--Bilingual-Spanish-Preferred-_R_1509458": {
+        "title": "Store Supervisor - Darien (Bilingual Spanish Preferred)"
+    },
+    "TD:/job/Bridgeport-Connecticut/Relationship-Banker-I---Bridgeport-Old-Town-Road--Bilingual-Spanish-Preferred-_R_1509845": {
+        "title": "Relationship Banker I - Bridgeport/Old Town Road (Bilingual Spanish Preferred)"
+    },
+    "TD:/job/Hull-Qubec/Customer-Experience-Associate---Hull--St-Joseph--Part-time--15h-week-_R_1509615": {
+        "title": "Customer Experience Associate - Hull, St. Joseph (Part-time, 15h/week)"
+    },
+    "TD:/job/Vienna-Virginia/Relationship-Banker-I--PT-30--Tysons-Corner-_R_1509868": {
+        "title": "Relationship Banker I- PT 30 (Tysons Corner)"
+    },
+    "TD:/job/Oakland-Park-Florida/Associate-Banker-II--30-Hours-Weekly----Oakland-Park_R_1509789": {
+        "title": "Associate Banker II (30 Hours Weekly) - Oakland Park"
+    },
+    "TD:/job/Langley-British-Columbia/Personal-Banking-Associate-Trainee--Korean-Language-Skills-an-Asset-_R_1510332": {
+        "title": "Personal Banking Associate Trainee (Korean Language Skills an Asset)"
+    },
+    "TD:/job/Forest-Hills-New-York/Associate-Banker-II---Forest-Hills-Metro--Bilingual-Mandarin-or-Russian-Preferred-_R_1505643": {
+        "title": "Associate Banker II - Forest Hills Metro (Bilingual Mandarin or Russian Preferred)"
+    },
+    "TD:/job/Mississauga-Ontario/Operations-Officer-II_R_1508046-1": {
+        "title": "Operations Officer II"
+    },
+    "TD:/job/401---22259-48th-Avenue-Langley-British-Columbia/Personal-Banking-Associate-Trainee_R_1510126": {
+        "title": "Personal Banking Associate Trainee"
+    },
+    "TD:/job/Toronto-Ontario/Data-Designer-II_R_1509303": {
+        "title": "Data Designer II"
+    },
+    "TD:/job/Middletown-Delaware/Relationship-Banker-I---Middletown-_R_1510717": {
+        "title": "Relationship Banker I ( Middletown)"
+    },
+    "TD:/job/Toronto-Ontario/Data-Engineer-III_R_1510288": {
+        "title": "Data Engineer III"
+    },
+    "TD:/job/Arlington-Massachusetts/Financial-Advisor--Multiple-Levels----Arlington--Massachusetts_R_1510710": {
+        "title": "Financial Advisor (Multiple Levels) - Arlington, Massachusetts"
+    },
+    "TD:/job/Richmond-British-Columbia/Customer-Experience-Associate--Cantonese-or-Mandarin-Language-Skills-an-Asset-_R_1509663": {
+        "title": "Customer Experience Associate (Cantonese or Mandarin Language Skills an Asset)"
+    },
+    "TD:/job/Saint-Lambert-Qubec/Personal-Banking-Associate-Trainee---Chateauguay--Full-time--375h-week-_R_1509945": {
+        "title": "Personal Banking Associate Trainee - Saint Lambert (Full-time, 37.5h/week)"
+    },
+    "TD:/job/Richmond-British-Columbia/Personal-Banking-Associate-Trainee--Mandarin-or-Cantonese-Language-Skills-an-asset-_R_1507065": {
+        "title": "Personal Banking Associate Trainee (Mandarin or Cantonese Language Skills an asset)"
+    },
+    "TD:/job/Toronto-Ontario/Customer-Experience-Associate_R_1509660-1": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/4515-Kingston-Road-Scarborough-Ontario/Personal-Banking-Associate-Trainee---Scarborough-North--Ajax-and-Pickering_R_1510725-1": {
+        "title": "Personal Banking Associate Trainee - Scarborough North, Ajax and Pickering"
+    },
+    "TD:/job/Edmonton-Alberta/Personal-Banking-Associate_R_1509590": {
+        "title": "Personal Banking Associate"
+    },
+    "TD:/job/New-York-New-York/Sr-Counsel---US-Anti-Financial-Crimes-and-Litigation_R_1484843": {
+        "title": "Sr. Counsel - U.S. Anti-Financial Crimes and Litigation"
+    },
+    "TD:/job/Toronto-Ontario/Software-Engineer-II_R_1510307-1": {
+        "title": "Software Engineer II"
+    },
+    "TD:/job/Brampton-Ontario/Senior-Personal-Banker-Trainee---Investing_R_1510695-1": {
+        "title": "Senior Personal Banker Trainee - Investing"
+    },
+    "TD:/job/Scarborough-Ontario/Personal-Banking-Associate-Trainee_R_1509133-1": {
+        "title": "Personal Banking Associate Trainee"
+    },
+    "TD:/job/Stamford-Connecticut/Retail-Banker-I---Stamford-Downtown--Bilingual-Spanish-Preferred-_R_1493743": {
+        "title": "Relationship Banker I - Stamford/Downtown (Bilingual Spanish Preferred)"
+    },
+    "TD:/job/7250-Mile-End-Montreal-Quebec/Bilingual-Contact-Center-Representative--Canadian-Banking--Credit-Cards_R_1503518": {
+        "title": "Bilingual Contact Center Representative, Canadian Banking, Credit Cards"
+    },
+    "TD:/job/Toronto-Ontario/Group-Risk-Specialist--Fraud-and-Insider-Risk-Management--5415-_R_1510188": {
+        "title": "Group Risk Specialist, Fraud and Insider Risk Management (5415)"
+    },
+    "TD:/job/Kitchener-Ontario/Personal-Banking-Associate-Trainee_R_1508806": {
+        "title": "Personal Banking Associate Trainee"
+    },
+    "TD:/job/Cardston-Alberta/Personal-Banking-Associate-Trainee_R_1510353": {
+        "title": "Personal Banking Associate Trainee"
+    },
+    "TD:/job/Washington-District-of-Columbia/Retail-Banker-II-Float--7th---I-_R_1502823-1": {
+        "title": "Relationship Banker II (Sr.) Float (7th & I)"
+    },
+    "TD:/job/Calgary-Alberta/Workplace-Ambassador_R_1500676": {
+        "title": "Workplace Ambassador"
+    },
+    "TD:/job/Remote-Philadelphia-PA/Risk-Manager-II--US--Unsecured-Lending_R_1510696": {
+        "title": "Risk Manager II (US) Unsecured Lending"
+    },
+    "TD:/job/Brossard-Qubec/Associ--Services-Bancaires-Personnels---Brossard--Lapinire--Full-time--375h-week-_R_1509643": {
+        "title": "Associ\u00e9, Services Bancaires Personnels - Brossard, Lapini\u00e8re (Full-time, 37.5h/week)"
+    },
+    "TD:/job/Toronto-Ontario/Modelling-Forecasting-Senior-Analyst_R_1507755": {
+        "title": "Modelling/Forecasting Senior Analyst"
+    },
+    "TD:/job/New-York-New-York/Wealth-Lending-Specialist---New-York--NY_R_1510708": {
+        "title": "Wealth Lending Specialist - New York, NY"
+    },
+    "TD:/job/Boca-Raton-Florida/Banking-Associate--30-Hours-Weekly----Boca-Raton-Federal--Bilingual-Spanish-Preferred-_R_1500638-1": {
+        "title": "Associate Banker II (30 Hours Weekly) - Boca Raton Federal (Bilingual Spanish Preferred)"
+    },
+    "TD:/job/Greenville-South-Carolina/Wealth-Lending-Advisor---Greenville--SC_R_1510702": {
+        "title": "Wealth Lending Advisor - Greenville, SC"
+    },
+    "TD:/job/Melville-New-York/Senior-Wealth-Lending-Advisor---Melville--NY_R_1510682": {
+        "title": "Senior Wealth Lending Advisor - Melville, NY"
+    },
+    "TD:/job/51-Avenue-du-Mont-Royal-Ouest-Montreal-Quebec/Customer-Experience-Associate_R_1510693": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/Albany-New-York/Banking-Associate--Central-Ave-_R_1495265": {
+        "title": "Associate Banker II (Central Ave.) Albany, Upstate NY"
+    },
+    "TD:/job/Ottawa-Ontario/Customer-Experience-Associate_R_1509963": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/Coteau-du-Lac-Qubec/Customer-Experience-Associate_R_1510689": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/Montral-Qubec/Customer-Experience-Associate_R_1510683": {
+        "title": "Customer Experience Associate"
+    },
+    "TD:/job/Toronto-Ontario/Treasury-Analyst--Liquidity-Measurement---Analytics---Reporting_R_1502662": {
+        "title": "Treasury Analyst, Liquidity Measurement - Analytics & Reporting"
+    },
+    "TD:/job/Miami-Florida/Associate-Banker-II--20-Hours-Weekly-Bilingual-Spanish-Preferred----Miami-West-Kendall_R_1508294": {
+        "title": "Associate Banker II (20 Hours Weekly/Bilingual Spanish Preferred) - Miami/West Kendall"
+    },
+    "TD:/job/Philadelphia-Pennsylvania/Relationship-Banker-I-City-Line-Avenue_R_1510670": {
+        "title": "Relationship Banker I/City Line Avenue"
+    },
+    "TD:/job/Mount-Laurel-New-Jersey/Information-Security-Specialist--US-_R_1507506": {
+        "title": "Information Security Specialist (US)"
+    },
+    "TD:/job/Penticton-British-Columbia/Customer-Experience-Associate---Penticton-Open-House-Meet---Greet-Event---October-7th--2026_R_1510655": {
+        "title": "Customer Experience Associate - Penticton Open House Meet & Greet Event - October 7th, 2026"
+    },
+    "TD:/job/Topsfield-Massachusetts/Assistant-Store-Manager---Topsfield--MA_R_1510428": {
+        "title": "Assistant Store Manager - Topsfield, MA"
+    },
+    "TD:/job/New-York-New-York/Credit-Analyst-II--US-_R_1508913": {
+        "title": "Credit Analyst II (US)"
+    },
+    "TD:/job/Manassas-Virginia/Retail-Banker-II_R_1502079": {
+        "title": "Relationship Banker II (Sr.) Manassas Liberia"
+    },
+    "TD:/job/Markham-Ontario/Personal-Banking-Associate_R_1504149-1": {
+        "title": "Personal Banking Associate"
+    },
+    "BMO:/job/Toronto-ON-CAN/Senior-Manager--Communications_R260025964": {
+        "title": "Senior Manager, Communications"
+    },
+    "BMO:/job/Toronto-ON-CAN/Director--Digital-Assets-Platform_R260025857": {
+        "title": "Director, Digital Assets Platform"
+    },
+    "BMO:/job/Chicago-IL-USA/Principal-Azure-Cloud-Engineer_R260011399": {
+        "title": "Principal Azure Cloud Engineer"
+    },
+    "BMO:/job/San-Francisco-CA-USA/Senior-Portfolio-Manager-Technology-Banking_R260026452": {
+        "title": "Senior Portfolio Manager Technology Banking"
+    },
+    "BMO:/job/Toronto-ON-CAN/Manager--Risk-Data-Governance_R260026403": {
+        "title": "Manager, Risk Data Governance"
+    },
+    "BMO:/job/Westfield-IN-USA/Retail-Relationship-Banker_R260026605": {
+        "title": "Retail Relationship Banker"
+    },
+    "BMO:/job/Indianapolis-IN-USA/Retail-Relationship-Banker_R260026613": {
+        "title": "Retail Relationship Banker"
+    },
+    "BMO:/job/Indianapolis-IN-USA/Retail-Relationship-Banker_R260026584": {
+        "title": "Retail Relationship Banker"
+    },
+    "BMO:/job/Milwaukee-WI-USA/Payables-Consultant---EMM-Midwest_R260026011": {
+        "title": "Payables Consultant - EMM Midwest"
+    },
+    "BMO:/job/Gridley-CA-USA/Retail-Relationship-Banker_R260026556": {
+        "title": "Retail Relationship Banker"
+    },
+    "BMO:/job/Carmel-IN-USA/Retail-Relationship-Banker_R260024236": {
+        "title": "Retail Relationship Banker"
+    },
+    "BMO:/job/Niwot-CO-USA/Retail-Relationship-Banker_R260026572": {
+        "title": "Retail Relationship Banker"
+    },
+    "BMO:/job/Barrie-ON-CAN/Mortgage-Specialist_R260026464": {
+        "title": "Mortgage Specialist"
+    },
+    "BMO:/job/Glen-Ellyn-IL-USA/Financial-Advisor_R260026430": {
+        "title": "Financial Advisor"
+    },
+    "CIBC:/job/Surrey-BC/Financial-Services-Representative_2618685": {
+        "title": "Financial Services Representative"
+    },
+    "CIBC:/job/Niagara-Falls-ON/Financial-Advisor-CIRO-MFD_2618514-1": {
+        "title": "Financial Advisor CIRO-MFD"
+    },
+    "CIBC:/job/Toronto-ON/Director--Product-Owner---Payments-Infrastructure---Transaction-Processing---Simplii-Financial_2614520": {
+        "title": "Director, Product Owner \u2013 Payments Infrastructure & Transaction Processing - Simplii Financial"
+    },
+    "CIBC:/job/Amherstburg-ON/Sr-Client-Service-Representative--Hourly-_2618693": {
+        "title": "Sr. Client Service Representative [Hourly]"
+    },
+    "CIBC:/job/Ottawa-ON/Client-Service-Representative--Hourly-_2616862": {
+        "title": "Client Service Representative [Hourly]"
+    },
+    "CIBC:/job/Toronto-ON/Senior-Counsel--Commercial-Contracts_2618610": {
+        "title": "Senior Counsel, Commercial Contracts"
+    },
+    "CIBC:/job/Toronto-ON/Financial-Services-Representative-II_2615655": {
+        "title": "Financial Services Representative II"
+    },
+    "CIBC:/job/Toronto-ON/Director--Policy-Strategy_2618355": {
+        "title": "Director, Policy Strategy"
+    },
+    "CIBC:/job/Kanata-ON/Financial-Services-Representative_2618238-1": {
+        "title": "Financial Services Representative"
+    },
+    "CIBC:/job/Toronto-ON/Project-Manager--Enterprise-Real-Estate_2617775": {
+        "title": "Project Manager, Enterprise Real Estate"
+    },
+    "CIBC:/job/Surrey-BC/Financial-Advisor_2618689": {
+        "title": "Financial Advisor"
+    },
+    "CIBC:/job/Toronto-ON/Director--Design-and-Solutions_2618506": {
+        "title": "Director, Design and Solutions"
+    },
+    "CIBC:/job/XMLNAME-2027-Analyst-I--Global-Leveraged-Finance_2618687-1": {
+        "title": "2027 Analyst I, Global Leveraged Finance (Houston)"
+    },
+    "CIBC:/job/Toronto-ON/Financial-Services-Associate--Imperial-Service_2615875-1": {
+        "title": "Financial Services Associate, Imperial Service"
+    },
+    "CIBC:/job/Princeton-BC/Associate-Financial-Advisor_2618587-1": {
+        "title": "Associate Financial Advisor"
+    },
+    "CIBC:/job/Toronto-ON/Financial-Services-Representative-II_2618405": {
+        "title": "Financial Services Representative II"
+    },
+    "CIBC:/job/Qubec-City-QC/Mobile-Mortgage-Advisor---Bilingual--Quebec-City-_2618520": {
+        "title": "Mobile Mortgage Advisor \u2013 Bilingual (Quebec City)"
+    },
+    "CIBC:/job/Regina-SK/Contact-Centre-Representative--Telephone-Banking-Inbound--Remote---12-month-contract_2618678": {
+        "title": "Contact Centre Representative (Telephone Banking Inbound, Remote)- 12 month contract"
+    },
+    "CIBC:/job/New-York-NY/Senior-Auditor---US-Wealth-Management_2618642": {
+        "title": "Senior Auditor,  US Wealth Management"
+    },
+    "CIBC:/job/Sherbrooke-KingBelvedere/Mobile-Mortgage-Advisor---Bilingual_2618576": {
+        "title": "Mobile Mortgage Advisor \u2013 Bilingual"
+    },
+    "CIBC:/job/Edmonton-AB/Client-Service-Representative--Hourly-_2618335": {
+        "title": "Client Service Representative [Hourly]"
+    },
+    "CIBC:/job/Montral-QC/CIBC--Private-Wealth-Rotational-Program---Virtual-Information-Session-Bilingual_2616214": {
+        "title": "CIBC- Private Wealth Rotational Program - Virtual Information Session-Bilingual"
+    },
+    "Manulife:/job/Boston-Massachusetts/Senior-Manager--Product-Development_JR26070437-1": {
+        "title": "Senior Manager, Product Development"
+    },
+    "Manulife:/job/CAN-Ontario-Waterloo-500-King-Street-North/Gestionnaire--risques-et-supervision-des-fournisseurs---Rclamations-voyage_JR26090024-1": {
+        "title": "Manager, Travel Claims Vendor Risk & Oversight"
+    },
+    "Manulife:/job/Boston-Massachusetts/Product-Manager_JR26070996-1": {
+        "title": "Product Manager"
+    },
+    "Manulife:/job/Montreal-Quebec/Client-Reporting-Analyst_JR26070454": {
+        "title": "Client Reporting Analyst"
+    },
+    "Manulife:/job/CAN-Nova-Scotia-Halifax-2727-Joseph-Howe-Drive/Customer-Service-Professional_JR26070279": {
+        "title": "Customer Service Professional"
+    },
+    "Manulife:/job/Charlotte-North-Carolina/Resource-Analyst--Timberland-Investments_JR26090213": {
+        "title": "Resource Analyst, Timberland Investments"
+    },
+    "Sun Life:/job/Toronto-Ontario/Student--Agile-and-Lean-Analyst--Winter-2027-_JR00126907": {
+        "title": "Student, Agile and Lean Analyst (Winter 2027)"
+    },
+    "Autodesk:/job/AMER---United-States---North-Carolina---OffsiteHome/Executive-Assistant--Global-Expansion-Sales_26WD100959": {
+        "title": "Executive Assistant, Global Expansion Sales"
+    },
+    "Autodesk:/job/AMER---Canada---Ontario---OffsiteHome/Dev-P3--Model-Coordination-_26WD98795-1": {
+        "title": "Senior Software Developer (Web) (Remote)"
+    },
+    "Autodesk:/job/San-Francisco-CA-USA/Director--Communications-Business-Partner--Design---Manufacturing_26WD98676-1": {
+        "title": "Director, Communications Business Partner, Design & Manufacturing"
+    },
+    "Autodesk:/job/Toronto-ON-CAN/Senior-Software-Developer_26WD99609-1": {
+        "title": "Senior Software Developer"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Aguadilla-Puerto-Rico-Puerto-Rico/Networking-Qualification-Engineer-II_1208441-2": {
+        "title": "Networking Qualification Engineer II"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Mexico-City-Distrito-Federal-Mexico/Cybersecurity-Sales-Specialist---Enterprise-Mexico_1212123-2": {
+        "title": "Cybersecurity Sales Specialist - Enterprise Mexico"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Aguadilla-Puerto-Rico-Puerto-Rico/Senior-Supply-Chain_1214341-5": {
+        "title": "Senior Supply Chain"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Sunnyvale-California-United-States-of-America/Chief-of-Staff--Data-Center-Engineering---HPE-Networking_1214912-2": {
+        "title": "Chief of Staff, Data Center Engineering \u2014 HPE Networking"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/All-Texas-United-States-of-America/Data-Protection-Sales-Specialist_1207410-2": {
+        "title": "Data Protection Sales Specialist"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/Product-Manager-for-GreenLake---Networking_1214472-3": {
+        "title": "Product Manager for GreenLake - Networking"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Bloomington-Minnesota-United-States-of-America/HPC-and-AI-Performance-Engineer_1212980-3": {
+        "title": "HPC and AI Performance Engineer"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/Supply-Chain---Logistics-Partner-Onboarding-Lead_1212313-2": {
+        "title": "Supply Chain:  Logistics Partner Onboarding Lead"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/SAP-Basis-SME_1212348-3": {
+        "title": "SAP Basis SME"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/XMLNAME--SAP-BRIM-Implementation---Project-Manager_1212318-3": {
+        "title": "\u00a0SAP-BRIM Implementation / Project Manager"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/SAP-Subscription-Management---SOM--BRIM--Solution-Architect_1212319-2": {
+        "title": "SAP Subscription Management - SOM (BRIM) Solution Architect"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/Supply-Chain--IT-Project-Manager_1212315-2": {
+        "title": "Supply Chain: IT Project Manager"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/Supply-Chain--Supplier-Onboarding-Lead_1212310-2": {
+        "title": "Supply Chain: Supplier Onboarding Lead"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/Supply-Chain---Oracle-Supply-Chain-Planning---S4-aATP-Functional-Analyst_1212314-2": {
+        "title": "Supply Chain:  Oracle Supply Chain Planning / S4 aATP Functional Analyst"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/SAP-Order-Management-SME--Order-Capture-_1212317-2": {
+        "title": "SAP Order Management SME (Order Capture)"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/San-Jose-California-United-States-of-America/Pricing-Solutions-Architect_1212316-2": {
+        "title": "Pricing Solutions Architect"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Spring-Texas-United-States-of-America/Program-Manager-Intern_1213486": {
+        "title": "Program Manager Intern"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1": {
+        "title": "Embedded Software Test Engineer Graduate"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Spring-Texas-United-States-of-America/Executive-Talent-Solutions-Lead_1212342-2": {
+        "title": "Executive Talent Solutions Lead"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Warszawa-Poland/Network-Solutions-Sales-Specialist_1211253-2": {
+        "title": "Network Solutions Sales Specialist"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Heredia-Heredia-Costa-Rica/Junior-Embedded-Software-Engineer_1213715": {
+        "title": "Junior Embedded Software Engineer"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/All-Massachusetts-United-States-of-America/Storage-Sales-Specialist_1206845-2": {
+        "title": "Storage Sales Specialist"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Winnersh-Berkshire-United-Kingdom/Hybrid-Cloud-Solution-Sales-UKIMEA-Leader_1210773-3": {
+        "title": "Hybrid Cloud Solution Sales UKIMEA Leader"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Tlaquepaque-Jalisco-Mexico/Customer-Service_1212435-1": {
+        "title": "Customer Service"
+    },
+    "Caterpillar:/job/North-Little-Rock-Arkansas/Industrial-HVAC-Technician_R0000394158": {
+        "title": "Industrial HVAC Technician"
+    },
+    "Caterpillar:/job/Abidjan-Cte-dIvoire/Physical-Availability---Site-Performance-Manager_R0000393226": {
+        "title": "Physical Availability & Site Performance Manager"
+    },
+    "Caterpillar:/job/Cienega-de-Flores-Facility-6/Supervisor---Supervisora-de-Produccin_R0000393378": {
+        "title": "Supervisor / Supervisora de Producci\u00f3n"
+    },
+    "Caterpillar:/job/Cienega-de-Flores-Nuevo-Len/Supervisor---Supervisora-Produccin--rea-de-ensamble-_R0000392438": {
+        "title": "Supervisor / Supervisora Producci\u00f3n (\u00e1rea de ensamble)"
+    },
+    "Caterpillar:/job/Peterborough-United-Kingdom/Logistics-Engineering---12-Month-Placement-Student_R0000388675": {
+        "title": "Logistics Engineering - 12 Month Placement Student"
+    },
+    "Caterpillar:/job/Fort-Worth-Texas/Commissioning-Engineer_R0000392345": {
+        "title": "Commissioning Engineer"
+    },
+    "Caterpillar:/job/East-Peoria-Illinois/Controls---Automation-Engineering-Specialist_R0000394073": {
+        "title": "Controls & Automation Engineering Specialist"
+    },
+    "Caterpillar:/job/Lafayette-Indiana/Shiploose-Advanced-Warehouse-Associate-1st-Shift_R0000393033": {
+        "title": "Shiploose Advanced Warehouse Associate 1st Shift"
+    },
+    "Caterpillar:/job/Morton-Illinois/Manager--Distribution--1st-Shift-_R0000393276": {
+        "title": "Manager, Distribution (1st Shift)"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Supplier-Development-Engineer_R0000393088": {
+        "title": "Supplier Development Engineer"
+    },
+    "Caterpillar:/job/Decatur-Illinois/Manufacturing-Engineer---Assembly_R0000393232": {
+        "title": "Manufacturing Engineer - Assembly"
+    },
+    "Caterpillar:/job/Decatur-Illinois/Sales---Operations-Planning-Coordinator---Rigid-Frame-Trucks_R0000394064-1": {
+        "title": "Sales & Operations Planning Coordinator \u2013 Rigid Frame Trucks"
+    },
+    "Caterpillar:/job/Mapleton-Illinois/Materials-Specialist-3P51---3rd-Shift_R0000393578": {
+        "title": "Materials Specialist 3P51 - 3rd Shift"
+    },
+    "Caterpillar:/job/Peoria-Illinois/Dealer-Strategy-Consultant_R0000391901": {
+        "title": "Dealer Strategy Consultant"
+    },
+    "Caterpillar:/job/Mapleton-Illinois/Materials-Specialist-2P51---1st-Shift_R0000393575": {
+        "title": "Materials Specialist 2P51 - 1st Shift"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Automation-Engineer_R0000393656-1": {
+        "title": "Automation Engineer"
+    },
+    "Caterpillar:/job/USA--IN--Dyer/Shipping-and-Receiving-Clerk---1st-Shift_R0000394079": {
+        "title": "Shipping and Receiving Clerk - 1st Shift"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Product-Service-Engineer_R0000391751-1": {
+        "title": "Product Service Engineer"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Automation-Engineer_R0000393659": {
+        "title": "Automation Engineer"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Senior-Product-Service-Engineer_R0000391752-1": {
+        "title": "Senior Product Service Engineer"
+    },
+    "Caterpillar:/job/Pontiac-Illinois/Assembly-and-Test-Specialist---Part-Time-Weekends---Supplemental_R0000394076": {
+        "title": "Assembly and Test Specialist - Part-Time Weekends - Supplemental"
+    },
+    "Caterpillar:/job/Peoria-Illinois/Senior-Marketing-Communications-Consultant_R0000392677": {
+        "title": "Senior Marketing Communications Consultant"
+    },
+    "Caterpillar:/job/Griffin-Georgia/Senior-Account-Manager_R0000393674": {
+        "title": "Senior Account Manager"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Power-Electronics-Core-Component-Development-Engineer_R0000391469": {
+        "title": "Power Electronics Core Component Development Engineer"
+    },
+    "Caterpillar:/job/Cary-North-Carolina/Division-Communications-Specialist---BCP_R0000386089": {
+        "title": "Division Communications Specialist - BCP"
+    },
+    "Caterpillar:/job/Ramos-Arizpe-Coahuila/Lean-6-Sigma-Black-Belt_R0000393302": {
+        "title": "Lean 6 Sigma Black Belt"
+    },
+    "Caterpillar:/job/Fort-Worth-Texas/General-Scheduling-Coordinator_R0000393776-1": {
+        "title": "General Scheduling Coordinator"
+    },
+    "Caterpillar:/job/Green-Valley-Arizona/Warehouse-Kitting-Associate_R0000393448": {
+        "title": "Warehouse Kitting Associate"
+    },
+    "Caterpillar:/job/Morton-Illinois/Warehouse-Associate---2nd-and-3rd-Shift_R0000394065": {
+        "title": "Warehouse Associate - 2nd and 3rd Shift"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Test---Validation-Senior-Engineer_R0000385417": {
+        "title": "Engineering Team Leader"
+    },
+    "Caterpillar:/job/Piracicaba-So-Paulo/Business-Process-Analyst_R0000393028": {
+        "title": "Business Process Analyst"
+    },
+    "Caterpillar:/job/Sanford-North-Carolina/Nurse_R0000394019": {
+        "title": "Nurse"
+    },
+    "Caterpillar:/job/Santa-Catarina-Nuevo-Len/Senior-Manufacturing-Engineer--Welding-_R0000379827": {
+        "title": "Senior Manufacturing Engineer (Welding)"
+    },
+    "Caterpillar:/job/Peoria-Illinois/Data-Specialist_R0000394005": {
+        "title": "Data Specialist"
+    },
+    "Caterpillar:/job/Peoria-Illinois/Product-Owner_R0000391224": {
+        "title": "Product Owner"
+    },
+    "Caterpillar:/job/Mumbai-Maharashtra/Territory-Manager_R0000393224": {
+        "title": "Territory Manager"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Senior-Autonomy-Validation-Engineer_R0000393426": {
+        "title": "Senior Autonomy Validation Engineer"
+    },
+    "Caterpillar:/job/Santa-Catarina-Nuevo-Len/Manufacturing-Engineer_R0000393123": {
+        "title": "Manufacturing Engineer"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Autonomy-Validation-Specialist_R0000361745": {
+        "title": "Autonomy Validation Specialist"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Autonomy-Validation-Engineer_R0000377827": {
+        "title": "Autonomy Validation Engineer"
+    },
+    "Caterpillar:/job/Irving-Texas/Autonomy-Validation-Lead_R0000392624": {
+        "title": "Autonomy Validation Lead"
+    },
+    "Caterpillar:/job/Houston-Texas/Trade-Compliance-Analyst-IV_R0000393372-1": {
+        "title": "Trade Compliance Analyst IV"
+    },
+    "SS&C Technologies:/job/5-Rue-Jean-Monnet-Luxembourg/Liquidity-Account-Manager---PA26Q3LLJH99_R46028": {
+        "title": "Liquidity Account Manager - PA26Q3LLJH99"
+    },
+    "Trimble:/job/Canada---Remote/Account-Executive--Customer_R57758": {
+        "title": "Account Executive, Customer"
+    },
+    "Trimble:/job/US---Remote-CO/Product-Sales-Executive--Direct-Supply-Chain_R57744": {
+        "title": "Product Sales Executive, Direct Supply Chain"
+    },
+    "Trimble:/job/US---Remote-CO/Account-Executive--Customer_R57778": {
+        "title": "Account Executive, Customer"
+    },
+    "Ecobee:/job/Belvidere-IL---USA/Environmental-Health---Safety-Manager_JR16723": {
+        "title": "Environmental Health & Safety Manager"
+    },
+    "Ecobee:/job/Sussex-WI---USA/Manager--Talent-Acquisition_JR16875": {
+        "title": "Manager, Talent Acquisition"
+    },
+    "Ecobee:/job/Sussex-WI---USA/Sr-Talent-Acquisition-Partner_JR16831-1": {
+        "title": "Sr. Talent Acquisition Partner"
+    },
+    "Ecobee:/job/Waukesha-WI---USA/Senior-Talent-Acquisition-Partner_JR16828-1": {
+        "title": "Senior Talent Acquisition Partner"
+    },
+    "Ecobee:/job/Waukesha-WI---USA/Manager-Digital-Manufacturing-Systems_JR16815": {
+        "title": "Manager Digital Manufacturing Systems"
+    },
+    "Ecobee:/job/Belvidere-IL---USA/Manufacturing-Engineer-I_JR16476-1": {
+        "title": "Manufacturing Engineer I"
+    },
+    "Ecobee:/job/Beaver-Dam-WI---USA/Plant-Controller-C-I_JR16419": {
+        "title": "Plant Controller C&I"
+    },
+    "Ecobee:/job/Belvidere-IL---USA/Continuous-Improvement-Manager_JR16657": {
+        "title": "Continuous Improvement Manager"
+    },
+    "Ecobee:/job/Toronto-Canada/Senior-UX-Designer_JR14759-1": {
+        "title": "Senior UX Designer"
+    },
+    "Ecobee:/job/Sussex-WI---USA/Staff-Controls-Engineer_JR16853": {
+        "title": "Staff Controls Engineer"
+    },
+    "Snap:/job/New-York-New-York/Lead--SMC-Revenue-Growth_R0046767-1": {
+        "title": "Lead, SMC Revenue Growth"
+    },
+    "Hitachi Rail:/job/Raleigh-North-Carolina-United-States/Project-Procurement-Specialist_R0141920": {
+        "title": "Project Procurement Specialist"
+    },
+    "Hitachi Rail:/job/Raleigh-North-Carolina-United-States/Category-Manager_R0141919": {
+        "title": "Category Manager"
+    },
+    "Hitachi Rail:/job/Broomfield-Colorado-United-States-of-America/Senior-Account-Manager--Data-Center---Colocations_R0144866": {
+        "title": "Senior Account Manager, Data Center - Colocations"
+    },
+    "Hitachi Rail:/job/Pittsburgh-Pennsylvania-United-States/Associate-Signaling-Engineer_R0141894": {
+        "title": "Associate Signaling Engineer"
+    },
+    "Hitachi Rail:/job/Pittsburgh-Pennsylvania-United-States/Head-of-Construction-Management---North-America_R0143264": {
+        "title": "Head of Construction Management - North America"
+    },
+    "Hitachi Rail:/job/Remote---North-Carolina-United-States/MFG-Solution-Architect-68917_R0145016": {
+        "title": "MFG Solution Architect-68917"
+    },
+    "Hitachi Rail:/job/Guarulhos-So-Paulo-Brazil/Analista-de-Desenvolvimento-de-Fornecedores-PL_R0142799": {
+        "title": "Analista de Desenvolvimento de Fornecedores PL"
+    },
+    "Aptiv:/job/Reynosa-Mexico/Environmental--Health---Safety--EHS--Engineer_J000703231": {
+        "title": "Environmental, Health & Safety (EHS) Engineer"
+    },
+    "Aptiv:/job/Reynosa-Mexico/Supplier-Quality-Engineer_J000703237": {
+        "title": "Supplier Quality Engineer"
+    },
+    "Aptiv:/job/Matamoros-Mexico/Advance-Quality-Engineer_J000703204": {
+        "title": "Advance Quality Engineer"
+    },
+    "Aptiv:/job/Quimstan-Honduras/Maintenance-Coordinator_J000703274": {
+        "title": "Maintenance Coordinator"
+    },
+    "Aptiv:/job/Carmel-IN---USA/SW-Architect_J000702025-1": {
+        "title": "Software Architect"
+    },
+    "Aptiv:/job/Bangalore-India/Sr-Tech-Lead---ISP-Research--Image-Processing_J000703326": {
+        "title": "Sr Tech Lead - ISP Research- Image Processing"
+    },
+    "Aptiv:/job/Troy-MI---USA/Production-Control-and-Logistics-Intern_J000702907": {
+        "title": "Production Control and Logistics Intern"
+    },
+    "Aptiv:/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994": {
+        "title": "Quality Engineering Intern"
+    },
+    "Aptiv:/job/Troy-MI---USA/Head-of-Real-Estate-Transactions--FM-and-Projects--AMS_J000701318": {
+        "title": "Head of Real Estate Transactions, FM and Projects, AMS"
+    },
+    "Aptiv:/job/Krakow-Poland/PTP-Procurement-Analyst_J000703646": {
+        "title": "PTP Procurement Analyst"
+    },
+    "Aptiv:/job/Krakow-Poland/PTP-Accountant_J000703696": {
+        "title": "PTP Accountant"
+    },
+    "Aptiv:/job/Krakow-Poland/PTP-Junior-Accountant_J000703694": {
+        "title": "PTP Junior Accountant"
+    },
+    "SSIMWAVE:/job/Mississauga-Ontario/Shipper-Driver-Receiver_JR101091": {
+        "title": "Shipper/Driver/Receiver"
+    },
+    "Saildrone:4400908009": {
+        "title": "Account Manager, US Navy "
+    },
+    "Weights & Biases:4712375006": {
+        "title": "Data Center Manager - Cheyenne, WY"
+    },
+    "Weights & Biases:4712388006": {
+        "title": "Data Center Technician - Lowell, MA"
+    },
+    "Weights & Biases:4712385006": {
+        "title": "Senior Software Engineer I"
+    },
+    "Weights & Biases:4712428006": {
+        "title": "Software Engineer"
+    },
+    "Weights & Biases:4712768006": {
+        "title": "Specialist Field Engineer"
+    },
+    "Weights & Biases:4711345006": {
+        "title": "Technical Support Engineer II - W&B"
+    },
+    "Weights & Biases:4610890006": {
+        "title": "Technical Support Engineer II - W&B EMEA "
+    },
+    "Datadog:8197852": {
+        "title": "Product Manager 2 \u2013 IaC Detection"
+    },
+    "Stripe:8078082": {
+        "title": "Account Executive, Product - Managed Payments"
+    },
+    "Stripe:8194397": {
+        "title": "Account Executive, Product Sales (AI)"
+    },
+    "Stripe:7958961": {
+        "title": "Account Executive, Product Sales - Billing (Velocity)"
+    },
+    "Stripe:8190048": {
+        "title": "Account Executive, Product Sales - Tax"
+    },
+    "Stripe:8188321": {
+        "title": "EMEA Chief Compliance Officer"
+    },
+    "Stripe:8198193": {
+        "title": "Engineering Manager, Billing Collections"
+    },
+    "Stripe:8165855": {
+        "title": "Head of Private Equity and Advisory Partnerships"
+    },
+    "Stripe:8181036": {
+        "title": "Manager, Product Sales - Radar"
+    },
+    "Stripe:8175633": {
+        "title": "Manager, Solutions Architecture - Enterprise Hunter (West)"
+    },
+    "Stripe:8175667": {
+        "title": "Manager, Solutions Architecture - Platforms (Chicago)"
+    },
+    "Stripe:8175651": {
+        "title": "Partner Solutions Architecture Manager"
+    },
+    "Stripe:8175644": {
+        "title": "Project Manager, People Mergers & Acquisitions (M&A)"
+    },
+    "Stripe:8189805": {
+        "title": "Sales Manager, Product - Link"
+    },
+    "Stripe:8197891": {
+        "title": "Software Engineer, Online Database Infrastructure"
+    },
+    "Pinterest:8098385": {
+        "title": "Client Account Manager, Enterprise Sales, Fixed-Term Contract (8 months)"
+    },
+    "Pinterest:8130612": {
+        "title": "Client Account Manager II (tvScientific)"
+    },
+    "Pinterest:8015529": {
+        "title": "Engineering Manager II, Web Product Enablement"
+    },
+    "Pinterest:8129827": {
+        "title": "Managing Director, Canada Sales"
+    },
+    "Pinterest:7903955": {
+        "title": "Sr. Client Partner, Mid-Market (App + Performance)"
+    },
+    "Asana:8164553": {
+        "title": "Head of Marketing Operations"
+    },
+    "Brex:8802224002": {
+        "title": "Banking Relationship Manager"
+    },
+    "Brex:8803650002": {
+        "title": "People Business Partner, GTM (Customer Experience, Implementation & Sales Development)"
+    },
+    "Brex:8803642002": {
+        "title": "People Business Partner, GTM (Customer Experience, Implementation & Sales Development)"
+    },
+    "Brex:8803649002": {
+        "title": "People Business Partner, GTM (Customer Experience, Implementation & Sales Development)"
+    },
+    "Universal Robots:10910": {
+        "title": "Business Process Analyst (Teradyne, Costa Rica)"
+    },
+    "Universal Robots:12505": {
+        "title": "NPI Project Manager (Teradyne, North Reading, MA)"
+    },
+    "Universal Robots:12504": {
+        "title": "Release Technical Lead - IGXL (Compute Test, North Reading)"
+    },
+    "Universal Robots:12508": {
+        "title": "Senior Director, M&amp;A Integration and Deal Execution"
+    },
+    "Universal Robots:12503": {
+        "title": "Software Verification Engineer (Teradyne, Costa Rica)"
+    },
+    "Universal Robots:12435": {
+        "title": "Test Technician(GCS,Philippines:Cebu)"
+    },
+    "Universal Robots:12506": {
+        "title": "VP Technology Strategy and Transactions"
+    },
+    "Epic Games:5993483004": {
+        "title": "Cinematics Director"
+    },
+    "Epic Games:5993481004": {
+        "title": "Cinematics Director"
+    },
+    "Airbnb:8196013": {
+        "title": "Senior Demand Strategy Lead, Experiences"
+    },
+    "Airbnb:8197652": {
+        "title": "Senior Systems Engineer, BizTech"
+    },
+    "Airbnb:8197715": {
+        "title": "Staff Software Engineer, Data Warehouse"
+    },
+    "Auvik Networks:8802236002": {
+        "title": "Business Development Representative"
+    },
+    "Auvik Networks:8801885002": {
+        "title": "Business Development Representative- West Coast"
     }
 }
