@@ -1,0 +1,45 @@
+{
+  "Microsoft": {
+    "api_url": "https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=&location=",
+    "jobs_path": "data.positions",
+    "base_url": "https://apply.careers.microsoft.com",
+    "pagination": {
+      "type": "offset",
+      "parameter": "start",
+      "page_size": 10,
+      "total_path": "data.count"
+    },
+    "field_mapping": {
+      "id": "id",
+      "title": "name",
+      "location": "locations.0",
+      "url": "positionUrl"
+    }
+  },
+  "Akuna Capital": {
+    "api_url": "https://akunacapital.com/wp-content/uploads/akuna_jobs.json",
+    "jobs_path": "",
+    "pagination": {
+      "type": "none"
+    },
+    "field_mapping": {
+      "id": "id",
+      "title": "title",
+      "location": "location",
+      "url": "absolute_url"
+    }
+  },
+  "Vector Institute": {
+    "api_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=4ed2be93-8bc5-40e2-915f-931884eac404&ccId=9200420850870_2&lang=en_CA&locale=en_CA",
+    "jobs_path": "jobRequisitions",
+    "pagination": {
+      "type": "none"
+    },
+    "field_mapping": {
+      "id": "itemID",
+      "title": "requisitionTitle",
+      "location": "requisitionLocations.0.nameCode.shortName",
+      "url": ""
+    }
+  }
+}

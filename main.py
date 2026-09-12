@@ -15,7 +15,7 @@ def main():
     new_jobs = []
 
     for company in companies:
-
+        print("Checking company ", company["company"]) #test
         #Skip custom ats systems
         if(company["ats"] == "custom"):
             continue
@@ -70,15 +70,16 @@ def main():
             ## add to new jobs only if relevant
             new_jobs.append(job)
 
-    save_seen_jobs(seen_jobs)
+    #save_seen_jobs(seen_jobs) #test
 
     # Send notification
     if new_jobs:
-        load_dotenv()
+        pass # test
+        '''load_dotenv()
         notifier = DiscordNotifier(os.getenv("DISCORD_WEBHOOK"))
         messages = build_messages(new_jobs)
         for message in messages:
-            notifier.send(message)
+            notifier.send(message)''' #test
 
     #Testing
     for job in new_jobs:
