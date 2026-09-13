@@ -206065,5 +206065,245 @@
     },
     "Auvik Networks:8801885002": {
         "title": "Business Development Representative- West Coast"
+    },
+    "Physical Intelligence:50f00992-a6c4-480b-a000-2efba5283379": {
+        "title": "Embedded Engineer"
+    },
+    "Perplexity:656b4b2e-5670-411c-9091-f355983a92a0": {
+        "title": "Engineering Manager (TLM, Agents)"
+    },
+    "Perplexity:a172ada5-1a6e-4646-8e0d-26747422af24": {
+        "title": "Member of Technical Staff (AI Software Engineer, Agents)"
+    },
+    "Wealthsimple:dcf383ab-79d2-4ad6-a91f-9b58ef72ee6c": {
+        "title": "Agent, Client Experience - REMOTE (Weekends - 40hr/week)"
+    },
+    "Wealthsimple:828cad68-59c7-4b39-9898-093d7917e2b6": {
+        "title": "Senior Manager, Fraud Operations (Banking)"
+    },
+    "Anduril:5236464007": {
+        "title": "GNC Software Engineer"
+    },
+    "Anduril:5236456007": {
+        "title": "Research Scientist, Battlespace Awareness"
+    },
+    "Anduril:5236457007": {
+        "title": "Research Scientist, Battlespace Awareness "
+    },
+    "Anduril:5236465007": {
+        "title": "Senior GNC Software Engineer"
+    },
+    "Anduril:5236458007": {
+        "title": "Senior Research Scientist, Battlespace Awareness"
+    },
+    "Anduril:5236461007": {
+        "title": "Senior Research Scientist, Battlespace Awareness "
+    },
+    "Anduril:5236469007": {
+        "title": "Senior Software Engineer, Battlespace Awareness "
+    },
+    "Anduril:5236466007": {
+        "title": "Senior Software Engineer, Battlespace Awareness "
+    },
+    "Anduril:5236499007": {
+        "title": "Senior Software Engineer, Robotics Tracking and Fusion"
+    },
+    "Anduril:5236502007": {
+        "title": "Senior Software Engineer, Robotics Tracking and Fusion"
+    },
+    "Anduril:5236498007": {
+        "title": "Senior Software Engineer, Robotics Tracking and Fusion"
+    },
+    "Anduril:5236470007": {
+        "title": "Senior Software Engineer, Rust "
+    },
+    "Anduril:5236473007": {
+        "title": "Senior Software Engineer, Rust "
+    },
+    "Anduril:5236474007": {
+        "title": "Senior Software Engineer, State Estimation "
+    },
+    "Anduril:5236483007": {
+        "title": "Senior TPM, Mathematical Software & Algorithms"
+    },
+    "Anduril:5236476007": {
+        "title": "Software Engineer, Battlespace Awareness "
+    },
+    "Anduril:5236475007": {
+        "title": "Software Engineer, Battlespace Awareness "
+    },
+    "Anduril:5236495007": {
+        "title": "Software Engineer, Robotics Tracking and Fusion"
+    },
+    "Anduril:5236493007": {
+        "title": "Software Engineer, Robotics Tracking and Fusion"
+    },
+    "Anduril:5236494007": {
+        "title": "Software Engineer, Robotics Tracking and Fusion"
+    },
+    "Anduril:5236477007": {
+        "title": "Software Engineer, Rust "
+    },
+    "Anduril:5236480007": {
+        "title": "Software Engineer, Rust "
+    },
+    "Anduril:5236489007": {
+        "title": "Sr Program Manager, Battlespace Awareness"
+    },
+    "Anduril:5236492007": {
+        "title": "Sr Program Manager, Battlespace Awareness"
+    },
+    "Anduril:5236487007": {
+        "title": "Sr Technical Program Manager, Battlespace Awareness"
+    },
+    "Anduril:5236486007": {
+        "title": "Sr Technical Program Manager, Battlespace Awareness"
+    },
+    "Anduril:5236488007": {
+        "title": "Sr Technical Program Manager, Mathematical Software & Algorithms"
+    },
+    "Anthropic:5417758008": {
+        "title": "Enforcement Operations Lead, Cloud Partners"
+    },
+    "SpaceX:8805284002": {
+        "title": "Avionics Systems Engineer (Falcon & Dragon)"
+    },
+    "SpaceX:8805288002": {
+        "title": "Parachute Rigger & Quality Specialist (Starfall)"
+    },
+    "SpaceX:8805290002": {
+        "title": "Quality Inspector (Starfall)"
+    },
+    "SpaceX:8805292002": {
+        "title": "Receiving Inspector (Starfall)"
+    },
+    "SpaceX:8805304002": {
+        "title": "Soft Goods Technician, Cutting (Starfall)"
+    },
+    "SpaceX:8805302002": {
+        "title": "Soft Goods Technician, Sewer (Starfall)"
+    },
+    "SpaceX:8805286002": {
+        "title": "Test Specialist (Composites)"
+    },
+    "GitLab:8790705002": {
+        "title": "Senior Executive Business Partner, CFO "
+    },
+    "ServiceNow:744000149191399": {
+        "title": "Partner Sales Manager, Indonesia"
+    },
+    "Canva:6000000001400037": {
+        "title": "Account Executive (Canadian Market)"
+    },
+    "Bombardier:15493": {
+        "title": "Analyst, Program / Project Control"
+    },
+    "Bombardier:15438": {
+        "title": "Methods Agent, Production Support"
+    },
+    "Bombardier:15290": {
+        "title": "Program, Analyst"
+    },
+    "Ericsson:789894": {
+        "title": "Account Manager"
+    },
+    "Ericsson:790501": {
+        "title": "Business Analytics Specialist"
+    },
+    "Ericsson:790122": {
+        "title": "E2E Core and Cloud Solution Architect"
+    },
+    "Ericsson:790953": {
+        "title": "Marketing and Communications intern-TW"
+    },
+    "Ericsson:784346": {
+        "title": "Senior Business Development Manager  Ericsson Mobile Financial Services"
+    },
+    "Ericsson:790988": {
+        "title": "SNOC Egypt Manager"
+    },
+    "NVIDIA:/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971": {
+        "title": "Linux for Edge System Software Engineer (RDSS intern)"
+    },
+    "NVIDIA:/job/France-Remote/Solutions-Architect---Deep-Neural-Network-Evaluation_JR2014830": {
+        "title": "Solutions Architect - Deep Neural Network Evaluation"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174": {
+        "title": "PhD Research Intern, Circuits - 2027"
+    },
+    "Salesforce:/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029": {
+        "title": "Software Engineer, Data & Observability Platforms \u2014 MTS/SMTS"
+    },
+    "Salesforce:/job/California---San-Francisco/Product-Strategy-Lead---Revenue-Forecast-Modeling_JR359991": {
+        "title": "Product Strategy Lead - Revenue Forecast Modeling"
+    },
+    "Salesforce:/job/Germany---Munich/Enterprise-Account-Executive---industrial-or-technology-driven-sectors_JR360026": {
+        "title": "Enterprise Account Executive - industrial or technology-driven sectors"
+    },
+    "Adobe:/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407": {
+        "title": "Product Manager (Growth - B2B Enterprise)"
+    },
+    "Cisco:/job/Milpitas-California-US/Senior-Software-Engineer_2021200-1": {
+        "title": "Senior Software Engineer"
+    },
+    "Cisco:/job/Minato-Japan/Renewals-Specialist_2022238": {
+        "title": "Renewals Specialist"
+    },
+    "Cisco:/job/Bangalore-India/Software-Test-Automation-Engineer_2022074-1": {
+        "title": "Software Test Automation Engineer"
+    },
+    "Cisco:/job/San-Jose-California-US/Data-Engineer_2023841-1": {
+        "title": "Data Engineer"
+    },
+    "Cisco:/job/San-Jose-California-US/Strategy---Planning-Manager_2023303": {
+        "title": "Strategy & Planning Manager"
+    },
+    "Cisco:/job/McLean-Virginia-US/Virtual-Sales-Account-Executive---Splunk-Public-Sector-SLED-West--Remote-_2022332": {
+        "title": "Virtual Sales Account Executive - Splunk Public Sector SLED West (Remote)"
+    },
+    "Cisco:/job/Feltham-United-Kingdom/Executive-Assistant---UKI-Sales_2023381": {
+        "title": "Executive Assistant - UKI Sales"
+    },
+    "Cisco:/job/San-Jose-California-US/Business-Operations-Manager--Strategic-Program-Management_2024907": {
+        "title": "Business Operations Manager, Strategic Program Management"
+    },
+    "Cisco:/job/Bangalore-India/Emerging-Talent-Recruiter_2016884": {
+        "title": "Emerging Talent Recruiter"
+    },
+    "Cadence:/job/SHANGHAI/Intern-Product-Validation_R56302": {
+        "title": "Intern-Product Validation"
+    },
+    "General Motors:/job/Bogota-Cundinamarca-Colombia/Human-Resources-Manager--Cluster-Lead_JR-202618884": {
+        "title": "Human Resources Manager  Cluster Lead"
+    },
+    "Canadian Tire Digital:/job/Mississauga-ON/Assistant-Manager--Heartland_JR163583": {
+        "title": "Assistant Manager, Heartland"
+    },
+    "Canadian Tire Digital:/job/Cambridge-ON/Assistant-Manager--Hespeler-Rd_JR166032": {
+        "title": "Assistant Manager, Hespeler Rd"
+    },
+    "Canadian Tire Digital:/job/Scarborough-ON/Assistant-Manager--Sheppard-Ave-E_JR165552": {
+        "title": "Assistant Manager, Sheppard Ave E"
+    },
+    "Manulife:/job/Cagayan-Manulife-Chinabank-Life-Assuance-Corporation-MCBL/Financial-Sales-Associate_JR26090332-1": {
+        "title": "Financial Sales Associate"
+    },
+    "Caterpillar:/job/Santa-Catarina-Nuevo-Len/Practicante-de-Tool-Design_R0000394162": {
+        "title": "Practicante de Tool Design"
+    },
+    "Hitachi Rail:/job/Mount-Pleasant-Pennsylvania-United-States-of-America/Electrical-Test-Technician---2nd-Shift_R0144022": {
+        "title": "Electrical Test Technician - 2nd Shift"
+    },
+    "Hitachi Rail:/job/Mount-Pleasant-Pennsylvania-United-States-of-America/Field-Service-Engineer_R0145020-1": {
+        "title": "Field Service Engineer"
+    },
+    "Stripe:8007205": {
+        "title": "Incident Response Manager - Security "
+    },
+    "Cockroach Labs:8193470": {
+        "title": "Sales Development Representative"
+    },
+    "Ciena:/job/Remote-UAE/Customer-Success-Advocate_R031635": {
+        "title": "Customer Success Advocate"
     }
 }
