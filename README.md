@@ -37,6 +37,19 @@ internship-tracker/
 ├── .env                   # your Discord webhook (create locally)
 └── requirements.txt
 ```
+## Supported ATS platforms
+ 
+- Ashby
+- BambooHR
+- Dayforce
+- Gem
+- Greenhouse
+- Lever
+- SmartRecruiters
+- SuccessFactors
+- UltiPro
+- Workable
+- Workday
 
 ## Setup
 
