@@ -3,7 +3,7 @@ from collections import Counter
 def build_messages(jobs):
 
     if not jobs:
-        return "No new internships today"
+        return ["No new internships today"]
 
     PRIORITY_LABELS = {
         1: "🔥 PRIORITY 1",
