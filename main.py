@@ -70,16 +70,15 @@ def main():
             ## add to new jobs only if relevant
             new_jobs.append(job)
 
-    #save_seen_jobs(seen_jobs) #test
+    save_seen_jobs(seen_jobs)
 
     # Send notification
     if new_jobs:
-        pass # test
-        '''load_dotenv()
+        load_dotenv()
         notifier = DiscordNotifier(os.getenv("DISCORD_WEBHOOK"))
         messages = build_messages(new_jobs)
         for message in messages:
-            notifier.send(message)''' #test
+            notifier.send(message)
 
     #Testing
     for job in new_jobs:
