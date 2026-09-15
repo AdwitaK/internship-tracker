@@ -94,7 +94,9 @@ EXCLUDE_LOCATIONS = [
     "ireland",
     "united kingdom",
     "brazil",
-    "malaysia"
+    "malaysia",
+    "qatar",
+    "dublin"
 ]
 
 def is_relevant(job):
