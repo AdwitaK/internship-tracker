@@ -259486,5 +259486,164 @@
     },
     "Celestica:141148": {
         "title": "Specialist, IT Solutions 1"
+    },
+    "Perplexity:b539e100-4b8c-4701-a5a8-52b9a72f435e": {
+        "title": "Member of Technical Staff (New Grad)"
+    },
+    "Anduril:5249951007": {
+        "title": "Senior Development Fabrication Technician"
+    },
+    "Anduril:5249948007": {
+        "title": "Senior Mechanical Engineer - Lethality"
+    },
+    "SpaceX:8848604002": {
+        "title": "Full Stack Software Engineer, Internal Applications"
+    },
+    "SpaceX:8848609002": {
+        "title": "Full Stack Software Engineer, Manufacturing Systems "
+    },
+    "SpaceX:8848613002": {
+        "title": "Software Engineer, Manufacturing Infrastructure"
+    },
+    "SpaceX:8848606002": {
+        "title": "Sr. Full Stack Engineer, Internal Applications"
+    },
+    "Shield AI:7e0dd494-765b-49f5-bdd2-bbf6f2131ca7": {
+        "title": "Head of Product Design (R5776)"
+    },
+    "Shield AI:3666037e-b201-4ef4-82e1-a78802047a96": {
+        "title": "Senior Engineer, Full-Stack - Forge Platform, Tools (R5790)"
+    },
+    "Shield AI:bfa00574-c549-48fb-9065-2840c4d17cfc": {
+        "title": "Senior Engineer, Safety-Critical Software (R5788)"
+    },
+    "Shield AI:980ad3a9-2992-41f5-aab2-dc8af92e3847": {
+        "title": "Senior Engineer, State Estimation (R5784)"
+    },
+    "Shield AI:5e726b28-a905-418d-a1e5-35c83371869d": {
+        "title": "Senior IT Operations Engineer (R6117)"
+    },
+    "Shield AI:1ade04ff-f436-487d-9376-7e230be3234f": {
+        "title": "Staff Deep Learning Engineer, State Estimation (R5785)"
+    },
+    "Shield AI:16e2e233-4fed-463d-bc14-a69af7681737": {
+        "title": "Staff Engineer, Aircraft Trajectory Modeling (R5787)"
+    },
+    "Shield AI:e6129683-3f3a-46f6-96d0-2d35426e7229": {
+        "title": "Staff Engineer, State Estimation (R5783)"
+    },
+    "Shield AI:cc36d8ce-4afc-4d86-a4ad-8d5612b184d4": {
+        "title": "Staff Engineer, Test Automation (R5792)"
+    },
+    "Shield AI:2862820a-9dbd-40c0-9538-97077aaebb85": {
+        "title": "Staff Technical Program Manager (R5791)"
+    },
+    "ServiceNow:744000152029319": {
+        "title": "Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal"
+    },
+    "ServiceNow:744000152029269": {
+        "title": "Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal"
+    },
+    "ServiceNow:744000152029219": {
+        "title": "Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal"
+    },
+    "ServiceNow:744000152029049": {
+        "title": "Senior Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal"
+    },
+    "ServiceNow:744000152028949": {
+        "title": "Senior Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal"
+    },
+    "ServiceNow:744000152028899": {
+        "title": "Senior Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal"
+    },
+    "ServiceNow:744000152027879": {
+        "title": "APAC Director, Strategic Partnership for C&I"
+    },
+    "Bombardier:15416": {
+        "title": "Customer Account, Engineer (Permanent)"
+    },
+    "Ericsson:791372": {
+        "title": "IP Core and Transport Solution Architect"
+    },
+    "Ericsson:791350": {
+        "title": "Master Thesis: AI Edge in RAN CS"
+    },
+    "MNP Digital:8ba971e3-d145-473e-8cd3-63910055afec": {
+        "title": "Coordinator, Regional Human Capital"
+    },
+    "Clearpath Robotics:/job/Hawthorn-Victoria-Australia/Continuous-Improvement-Lead--AP_R26-7510": {
+        "title": "Continuous Improvement Lead, AP"
+    },
+    "Cisco:/job/Santa-Monica-California-US/Hardware-Tech-Lead--Optomechanical-Engineer_2023652": {
+        "title": "Hardware Tech Lead -Optomechanical Engineer"
+    },
+    "Cisco:/job/Santa-Monica-California-US/Principal-Hardware-Engineer_2024112": {
+        "title": "Principal Hardware Engineer"
+    },
+    "Cisco:/job/Santa-Monica-California-US/Tech-Lead---Hardware--Embedded-Engineer_2023650": {
+        "title": "Tech Lead - Hardware /Embedded Engineer"
+    },
+    "Cisco:/job/Mexico-City-Mexico/Leader--Renewals_2024523": {
+        "title": "Leader, Renewals"
+    },
+    "Cisco:/job/Richardson-Texas-US/Technical-Marketing-Engineering-Technical-Leader_2024360": {
+        "title": "Technical Marketing Engineering Technical Leader"
+    },
+    "Cisco:/job/Allentown-Pennsylvania-US/Reliability-Component-Engineer---Optics-Silicon-Photonics_2025733": {
+        "title": "Reliability/Component Engineer - Optics/Silicon Photonics"
+    },
+    "Cisco:/job/Diegem-Belgium/Account-Executive---Architecture_2020019-1": {
+        "title": "Account Executive - Architecture"
+    },
+    "Cisco:/job/Bangalore-India/Partner-Account-Executive_2024608": {
+        "title": "Partner Account Executive"
+    },
+    "Expedia Group:/job/USA---Illinois---Chicago/Paid-Media-Operations-Manager_R-109829": {
+        "title": "Paid Media Operations Manager"
+    },
+    "Marvell:/job/Santa-Clara-CA/Analog-Design-Intern_2604084": {
+        "title": "Analog Design Intern"
+    },
+    "ABB Robotics:/job/Sharkia-Egypt/Planning-and-fullfilment-manager_JR00046930": {
+        "title": "Planning and fullfilment manager"
+    },
+    "Capital One:/job/San-Jose-CA/Full-stack-Engineer-4--DevOps----Intelligent-Foundations-and-Experiences--IFX-_R1001602-1": {
+        "title": "Full-stack Engineer 4 (DevOps) - Intelligent Foundations and Experiences (IFX)"
+    },
+    "Capital One:/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001578-1": {
+        "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)"
+    },
+    "Thomson Reuters:/job/United-States-of-America-San-Francisco-California/Principal-Product-Management_JREQ203951": {
+        "title": "Principal Product Management"
+    },
+    "General Motors:/job/Giza-Egypt/Cadillac-Sales-Planning-Manager_JR-202618586": {
+        "title": "Cadillac Sales Planning Manager"
+    },
+    "BMO:/job/Toronto-ON-CAN/Manager--Customer-Analytics_R260026808": {
+        "title": "Manager, Customer Analytics"
+    },
+    "Red Hat:/job/Bangalore---Carina/Principal-Software-Engineer_R-059783-1": {
+        "title": "Principal Software Engineer"
+    },
+    "SS&C Technologies:/job/Union-NJ/Associate-Manager_R45103": {
+        "title": "Associate Manager"
+    },
+    "Hitachi Rail:/job/Cairo-Cairo-Egypt/HSE-Advisor_R0145001": {
+        "title": "HSE Advisor"
+    },
+    "Hitachi Rail:/job/Perth-Western-Australia-Australia/Payroll-Officer_R0146096": {
+        "title": "Payroll Officer"
+    },
+    "Aptiv:/job/Bangalore-India/Senior-Technical-Leader--FUSA--10Yrs-to-12Yrs-_J000704493": {
+        "title": "Senior Technical Leader- FUSA (10Yrs to 12Yrs)"
+    },
+    "Aptiv:/job/Bangalore-India/Advanced-Technical-Leader-FUSA--12yrs-to-14Yrs-_J000704502": {
+        "title": "Advanced Technical Leader-FUSA (12yrs to 14Yrs)"
+    },
+    "Universal Robots:12610": {
+        "title": "Test Technician(ATEOPS,Philippines: Cebu)"
+    },
+    "Databricks:8403943002": {
+        "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)"
     }
 }
