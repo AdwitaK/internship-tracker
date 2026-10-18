@@ -326539,5 +326539,197 @@
     },
     "Celestica:141833": {
         "title": "Staff Engineer, Manufacturing Process"
+    },
+    "1Password:883a6d5f-95de-43fa-9fdc-b0608ed6a7a5": {
+        "title": "Senior Manager, Business Development"
+    },
+    "Anthropic:5391356008": {
+        "title": "Manager, Account Executive"
+    },
+    "Anthropic:5456039008": {
+        "title": "Principal Engineer Capacity/Compute"
+    },
+    "SpaceX:8899128002": {
+        "title": "Application Software Engineer, Flight Software"
+    },
+    "Shield AI:a3eae89e-5a2b-4e6a-8e9c-e315923b0c71": {
+        "title": "Data Engineer, Finance (R6329)"
+    },
+    "Shield AI:581cc2e0-9ad3-4a5a-98e4-d21500210ee9": {
+        "title": "Director, IT Infrastructure Services (R6338)"
+    },
+    "Shield AI:5f7c1dc0-2363-4667-91f2-dd365d32fa52": {
+        "title": "FAA Program Coordinator (R6337)"
+    },
+    "Shield AI:897742de-bbb3-4b55-866d-391cf5c5848f": {
+        "title": "Manager, Environmental Control Systems & Thermal Engineering (R6306)"
+    },
+    "Shield AI:0da77024-3a9f-47a0-8f64-4ad067e06d12": {
+        "title": "Senior Engineer, Flight Test (R6304)"
+    },
+    "Shield AI:ac52c9b2-f18d-49e5-bb0b-9e82e7b03ac9": {
+        "title": "Senior Staff Engineer, Flight Control Actuation Systems - Ranger (R6327)"
+    },
+    "Shield AI:b89ca1d5-9323-4425-a4de-d3319b04011e": {
+        "title": "Senior Staff Engineer, Mechanical & Actuated Systems (R6307)"
+    },
+    "Shield AI:b2091589-c1aa-4121-9c09-4e1a8437e771": {
+        "title": "Senior Staff Engineer, Weapons Integration - Ranger (R6323)"
+    },
+    "Shield AI:d1ec00c9-ae5d-4c0c-8e31-281dbaea04fb": {
+        "title": "Staff Engineer, Flight Test (R6305)"
+    },
+    "Shield AI:70b0a80c-fcd9-4a6f-8e80-8cfcabe52aaf": {
+        "title": "Staff Engineer, Industrial (R6313)"
+    },
+    "Shield AI:94bf14da-9028-4691-8681-5687dccf59a0": {
+        "title": "Staff Engineer, Power System - Ranger (R6326)"
+    },
+    "Shield AI:dd7070fb-bc02-4ab0-930f-c3c2e933353e": {
+        "title": "Staff Engineer, Software (R6331)"
+    },
+    "Scotiabank:276711": {
+        "title": "Analista De Regulacion De Mercados 1"
+    },
+    "ServiceNow:744000156190459": {
+        "title": "Sr Enterprise Account Executive"
+    },
+    "ServiceNow:744000156190419": {
+        "title": "Sales Director"
+    },
+    "ServiceNow:744000156190250": {
+        "title": "Sr Enterprise Account Executive"
+    },
+    "ServiceNow:744000156190299": {
+        "title": "Client Director"
+    },
+    "ServiceNow:744000156180579": {
+        "title": "Sr Enterprise Account Executive"
+    },
+    "ServiceNow:744000156180539": {
+        "title": "Sr Enterprise Account Executive"
+    },
+    "ServiceNow:744000156137939": {
+        "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE"
+    },
+    "Ericsson:785436": {
+        "title": "Data Analyst Strategy and Operations"
+    },
+    "Ericsson:791823": {
+        "title": "Field Operations Manager"
+    },
+    "Ericsson:788890": {
+        "title": "Senior DevOps Engineer"
+    },
+    "NVIDIA:/job/India-Bengaluru/CAD-Engineer_JR2014480-1": {
+        "title": "CAD Engineer"
+    },
+    "Salesforce:/job/Norway---Oslo/Service-Cloud-Specialist-Account-Executive---Norway_JR362231": {
+        "title": "Service Cloud Specialist Account Executive - Norway"
+    },
+    "Salesforce:/job/Netherlands---Amsterdam/Customer-Success-Manager---Netherlands_JR364573": {
+        "title": "Customer Success Manager - Netherlands"
+    },
+    "Cisco:/job/Bangalore-India/Security-Engineer_2025938-1": {
+        "title": "Security Engineer"
+    },
+    "Cisco:/job/Bangalore-India/IT-Software-Engineer_2026188-1": {
+        "title": "IT Software Engineer"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263": {
+        "title": "UI Desktop Engineer Hybird, North Carolina Hybrid"
+    },
+    "Cisco:/job/Melbourne-Australia/Inside-Account-Executive---Architecture_2027420-1": {
+        "title": "Inside Account Executive - Architecture"
+    },
+    "Cisco:/job/Stockholm-Sweden/Software-Engineer---Media_2026436": {
+        "title": "Software Engineer - Media"
+    },
+    "Cisco:/job/San-Jose-California-US/Business-Analyst--Cisco-Partner-Incentive---Hybrid_2025371-1": {
+        "title": "Business Analyst, Cisco Partner Incentive - Hybrid"
+    },
+    "Cisco:/job/Ciudad-Juarez-Mexico/Engineering-Project-Specialist_2026190": {
+        "title": "Engineering Project Specialist"
+    },
+    "Cisco:/job/San-Francisco-California-US/Lead-Site-Reliability-Engineer--FedRAMP---ThousandEyes-Hybrid-_2026074": {
+        "title": "Lead Site Reliability Engineer, FedRAMP - ThousandEyes(Hybrid)"
+    },
+    "Cisco:/job/San-Jose-California-US/Technical-Lead--Software-Engineering_2026193": {
+        "title": "Technical Lead, Network Engineering"
+    },
+    "Cisco:/job/Milpitas-California-US/Technical-Leader--Platform-Security_2026165": {
+        "title": "Technical Leader- Platform Security"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Engineering-Product-Manager--Cisco-Partner-Incentive---Hybrid_2025355-1": {
+        "title": "Engineering Product Manager, Cisco Partner Incentive - Hybrid"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Engineering-Product-Manager--Cisco-Partner-Incentive---Hybrid_2025367": {
+        "title": "Engineering Product Manager, Cisco Partner Incentive - Hybrid"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Engineering-Product-Manager-Hybrid_2026064": {
+        "title": "Engineering Product Manager Hybrid"
+    },
+    "Cisco:/job/McLean-Virginia-US/Virtual-Sales-Account-Executive---Splunk-Federal-Civilian--Remote-_2027224-1": {
+        "title": "Virtual Sales Account Executive - Splunk Federal Civilian (Remote)"
+    },
+    "Cisco:/job/Bangalore-India/Senior-Software-Engineer---Golang--Microservices--Cloud---7-to-11-Years---Bangalore_2027641": {
+        "title": "Senior Software Engineer | Golang, Microservices, Cloud | 7 to 11 Years | Bangalore"
+    },
+    "Cisco:/job/Bangalore-India/Software-Engineering-Technical-Leader--Go-Java-Python-C-----AI--Securtiy-Domain---8-to-14-Years---Bangalore_2027393": {
+        "title": "Software Engineering Technical Leader| Go/Java/Python/C++ , AI, Securtiy Domain | 8 to 14 Years | Bangalore"
+    },
+    "Cisco:/job/Amsterdam-Netherlands/EMEA-Industrial-IoT-Defense-lead_2027592": {
+        "title": "EMEA Industrial IoT Defense lead"
+    },
+    "Cisco:/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466": {
+        "title": "Software Consulting Engineering Technical Leader"
+    },
+    "Cadence:/job/NOIDA-05/AE-Director-Emulation-and-Prototyping_R53960": {
+        "title": "AE Group Director"
+    },
+    "Marvell:/job/Yokneam/System-Validation-Senior-Staff-Engineer_2604877": {
+        "title": "System Validation Senior Staff Engineer"
+    },
+    "Marvell:/job/Yokneam/Optomechanics-Thermal-Senior-Staff-Engineer_2604880": {
+        "title": "Optomechanics-Thermal Senior Staff Engineer"
+    },
+    "ABB Robotics:/job/Vaesteras-Vastmanland-County-Sweden/Area-sales-manager-to-ABB-Motion_JR00038443": {
+        "title": "Area sales manager to ABB Motion"
+    },
+    "Thales:/job/Singapore/Order-Fulfillment-Planner_R0343916": {
+        "title": "Order Fulfillment Planner"
+    },
+    "Thales:/job/Roma/Bid-Manager_R0339103": {
+        "title": "Bid Manager"
+    },
+    "Thales:/job/Orlando/Bid-and-Project-Controller_R0343488": {
+        "title": "Bid and Project Controller"
+    },
+    "Thales:/job/Bucharest/Network-engineer_R0337473": {
+        "title": "Network Engineer"
+    },
+    "Motorola Solutions:/job/Ho-Chi-Minh-Vietnam/QA-Automation-Fresher_R69443": {
+        "title": "QA Automation Fresher"
+    },
+    "Motorola Solutions:/job/Ho-Chi-Minh-Vietnam/Backend-Software-Engineer_R68604-1": {
+        "title": "Backend Software Engineer"
+    },
+    "TD:/job/New-York-New-York/Relationship-Banker-I--74th---Broadway--30-Hours_R_1516192-1": {
+        "title": "Relationship Banker I (74th & Broadway) 30 Hours"
+    },
+    "TD:/job/Brooklyn-New-York/Associate-Banker-I--Brooklyn-Chinatown--PT-20-hours---Bilingual-Mandarin-or-Fujianese-preferred_R_1515658": {
+        "title": "Associate Banker I (Brooklyn Chinatown) PT 20 hours - Bilingual Mandarin or Fujianese preferred"
+    },
+    "Red Hat:/job/Remote-US-NC/Sales-Account-Manager-2_R-058949-2": {
+        "title": "Sales Account Manager 2"
+    },
+    "Caterpillar:/job/Irving-Texas/Program-Manager---Digital-Media-COE_R0000400550": {
+        "title": "Program Manager - Digital Media COE"
+    },
+    "Hitachi Rail:/job/Riyadh-Riyadh-Saudi-Arabia/Power--Trainee_R0148128": {
+        "title": "Power+ Trainee"
+    },
+    "Airbnb:8299396": {
+        "title": "Head of Homes Supply, Thailand & Vietnam "
     }
 }
