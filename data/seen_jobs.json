@@ -393673,5 +393673,164 @@
     },
     "Celestica:142535": {
         "title": "04 - Process &amp; Maintenance Technician 2"
+    },
+    "OpenAI:1a475859-21e3-45fc-9e93-8763aa1d0992": {
+        "title": "Civil & Structural Architect, Power Generation "
+    },
+    "Perplexity:1056951e-8a42-4330-b72c-90162b3cd1c9": {
+        "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)"
+    },
+    "xAI:5288098007": {
+        "title": "Lead Engineer, AI Infrastructure (C++, C)"
+    },
+    "SpaceX:8893290002": {
+        "title": "Internal Fleet Driver   "
+    },
+    "SpaceX:8893331002": {
+        "title": "Inventory Specialist "
+    },
+    "SpaceX:8934413002": {
+        "title": "Production Coordinator"
+    },
+    "SpaceX:8934430002": {
+        "title": "Talent Sourcer - Temporary"
+    },
+    "SpaceX:8934055002": {
+        "title": "Telecommunications Engineer, Fiber"
+    },
+    "Tenstorrent:5284404007": {
+        "title": "Engineer, CPU Performance Verification"
+    },
+    "Shield AI:af183d8c-51d0-40df-9c04-fbddae0d83aa": {
+        "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125"
+    },
+    "Shield AI:f8e0f87f-0e12-4e05-a491-4e8272494896": {
+        "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129"
+    },
+    "Shield AI:cd641bcb-f613-44dd-b66d-2df360067319": {
+        "title": "Engineer I, Software - Perception - New Grad - 6135"
+    },
+    "Shield AI:88f7b66e-3412-40c8-b74d-aafc462405ff": {
+        "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140"
+    },
+    "Scotiabank:278323": {
+        "title": "2027 UK Finance Summer Internship"
+    },
+    "Scotiabank:278809": {
+        "title": "2027 UK Technology Summer Internship"
+    },
+    "Scotiabank:278277": {
+        "title": "Customer Experience Associate - Aurora (Casual)"
+    },
+    "Scotiabank:278160": {
+        "title": "Customer Experience Associate - Enterprise &amp; Birchmount (30 hours/week)"
+    },
+    "ServiceNow:744000160483799": {
+        "title": "Staff Frontend Engineer "
+    },
+    "Ericsson:794079": {
+        "title": "Back Office Manager"
+    },
+    "Ericsson:793698": {
+        "title": "People Operations Specialist"
+    },
+    "NVIDIA:/job/Taiwan-Taipei/Senior-Firmware-Application-Engineer---System-Software_JR2029386": {
+        "title": "Senior Firmware Application Engineer - System Software"
+    },
+    "NVIDIA:/job/Israel-Yokneam/Senior-Mechanical-Hardware-Design-Engineer--IC-Product_JR2029722": {
+        "title": "Senior Mechanical Hardware Design Engineer, IC Product"
+    },
+    "Cisco:/job/Seoul-Republic-of-Korea/Splunk-Technical-Leader--Customer-Success_2028051-1": {
+        "title": "Splunk Technical Leader, Customer Success"
+    },
+    "Cisco:/job/San-Francisco-California-US/Principal-Designer--Networking_2029137-1": {
+        "title": "Principal Designer, Networking"
+    },
+    "Cisco:/job/Milpitas-California-US/Senior-Software-Engineer--AI-ML-Network-Engineering_2026938-1": {
+        "title": "Senior Software Engineer, AI/ML Network Engineering"
+    },
+    "Cisco:/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2028826": {
+        "title": "Software Engineering Technical Leader"
+    },
+    "Cisco:/job/Bangalore-India/Software-Engineer_2028523-1": {
+        "title": "Software Engineer"
+    },
+    "Cisco:/job/Austin-Texas-US/Leader--Business-Operations_2029460-1": {
+        "title": "Leader, Business Operations"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Financial-Services-Operations-Manager_2029834-1": {
+        "title": "Financial Services Operations Manager"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Market-Ready-Solutions-Lead---FED-RAMP-_2028721": {
+        "title": "Market Ready Solutions Lead, (FedRAMP)"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Principal-Engineer-Software-Security-Hybrid_2028458": {
+        "title": "Principal Engineer Software Security Hybrid"
+    },
+    "Cisco:/job/Maynard-Massachusetts-US/Sourcing-Commodity-Manager--Hyrbid-_2028748": {
+        "title": "Sourcing Commodity Manager (Hyrbid)"
+    },
+    "Cisco:/job/Maynard-Massachusetts-US/Supplier-Commodity-Manager---Optics--Hybrid-_2028062": {
+        "title": "Supplier Commodity Manager - Optics (Hybrid)"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Sustainability-Specialist--Circular-Design_2030435": {
+        "title": "Sustainability Specialist: Circular Design"
+    },
+    "Cisco:/job/RTP-North-Carolina-US/Sustainability-Specialist--GHG-Accounting---Analytics_2030438-1": {
+        "title": "Sustainability Specialist: GHG Accounting & Analytics"
+    },
+    "Cisco:/job/Bangalore-India/Full-Stack-Engineer---Ruby-on-Rails--Reactjs-from-4--years_2029291": {
+        "title": "Full Stack Engineer \u2013 Ruby on Rails, React.js from 4+ years"
+    },
+    "Arctic Wolf:/job/Eden-Prairie-MN-USA/Talent-Acquisition-Partner---Contract_R26_1215-1": {
+        "title": "Talent Acquisition Partner - Contract"
+    },
+    "Intel:/job/Israel-Kiryat-Gat/Bulk-Chemical-Delivery--CIU-stream--Engineer---Kiryat-Gat_JR0288920": {
+        "title": "Bulk Chemical Delivery (CIU stream) Engineer - Kiryat Gat"
+    },
+    "ABB Robotics:/job/Stonehouse-Gloucestershire-United-Kingdom/Procurement-and-Supply-Chain-Manager_JR00052240-1": {
+        "title": "Procurement and Supply Chain Manager"
+    },
+    "ABB Robotics:/job/Aleksandrow-Lodzki-Lodz-Poland/Category-Manager_JR00052797": {
+        "title": "Category Manager"
+    },
+    "ABB Robotics:/job/Krakow-Lesser-Poland-Poland/Automation-Engineer_JR00051983": {
+        "title": "Automation Engineer - B&R Automation"
+    },
+    "Trend Micro:/job/KSA-Off-Site/Strategic-Account-Manager--Eastern-Region_R0010385": {
+        "title": "Strategic Account Manager, Eastern Region"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Winnersh-Berkshire-United-Kingdom/Commercial-Account-Manager_1216250-2": {
+        "title": "Commercial Account Manager"
+    },
+    "Red Hat:/job/Remote-US-VA/Sales-Specialist-3_R-060093": {
+        "title": "Sales Specialist 3"
+    },
+    "Caterpillar:/job/Bangalore-Karnataka/Senior-Design-Engineer_R0000403772": {
+        "title": "Senior Design Engineer"
+    },
+    "Caterpillar:/job/Tianjin-Tianjin/Quality-Engineer_R0000402757": {
+        "title": "Quality Engineer"
+    },
+    "Caterpillar:/job/Larne-County-Antrim/Electrical-Engineering---12-Month-Placement-Scheme_R0000401167": {
+        "title": "Electrical Engineering - 12 Month Placement Scheme"
+    },
+    "Ecobee:/job/Waukesha-WI---USA/Applications-Engineer-II_JR17959": {
+        "title": "Applications Engineer II"
+    },
+    "Hitachi Rail:/job/Bac-Ninh-Bc-Ninh-Vietnam/Logistics-intern_R0148762": {
+        "title": "Logistics intern"
+    },
+    "Hitachi Rail:/job/Hanoi-Hanoi-Vietnam/Controlling---Planning-Specialist_R0149670": {
+        "title": "Controlling & Planning Specialist"
+    },
+    "Hitachi Rail:/job/Hanoi-Hanoi-Vietnam/Market-Manager--Vietnam-_R0148090": {
+        "title": "Market Manager (Vietnam)"
+    },
+    "Hitachi Rail:/job/Lahore-Punjab-Pakistan/Intern-for-Operations---Sales---Fresh-University-graduates_R0147523": {
+        "title": "Intern for Operations & Sales - Fresh University graduates"
+    },
+    "Datadog:8351509": {
+        "title": "Technical Escalations Engineer 2 (Web Platform)"
     }
 }
