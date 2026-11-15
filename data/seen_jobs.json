@@ -412654,5 +412654,260 @@
     },
     "Celestica:142596": {
         "title": "Fuels - Production Technical Operator"
+    },
+    "Physical Intelligence:b0de3fd2-fb06-48d4-adf9-c7964e1cbc55": {
+        "title": "Robot Service Technician Shift Lead"
+    },
+    "OpenAI:9eabe3b6-7d42-4bd6-85f5-919117ad8056": {
+        "title": "Business Recruiter"
+    },
+    "Perplexity:10a51134-6741-40ec-8cca-a8ac1534673b": {
+        "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)"
+    },
+    "1Password:6d3acd23-5a6d-4e38-bf5a-bee4d9a3460b": {
+        "title": "Strategic Finance Analyst - 15 Month Contract"
+    },
+    "Anthropic:5469291008": {
+        "title": "Engineering Manager, Billing Platform"
+    },
+    "SpaceX:8943586002": {
+        "title": "Full Stack Software Engineer (Starlink)"
+    },
+    "SpaceX:8943684002": {
+        "title": "Sr. Full Stack Software Engineer (Starlink)"
+    },
+    "SpaceX:8943425002": {
+        "title": "TIG Welder (Starship)"
+    },
+    "GitLab:8937803002": {
+        "title": "Customer Success Architect, France"
+    },
+    "GitLab:8937797002": {
+        "title": "Customer Success Architect, NEUR"
+    },
+    "GitLab:8937825002": {
+        "title": "Customer Success Engineer, EMEA"
+    },
+    "GitLab:8937862002": {
+        "title": "Senior Engagement Manager - Professional Services Sales,  EMEA"
+    },
+    "DoorDash (USA):7085669": {
+        "title": "Technical Support Engineer"
+    },
+    "Ericsson:794536": {
+        "title": "Senior EHS Manager-VF"
+    },
+    "Ericsson:793166": {
+        "title": "Senior Satellite Network Engineer"
+    },
+    "NVIDIA:/job/China-Shenzhen/Senior-Hardware-System-Engineer_JR2027818": {
+        "title": "Senior Hardware System Engineer"
+    },
+    "NVIDIA:/job/Israel-Yokneam/Senior-AI-Engineer--Forward-Deployed---Palantir-Foundry-and-AIP_JR2029049": {
+        "title": "Senior AI Engineer, Forward Deployed - Palantir Foundry and AIP"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1": {
+        "title": "Deep Learning Framework Communications Engineer - New College Grad 2026"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NPI-Data-Center_JR2029799": {
+        "title": "Senior System Software Engineer, NPI Data Center"
+    },
+    "NVIDIA:/job/US-CA-Santa-Clara/Senior-Product-Manager---NVIDIA-Sentry-and-DOCA-Security_JR2029623": {
+        "title": "Senior Product Manager - NVIDIA Sentry and DOCA Security"
+    },
+    "Salesforce:/job/India---Hyderabad/Systems-Engineering-Associate_JR368441": {
+        "title": "Systems Engineering Associate"
+    },
+    "Cisco:/job/Karachi-Pakistan/Account-Executive---Portfolio---Pakistan--Karachi_2027764": {
+        "title": "Account Executive - Portfolio - Pakistan, Karachi"
+    },
+    "Cisco:/job/Bangalore-India/Software-Engineer_2030558-1": {
+        "title": "Software Engineer"
+    },
+    "Cisco:/job/Annapolis-Junction-Maryland-US/Consulting-Engineering-Technical-Leader_2025183-1": {
+        "title": "Consulting Engineering Technical Leader"
+    },
+    "Cisco:/job/Baku-Azerbaijan/Solutions-Engineer---Azerbaijan_2030544": {
+        "title": "Solutions Engineer - Azerbaijan"
+    },
+    "Cisco:/job/Tel-Aviv-Yafo-Israel/Senior-Software-Engineer_2030421": {
+        "title": "Senior Software Engineer"
+    },
+    "Cisco:/job/Tel-Aviv-Yafo-Israel/Software-Engineering-Technical-Leader_2030297": {
+        "title": "Software Engineering Technical Leader"
+    },
+    "Cisco:/job/Caesarea-Israel/Software-Embedded-Engineer_2029925": {
+        "title": "Software Embedded Engineer"
+    },
+    "Cisco:/job/Milpitas-California-US/Software-Engineer_2028744": {
+        "title": "Software Engineer"
+    },
+    "Cisco:/job/Milpitas-California-US/Software-Engineer_2028825": {
+        "title": "Software Engineer"
+    },
+    "Cisco:/job/London-United-Kingdom/Senior-Economist---Data-Scientist--Technology-Markets_2029862-1": {
+        "title": "Senior Economist / Data Scientist, Technology Markets"
+    },
+    "Cisco:/job/Nairobi-Kenya/Solutions-Engineer---Kenya_2029578": {
+        "title": "Solutions Engineer - Kenya"
+    },
+    "Cisco:/job/Istanbul-Turkey/Solutions-Engineer_2030083-1": {
+        "title": "Solutions Engineer"
+    },
+    "Intel:/job/Israel-Kiryat-Gat/Analytical-Chemistry-Lab-Technician_JR0289024": {
+        "title": "Analytical Chemistry Lab Technician"
+    },
+    "Intel:/job/Israel-Kiryat-Gat/FFEO-LC-shifts-gas-tech---Kiryat-Gat_JR0288921": {
+        "title": "FFEO LC shifts gas tech - Kiryat Gat"
+    },
+    "Intel:/job/US-Arizona-Phoenix/Semiconductor-Packaging-Process-Engineering-Lead_JR0289081-1": {
+        "title": "Semiconductor Packaging Process Engineering Lead"
+    },
+    "Marvell:/job/Petah-Tikva/Software-Firmware-Engineering_2604496": {
+        "title": "Software/Firmware Engineering Intern"
+    },
+    "Marvell:/job/Yokneam/Physical-Design-Intern_2604557": {
+        "title": "Physical Design Intern"
+    },
+    "Marvell:/job/Taipei/Director--Substrate-Sourcing_2605332": {
+        "title": "Director, Substrate Sourcing"
+    },
+    "ABB Robotics:/job/USA-MS--Columbus-Home-Office/Winder-3-2_JR00053619": {
+        "title": "Winder-3-2"
+    },
+    "ABB Robotics:/job/USA-MS--Columbus-Home-Office/Winder-3-1_JR00053618": {
+        "title": "Winder-3-1"
+    },
+    "ABB Robotics:/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00052268": {
+        "title": "Sales Support Specialist"
+    },
+    "ABB Robotics:/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00052265": {
+        "title": "Sales Support Specialist"
+    },
+    "ABB Robotics:/job/Cairo-Cairo-Egypt/LVS-sales-specialist--Infrastructure-Segment_JR00052202": {
+        "title": "LVS sales specialist -Infrastructure Segment"
+    },
+    "ABB Robotics:/job/Algiers-Algiers-Algeria/Service-Manager_JR00051620": {
+        "title": "Service Manager"
+    },
+    "ABB Robotics:/job/Sesto-San-Giovanni-Milano-Italy/Global-Installed-Base-Manager---ABB-Robotics_JR00052196": {
+        "title": "Global Installed Base Manager - ABB Robotics"
+    },
+    "CAE:/job/Dallas-TX-USA/Supporting-Crew-Member_124261": {
+        "title": "Supporting Crew Member"
+    },
+    "Thales:/job/TEL-AVIV/Senior-Appsec-Sales-Engineer_R0346548": {
+        "title": "Senior Appsec Sales Engineer"
+    },
+    "Motorola Solutions:/job/Brazil-Remote-Work/Product-Owner_R70671": {
+        "title": "Product Owner"
+    },
+    "General Motors:/job/Giza-Egypt/Field-Operations-and-Technical-Assistance-Manager_JR-202623893": {
+        "title": "Field Operations and Technical Assistance Manager"
+    },
+    "General Motors:/job/Giza-Egypt/Product-and-Business-Development-Manager_JR-202623894": {
+        "title": "Product and Business Development Manager"
+    },
+    "General Motors:/job/Bogota-Cundinamarca-Colombia/Product-Engineer-Bill-of-Materials-Analyst---GMSA-Pacific_JR-202623647": {
+        "title": "Product Engineer Bill of Materials Analyst \u2013 GMSA Pacific"
+    },
+    "General Motors:/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Retail-Marketing-Supervisor_JR-202624046": {
+        "title": "Retail Marketing Supervisor"
+    },
+    "TD:/job/Hyannis-Massachusetts/Region-Store-Manager_R_1522395": {
+        "title": "Region Store Manager"
+    },
+    "BMO:/job/Toronto-ON-CAN/Director--Credit-Adjudication--Non-Bank-Financial---Asset-Dealer-Finance_R260031705": {
+        "title": "Director, Credit Adjudication, Non-Bank Financial & Asset Dealer Finance"
+    },
+    "BMO:/job/Chicago-IL-USA/Director---Credit-Adjudication-Non-Bank-Financial---Asset-Dealer-Finance_R260031350": {
+        "title": "Director - Credit Adjudication Non-Bank Financial / Asset Dealer Finance"
+    },
+    "BMO:/job/Vancouver-BC-CAN/Director--High-Risk-Portfolio-Management-Team--Commercial-Banking-_R260031703": {
+        "title": "Director, High Risk Portfolio Management Team (Commercial Banking)"
+    },
+    "CIBC:/job/Bolton-ON/Associate-Financial-Advisor_2623597": {
+        "title": "Associate Financial Advisor"
+    },
+    "CIBC:/job/Caledon-East-ON/Financial-Services-Representative_2621882-1": {
+        "title": "Financial Services Representative"
+    },
+    "Manulife:/job/Singapore/Associate-Full-Stack-Software-Engineer_JR26110593": {
+        "title": "Associate Full Stack Software Engineer"
+    },
+    "Manulife:/job/Singapore/Manager--IFRS17_JR26101771": {
+        "title": "Manager, IFRS17"
+    },
+    "Hewlett Packard Enterprise (HPE):/job/Bengaluru-Karntaka-India/Linux-System-Support-Admin---HPC_1217852-2": {
+        "title": "Linux System Support/Admin \u2013 HPC"
+    },
+    "Red Hat:/job/Raanana/Senior-AI-Solutions-Consultant---Red-Hat-Consulting_R-059570-1": {
+        "title": "Senior AI Solutions Consultant \u2013 Red Hat Consulting"
+    },
+    "Caterpillar:/job/Mossville-Illinois/Senior-Validation-Engineer---Autonomy-Scalability--1st-Shift-_R0000405438": {
+        "title": "Senior Validation Engineer - Autonomy Scalability (1st Shift)"
+    },
+    "Caterpillar:/job/Chennai-Tamil-Nadu/Senior-Digital-Project-Manager_R0000401449": {
+        "title": "Senior Digital Project Manager"
+    },
+    "Caterpillar:/job/Bangalore-Karnataka/Salesforce-Developer---Production-Support_R0000401324": {
+        "title": "Salesforce Developer - Production Support"
+    },
+    "Caterpillar:/job/Chennai-Tamil-Nadu/Software-Test-Engineer---Automation-Testing_R0000380754": {
+        "title": "Software Test Engineer - Automation Testing"
+    },
+    "Caterpillar:/job/Bangalore-Karnataka/Senior-Software-Engineer-SRE_R0000383857": {
+        "title": "Senior Software Engineer-SRE"
+    },
+    "Caterpillar:/job/Bangalore-Karnataka/Software-Engineer--Net-Developer-with-Azure_R0000375301": {
+        "title": "Software Engineer- .Net Developer with Azure"
+    },
+    "Caterpillar:/job/Chennai-Tamil-Nadu/Search-Test-Engineer_R0000371498": {
+        "title": "Software Test Engineer"
+    },
+    "Caterpillar:/job/Bangalore-Karnataka/Software-Engineer--UI-Developer_R0000354460": {
+        "title": "Senior Software Engineer- UI Developer"
+    },
+    "Caterpillar:/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657": {
+        "title": "Senior Data Quality Assurance Engineer, Data Annotation Services"
+    },
+    "Caterpillar:/job/Chennai-Tamil-Nadu/Senior-Software-Engineer_R0000367249-1": {
+        "title": "Senior SRE Engineer-Production Support"
+    },
+    "Caterpillar:/job/Chennai-Tamil-Nadu/Software-Engineer_R0000362478": {
+        "title": "Software Engineer- Automation Testing"
+    },
+    "SS&C Technologies:/job/Mumbai-India/Associate-manager---Operations_R44163": {
+        "title": "Associate Operations"
+    },
+    "SS&C Technologies:/job/Kuala-Lumpur-Malaysia/Associate--Private-Markets_R45904": {
+        "title": "Senior Associate"
+    },
+    "Hitachi Rail:/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Becario-de-Cuentas-por-Cobrar_R0151306": {
+        "title": "Becario de Cuentas por Cobrar"
+    },
+    "Hitachi Rail:/job/Mountcastle-Cres-Edinburgh-United-Kingdom/Facilities-Technician_R0113197": {
+        "title": "Facilities Technician"
+    },
+    "Hitachi Rail:/job/Buenos-Aires-Capital-Federal-Argentina/Pasanta-en-Propuestas-para-Sistemas-de-Potencia_R0151132": {
+        "title": "Pasant\u00eda en Propuestas para Sistemas de Potencia"
+    },
+    "Hitachi Rail:/job/Guarulhos-So-Paulo-Brazil/Estgio-em-Planejamento-de-Campo_R0151357": {
+        "title": "Est\u00e1gio em Planejamento de Campo"
+    },
+    "Hitachi Rail:/job/Blumenau-Santa-Catarina-Brazil/ASSISTENTE-DE-SUPORTE-VENDAS_R0151442": {
+        "title": "ASSISTENTE DE SUPORTE VENDAS"
+    },
+    "Aptiv:/job/Bangalore-India/Technical-Lead-Engineer----Cybesecurity_J000706511-1": {
+        "title": "Technical Lead Engineer  - Cybesecurity"
+    },
+    "Brain Corp:8944153002": {
+        "title": "Technical Support Engineer, Spanish Bilingual (6 Month Contract)"
+    },
+    "Brain Corp:8944155002": {
+        "title": "Technical Support Engineer, Spanish Bilingual (6 Month Contract, Remote)"
+    },
+    "Databricks:8944097002": {
+        "title": "Staff Software Engineer (App-Framework)"
     }
 }
