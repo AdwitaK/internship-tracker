@@ -417265,5 +417265,1466 @@
     },
     "Celestica:142449": {
         "title": "Staff Engineer, Mechatronics-Capital Equipment"
+    },
+    "Applied Intuition:b4e9aedc-72a0-4f0a-a03f-25f16bce9e21": {
+        "title": "Legal Counsel - Commercial"
+    },
+    "Applied Intuition:1ff4c3fe-e7a2-47fe-b7c1-7ab42bc16bfb": {
+        "title": "Hardware Integration Engineer, Build"
+    },
+    "Applied Intuition:957f00e5-a0d6-4f68-a977-324129bebe1a": {
+        "title": "People Experience Project Manager"
+    },
+    "Applied Intuition:98fb7878-767b-4de4-8836-d5a2ccc85098": {
+        "title": "Hardware Integration Engineer, Build"
+    },
+    "Applied Intuition:28d8f916-882c-4f3a-aa57-f54b901f5e39": {
+        "title": "System Integration Engineer, Build"
+    },
+    "Applied Intuition:3d6378f8-7aed-4f13-9882-7cd56f8b4524": {
+        "title": "Engineering Technician \u2013 Wire Harness Manufacturing"
+    },
+    "Applied Intuition:041cf6c9-9bf8-43a6-a539-55eec978bb7f": {
+        "title": "System Integration Engineer, Build"
+    },
+    "Applied Intuition:09254aaa-f436-44bd-8e7a-52cea624698c": {
+        "title": "Engineering Technician \u2013 Wire Harness Manufacturing"
+    },
+    "Gecko Robotics:23ac74ba-9181-40e6-9b8d-bf0a86287554": {
+        "title": "Content Marketing Manager"
+    },
+    "OpenAI:52b96704-5944-4ade-9f0f-27438cd5b560": {
+        "title": "Manager, Forward Deployed Engineering - London"
+    },
+    "OpenAI:efae0a22-24d6-4562-834c-1110c5e7677b": {
+        "title": "Product Manager, Frontier Risks Safety"
+    },
+    "OpenAI:9b2ea00e-f5ef-4542-b4cf-9f85a2930a1f": {
+        "title": "Client Partner, Ads Solutions \u2013 Scaled"
+    },
+    "OpenAI:8a5a2dc0-adeb-40e3-a669-daa385dff393": {
+        "title": "Client Partner, New Business - Ads Solutions "
+    },
+    "OpenAI:89959eee-bd3a-4564-9c47-e4771c6c1e0f": {
+        "title": "Product Manager, ChatGPT Business Growth"
+    },
+    "OpenAI:44a25d94-eea2-45e0-945c-386a6f6753ec": {
+        "title": "Enablement Lead, Government"
+    },
+    "OpenAI:c389205c-b163-402f-ab8f-674b7f260c9d": {
+        "title": "Geotechnical Engineer, Data Center Development"
+    },
+    "OpenAI:145f2801-4c59-4e90-a847-32085d20511c": {
+        "title": "Data Science Leader, B2B Marketing & Demand Generation"
+    },
+    "OpenAI:4e9a1479-320a-465c-887d-ebbd9249db8a": {
+        "title": "Designer, OpenAI.com"
+    },
+    "OpenAI:72a513ec-d75c-48d5-9fa5-7eac3d7d12b2": {
+        "title": "Risk & Fraud Analyst"
+    },
+    "OpenAI:13e09206-133e-464a-a8d4-d306c203be03": {
+        "title": "Enablement Lead - EDU"
+    },
+    "OpenAI:919b3666-14c2-4c70-b28c-7a49fedc418e": {
+        "title": "Product Designer, Advertiser Experiences"
+    },
+    "Perplexity:01f7cf03-44dd-47a8-a9b9-bdd7050fcac0": {
+        "title": "Founding Account Executive, EMEA"
+    },
+    "Notion:0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f": {
+        "title": "Software Engineer, Collections Infra"
+    },
+    "Notion:a8143379-6693-4046-b8cf-1528178d0f0f": {
+        "title": "CX Systems & Automation Lead"
+    },
+    "Redis:12c3adbb-a3e8-4f88-b25c-4ddab95c9005": {
+        "title": "Senior Performance Engineer"
+    },
+    "Sentry:28151f7d-82b9-4bbf-a0e7-3cc0173be0b5": {
+        "title": "Mid Market Account Executive"
+    },
+    "Sentry:26d9789b-7546-4091-83de-c7f3410f616a": {
+        "title": "Forward Deployed Engineer"
+    },
+    "1Password:a9dff498-a28d-490a-9c04-d57e4df967b8": {
+        "title": "Senior Developer (Apono)"
+    },
+    "1Password:fbb89431-d31d-4775-8453-4eb972a1bc40": {
+        "title": "Team Lead, Engineering (Apono)"
+    },
+    "1Password:334119cb-274f-4b74-931f-f04aa2475e2d": {
+        "title": "Staff Developer (Apono)"
+    },
+    "1Password:db80d7f9-6359-44e3-ab63-ab37b647f029": {
+        "title": "Senior Developer, Customer-Facing R&D (Apono)"
+    },
+    "1Password:fe895753-ca89-4266-ab5c-85cb39950cee": {
+        "title": "Senior Developer, Device Trust"
+    },
+    "1Password:3aad3321-a5fc-48bd-9634-d4c03aa7f173": {
+        "title": "Technical Product Manager (Apono)"
+    },
+    "1Password:420396fb-c0d2-40bf-8f31-729a27a815f1": {
+        "title": "Sr Product Designer (Apono)"
+    },
+    "1Password:a835fee8-dc26-44de-87bd-39e081291857": {
+        "title": "Senior Manager, AI Transformation (HR & Operations)"
+    },
+    "Wealthsimple:d9a24b57-1d84-4087-8c47-0716482296fe": {
+        "title": "Team Lead, Client Experience Operations (Banking)"
+    },
+    "Jobber:77ebef80-ac93-4e62-9e2e-675675a36897": {
+        "title": "Senior Product Manager, Customer Experience"
+    },
+    "Standard Bots:199c16cb-1454-4739-82be-f30bfd6075d0": {
+        "title": "Manufacturing Quality Inspector"
+    },
+    "Trulioo:f44bab48-072f-4a66-bee7-0d1c9a698993": {
+        "title": "Enterprise Account Executive"
+    },
+    "Plaid:2602117d-bfcc-407a-ae28-ea3a7c7aa216": {
+        "title": "Fraud Intelligence Analyst"
+    },
+    "Ramp:f90d32c1-7c10-4161-8913-075e1b423697": {
+        "title": "Research Engineer, Agentic Systems"
+    },
+    "Ramp:96fb14e0-c44f-409d-aeb4-b2e864bfa36f": {
+        "title": "IT Site Specialist"
+    },
+    "Ramp:be7b0a9e-44b0-4c0f-b947-563c83f5ca10": {
+        "title": "Solutions Consultant, Post Sales, Strategic"
+    },
+    "Ramp:da40ed6e-1c32-4284-89f5-2ad0813b8d49": {
+        "title": "Software Engineer, Production Engineering, FinOps"
+    },
+    "Ramp:df5e48f0-f7a0-4cf3-a85b-9d4bb070b0d7": {
+        "title": "Manager, Customer Activation Managers [Frontier Products]"
+    },
+    "Ramp:42fcee41-692f-4d0a-b04d-d7368357332a": {
+        "title": "Senior Account-Based Marketing Manager"
+    },
+    "Hopper:b0ee8008-de14-4e33-b462-f6f1ab6bed83": {
+        "title": "Senior B2B Performance Marketing Manager"
+    },
+    "Hopper:f4511da1-9b12-472f-b7cb-882502460ac9": {
+        "title": "Gestionnaire principal(e) du marketing de performance B2B// Senior B2B Performance Marketing Manager"
+    },
+    "Hopper:93248c9a-945c-4e2f-8fbb-a8b77b06cb20": {
+        "title": "Senior B2B Performance Marketing Manager"
+    },
+    "SurveyMonkey:24dbe020-0755-489c-84dc-fae978f6909b": {
+        "title": "Senior Systems Engineer II - Platform Engineering"
+    },
+    "SurveyMonkey:d79bcb8f-b451-45c5-a7a0-92f6d6948690": {
+        "title": "Senior Systems Engineer II - Platform Operations"
+    },
+    "SurveyMonkey:242b68ad-8187-45e6-b75b-239c99e18680": {
+        "title": "Senior Systems Engineer I - Platform Engineering"
+    },
+    "SurveyMonkey:3d831156-a26e-4add-9a91-123e15e19303": {
+        "title": "Senior Systems Engineer I - Platform Operations"
+    },
+    "Relay:88afb31d-6d61-4922-ba5f-d3924074bf51": {
+        "title": "Manager, Influencer Marketing"
+    },
+    "Relay:5f92b9be-9334-4a25-8bc4-e9d6147dbbe1": {
+        "title": "Senior Software Engineer II, Multiple Teams"
+    },
+    "Solace:827": {
+        "title": "Security Engineering Lead"
+    },
+    "Solace:828": {
+        "title": "Director, Field\u00a0Sales Operations"
+    },
+    "Equitable:20792": {
+        "title": "Life Administrator"
+    },
+    "Equitable:20796": {
+        "title": "CCC Intelligent Solutions Analyst"
+    },
+    "Equitable:20800": {
+        "title": "Document Services Administrator"
+    },
+    "Equitable:20808": {
+        "title": "Client Care Representative, Individual Insurance \u2013 Bilingual (English/French)"
+    },
+    "Equitable:20810": {
+        "title": "Client Care Representative, Individual Insurance \u2013 Bilingual (English/French)"
+    },
+    "Equitable:20812": {
+        "title": "Client Care Representative, Individual Insurance \u2013 Bilingual (English/French)"
+    },
+    "Converge Technology Solutions:3437": {
+        "title": "Account Executive"
+    },
+    "Retool:am9icG9zdDqB619NbNGVLZOTW61pgpax": {
+        "title": "Escalation Engineer, EMEA"
+    },
+    "Anduril:5302147007": {
+        "title": "2027 Engineering Systems Intern"
+    },
+    "Anduril:5301127007": {
+        "title": "Accounts Payable Specialist"
+    },
+    "Anduril:5298951007": {
+        "title": "Associate Director, Business Development - Maneuver Dominance (International)"
+    },
+    "Anduril:5300687007": {
+        "title": "Avionics Systems Engineer, Space "
+    },
+    "Anduril:5302018007": {
+        "title": "Buyer - Altius 600"
+    },
+    "Anduril:5287645007": {
+        "title": "Chief Integration Engineer"
+    },
+    "Anduril:5240194007": {
+        "title": "Deployment Lead, USAF"
+    },
+    "Anduril:5301932007": {
+        "title": "Director, Intelligence Systems"
+    },
+    "Anduril:5301006007": {
+        "title": "Director of Repair Engineering"
+    },
+    "Anduril:5296819007": {
+        "title": "Director of Repair Engineering"
+    },
+    "Anduril:5301992007": {
+        "title": "Electrical Test Engineer"
+    },
+    "Anduril:5301312007": {
+        "title": "Global Event Security Lead"
+    },
+    "Anduril:5301994007": {
+        "title": "Hardware Test Engineer"
+    },
+    "Anduril:5301996007": {
+        "title": "Laser Test Engineer"
+    },
+    "Anduril:5301395007": {
+        "title": "Loads and Dynamics Engineer, Missiles"
+    },
+    "Anduril:5223619007": {
+        "title": "Manufacturing Engineer"
+    },
+    "Anduril:5236055007": {
+        "title": "Manufacturing Engineer, Battlespace Awareness"
+    },
+    "Anduril:5301116007": {
+        "title": "Manufacturing Security Operations Manager"
+    },
+    "Anduril:5200644007": {
+        "title": "Metrology Technician"
+    },
+    "Anduril:5299112007": {
+        "title": "Mission Operations Engineer - Altius"
+    },
+    "Anduril:5250937007": {
+        "title": "Operations & Logistics Associate, Connected Warfare"
+    },
+    "Anduril:5301997007": {
+        "title": "Optical Hardware Test Engineer"
+    },
+    "Anduril:5258884007": {
+        "title": "Product Quality Engineer"
+    },
+    "Anduril:5203832007": {
+        "title": "Product Quality Engineer - Barracuda"
+    },
+    "Anduril:5301814007": {
+        "title": "Senior Buyer"
+    },
+    "Anduril:5278640007": {
+        "title": "Senior Electrical EMC Engineering Technician, Air Dominance and Strike "
+    },
+    "Anduril:5302016007": {
+        "title": "Senior Full Stack Software Engineer, Intelligence Systems "
+    },
+    "Anduril:5302228007": {
+        "title": "Senior Industrial Engineer"
+    },
+    "Anduril:5295992007": {
+        "title": "Senior International Accounting Manager"
+    },
+    "Anduril:5162941007": {
+        "title": "Senior Manager, Deployments Special Projects & Capabilities"
+    },
+    "Anduril:5301199007": {
+        "title": "Senior Manager, Finance Data"
+    },
+    "Anduril:5281238007": {
+        "title": "Senior Production Manager"
+    },
+    "Anduril:5301236007": {
+        "title": "Senior Program Manager, People Operations"
+    },
+    "Anduril:5301998007": {
+        "title": "Senior Systems Test Engineer"
+    },
+    "Anduril:5294204007": {
+        "title": "Staff Mechanical Engineer"
+    },
+    "Anduril:5300820007": {
+        "title": "Technical Security Application Engineer, Special Projects"
+    },
+    "Anduril:5279960007": {
+        "title": "Training Systems Engineer"
+    },
+    "Motional:8209264003": {
+        "title": "Principal Engineer - Autonomy Systems Engineering, Vehicle Platform & Control Interfaces"
+    },
+    "Motional:8208688003": {
+        "title": "Remote Vehicle Assistance Agent  - R&D"
+    },
+    "Motional:8209236003": {
+        "title": "Senior Engineer - Autonomy Systems Engineering, Vehicle Control"
+    },
+    "Motional:8208717003": {
+        "title": "Senior IT Engineer - Network"
+    },
+    "Latitude AI:8403102": {
+        "title": "Mission Operator - Detroit, MI (Contractor, Overnight Shift)"
+    },
+    "Latitude AI:8401949": {
+        "title": "Mission Operator - Greenville, SC  (Contractor)"
+    },
+    "Latitude AI:8403134": {
+        "title": "Senior Cyber Security Engineer - Identity and Device Management, & Networking Security"
+    },
+    "Gatik:4730921006": {
+        "title": "Buyer"
+    },
+    "Torc Robotics:8945038002": {
+        "title": "Autonomy Software Integration Engineer II"
+    },
+    "Torc Robotics:8940846002": {
+        "title": "Senior Vehicle Dynamics and Safety Performance Engineer\u202f"
+    },
+    "Anthropic:5486656008": {
+        "title": "AWS Partnerships Lead"
+    },
+    "Anthropic:5486907008": {
+        "title": "Community Engagement Manager, Data Centres (Canada)"
+    },
+    "Anthropic:5456315008": {
+        "title": "Head of Community Relations, Compute"
+    },
+    "Anthropic:5474013008": {
+        "title": "Sales Director "
+    },
+    "Anthropic:5138549008": {
+        "title": "Strategic Account Executive, Tech"
+    },
+    "Scale AI:4756303005": {
+        "title": "Account Executive, Defense Intelligence Agency (DIA)"
+    },
+    "IMC Trading:5018650101": {
+        "title": "Commodities Analyst"
+    },
+    "IMC Trading:5042009101": {
+        "title": "Trading Analyst"
+    },
+    "DRW:8370731": {
+        "title": "Business Manager"
+    },
+    "DRW:8401702": {
+        "title": "Systems Support Engineer (UAT & Development)"
+    },
+    "DRW:8396110": {
+        "title": "Workplace Manager"
+    },
+    "SpaceX:8934419002": {
+        "title": "Account Executive, Geo Enterprise"
+    },
+    "SpaceX:8753321002": {
+        "title": "Backend Software Engineer, GNC (Starlink)"
+    },
+    "SpaceX:8950661002": {
+        "title": "Contracts Manager"
+    },
+    "SpaceX:8950651002": {
+        "title": "Contracts Manager"
+    },
+    "SpaceX:8950339002": {
+        "title": "Critical Lift & Transport Technician (Crane Operations) - Day Shift"
+    },
+    "SpaceX:8950367002": {
+        "title": "Critical Lift & Transport Technician (Crane Operations) - Night Shift"
+    },
+    "SpaceX:8950369002": {
+        "title": "Critical Lift & Transport Technician (Transport Operations) - Day Shift"
+    },
+    "SpaceX:8950357002": {
+        "title": "Critical Lift & Transport Technician (Transport Operations) - Day Shift"
+    },
+    "SpaceX:8951756002": {
+        "title": "Electrical Engineer, Facilities"
+    },
+    "SpaceX:8943531002": {
+        "title": "Electrical Engineer, PCB (Starlink/Starmind)"
+    },
+    "SpaceX:8949358002": {
+        "title": "Environmental Engineer"
+    },
+    "SpaceX:8939749002": {
+        "title": "Global Supply Manager, Custom Silicon and Semiconductor (Starlink)"
+    },
+    "SpaceX:8946924002": {
+        "title": "Global Supply Manager, Data Center Cooling Equipment"
+    },
+    "SpaceX:8952362002": {
+        "title": "Global Supply Manager, Data Center Cooling Equipment"
+    },
+    "SpaceX:8952365002": {
+        "title": "Global Supply Manager, Data Center Cooling Equipment"
+    },
+    "SpaceX:8950289002": {
+        "title": "Integration & Test Engineer (Bus & Payload Sub-Assemblies)"
+    },
+    "SpaceX:8950317002": {
+        "title": "Integration & Test Specialist (Bus & Payload Sub-Assemblies) - 2nd Shift"
+    },
+    "SpaceX:8950337002": {
+        "title": "Integration & Test Specialist (Starlink Satellite Integration)"
+    },
+    "SpaceX:8950833002": {
+        "title": "Lead Operations Engineer, Data Center Facilities (SpaceXSI)"
+    },
+    "SpaceX:8949032002": {
+        "title": "Lead Operations Engineer, Global (Starlink) "
+    },
+    "SpaceX:8950585002": {
+        "title": "Manager, Accounting"
+    },
+    "SpaceX:8950204002": {
+        "title": "Manager, Graphic Design"
+    },
+    "SpaceX:8950229002": {
+        "title": "Manufacturing Engineer, PCBA (Starlink)"
+    },
+    "SpaceX:8950291002": {
+        "title": "Mechanical Design Engineer, Payloads (Falcon)"
+    },
+    "SpaceX:8952403002": {
+        "title": "Mechanical Design Engineer (Starship Components)"
+    },
+    "SpaceX:8949311002": {
+        "title": "Operations Engineer, Paid Media (Starlink)"
+    },
+    "SpaceX:8940404002": {
+        "title": "Operations Engineer, Supply Chain (Starlink)"
+    },
+    "SpaceX:8940419002": {
+        "title": "Operations Engineer, Supply Chain (Starlink)"
+    },
+    "SpaceX:8950782002": {
+        "title": "Production Development Technician (Starlink Aviation)"
+    },
+    "SpaceX:8949490002": {
+        "title": "Recruiting Coordinator (Bastrop)"
+    },
+    "SpaceX:8949469002": {
+        "title": "Recruiting Coordinator (Hawthorne)"
+    },
+    "SpaceX:8952904002": {
+        "title": "Sourcing Manager, Capital Equipment & Construction (Starlink) "
+    },
+    "SpaceX:8952228002": {
+        "title": "Sr. Construction Engineer"
+    },
+    "SpaceX:8940493002": {
+        "title": "Sr. Environmental Health & Safety Engineer"
+    },
+    "SpaceX:8949724002": {
+        "title": "Sr Manager, Enterprise Customer Experience (Starlink)"
+    },
+    "SpaceX:8948567002": {
+        "title": "Sr. Mechanical Engineer, Optical Production (Starlink)"
+    },
+    "SpaceX:8950526002": {
+        "title": "Sr. Operations Engineer, Security Hardware"
+    },
+    "SpaceX:8950926002": {
+        "title": "Sr. Physical Security Specialist"
+    },
+    "SpaceX:8943755002": {
+        "title": "Sr. Superintelligence (SI) Engineer, Special Programs"
+    },
+    "SpaceX:8947907002": {
+        "title": "Sr. Superintelligence (SI) Engineer, Special Programs"
+    },
+    "SpaceX:8949196002": {
+        "title": "Technical Trainer, Starlink Satellite Production"
+    },
+    "SpaceX:8950789002": {
+        "title": "TIG Welder (Starship)"
+    },
+    "Rocket Lab:8165888003": {
+        "title": "Mechanical Engineer II"
+    },
+    "Rocket Lab:8204047003": {
+        "title": "Principal Flight Software Engineer  "
+    },
+    "Rocket Lab:8204049003": {
+        "title": "Senior Flight Software Engineer II"
+    },
+    "Rocket Lab:8209473003": {
+        "title": "Senior LN Development and Integration Lead"
+    },
+    "Rocket Lab:8198329003": {
+        "title": "Senior Manufacturing Engineer I"
+    },
+    "Rocket Lab:8209356003": {
+        "title": "Senior PCB Layout Engineer I"
+    },
+    "Rocket Lab:8204601003": {
+        "title": "Senior Quality Engineer I"
+    },
+    "Rocket Lab:8209377003": {
+        "title": "Senior Systems Test Engineer I"
+    },
+    "Rocket Lab:8208937003": {
+        "title": "Spacecraft GNC Engineer II "
+    },
+    "Rocket Lab:8209505003": {
+        "title": "Systems Test Engineer II"
+    },
+    "Cloudflare:8392878": {
+        "title": "Account Executive, Start Ups"
+    },
+    "Cloudflare:8384364": {
+        "title": "Head of Zero Day Engineering"
+    },
+    "Cloudflare:8398613": {
+        "title": "Principal Customer Experience Manager"
+    },
+    "Cloudflare:8403466": {
+        "title": "Senior Commercial Account Executive (Austin)"
+    },
+    "Cloudflare:8393704": {
+        "title": "Senior Majors Account Manager"
+    },
+    "Cloudflare:8398753": {
+        "title": "Senior Software Engineer, Data Primitives"
+    },
+    "Cloudflare:8398779": {
+        "title": "Software Engineer, Data Primitives"
+    },
+    "HubSpot:7873690": {
+        "title": "Lead Solutions Engineer | Upmarket, ANZ"
+    },
+    "HubSpot:8401399": {
+        "title": "Lead Solutions Engineer | Upmarket, ANZ"
+    },
+    "HubSpot:8395247": {
+        "title": "Partner Specialist, DACH"
+    },
+    "HubSpot:8397522": {
+        "title": "Senior Contract Manager - Mid Market/ Corporate Team"
+    },
+    "Robinhood:8402939": {
+        "title": "Senior Technical Recruiter, GenEng"
+    },
+    "Robinhood:8383140": {
+        "title": "Software Engineer, Prime"
+    },
+    "Figma:6261239004": {
+        "title": "Demand Generation Campaign Manager"
+    },
+    "Mercury:6266764004": {
+        "title": "Senior Recruiter - Technical"
+    },
+    "GitLab:8948050002": {
+        "title": "Candidate Experience Specialist, Contractor (EMEA)"
+    },
+    "GitLab:8940703002": {
+        "title": "Executive Assistant, Office of the CTO "
+    },
+    "GitLab:8948559002": {
+        "title": "Executive Assistant, Product and Marketing"
+    },
+    "GitLab:8949667002": {
+        "title": "New Business Account Executive - Nordics"
+    },
+    "GitLab:8936715002": {
+        "title": "People Safety & Resilience Manager"
+    },
+    "GitLab:8945990002": {
+        "title": "Senior Recruiter, Public Sector GTM"
+    },
+    "GitLab:8897543002": {
+        "title": "Strategic Account Executive, Financial Services - US Central   "
+    },
+    "GitLab:8895531002": {
+        "title": "Strategic Account Executive -  San Francisco"
+    },
+    "Reddit:8399813": {
+        "title": "Senior Client Account Manager, Large Customer Sales (AUS)"
+    },
+    "Reddit:8351484": {
+        "title": "Senior Client Account Manager, Mid-Market (Goods - Shopping)"
+    },
+    "Reddit:8368600": {
+        "title": "Senior Staff Machine Learning Engineer, Ads Ranking "
+    },
+    "Discord:8948573002": {
+        "title": "Staff Software Engineer, Safety Platform"
+    },
+    "Discord:8945979002": {
+        "title": "Staff Software Engineer, Safety Processing"
+    },
+    "Tenstorrent:5105201007": {
+        "title": "Infrastructure Automation Engineer, Metal"
+    },
+    "Tenstorrent:5291240007": {
+        "title": "Infrastructure Operations Engineer / SRE"
+    },
+    "Tenstorrent:5291289007": {
+        "title": "Infrastructure Operations Engineer / SRE"
+    },
+    "Tenstorrent:5302318007": {
+        "title": "Manager, Legal Operations"
+    },
+    "Tenstorrent:5301072007": {
+        "title": "Payroll Specialist"
+    },
+    "Tenstorrent:5302197007": {
+        "title": "Senior Specialist, Global Sourcing (Indirect)"
+    },
+    "Tenstorrent:5298792007": {
+        "title": "Sr. Engineer, Memory Enablement "
+    },
+    "Tenstorrent:5300531007": {
+        "title": "Staff Engineer, CPU Load Store Verification"
+    },
+    "Viam:6266281004": {
+        "title": "Senior Events and Field Marketing Manager"
+    },
+    "Apptronik:6266502004": {
+        "title": "Manufacturing Test Engineer - Robotic Hands"
+    },
+    "Apptronik:6266318004": {
+        "title": "Senior Manager, Hardware Test"
+    },
+    "PagerDuty:6265913004": {
+        "title": "Future Openings -  Enterprise Account Executive "
+    },
+    "PagerDuty:6265911004": {
+        "title": "Future Openings - Enterprise Account Executive "
+    },
+    "May Mobility:8932570002": {
+        "title": "Manager, Autonomy Engineering"
+    },
+    "League Inc:6266538004": {
+        "title": "Product Marketing Manager (remote within the United States)"
+    },
+    "Later.com:8951922002": {
+        "title": "VP Creator Growth"
+    },
+    "Twilio:8394774": {
+        "title": "New Business Account Executive "
+    },
+    "Twilio:8399190": {
+        "title": "Senior Manager, Strategic Accounts - Asia"
+    },
+    "Twilio:8384556": {
+        "title": "Staff Technical Account Manager"
+    },
+    "Vercel:6150691004": {
+        "title": "Software Engineer, Runtimes "
+    },
+    "coinbase:8402367": {
+        "title": "International Expansion Operations Associate"
+    },
+    "coinbase:8402798": {
+        "title": "Senior Product Creative Designer"
+    },
+    "coinbase:8349028": {
+        "title": "Senior Software Engineer, Native Mobile - International"
+    },
+    "DoorDash (USA):8400132": {
+        "title": "Senior Associate, Corporate Development"
+    },
+    "DoorDash (USA):8402171": {
+        "title": "Senior Manager, Dasher & Logistics Strategy & Operations"
+    },
+    "DoorDash (USA):8403286": {
+        "title": "Senior Manager, Robot Operations"
+    },
+    "DoorDash (USA):7763162": {
+        "title": "Senior Software Engineer, Motion Planning \u2013 DoorDash Labs, DoorDash Air"
+    },
+    "DoorDash (USA):8402404": {
+        "title": "Shift Lead, DashMart - Reno"
+    },
+    "DoorDash (USA):8403160": {
+        "title": "Site Manager, DashMart - Las Vegas, NV"
+    },
+    "Faire:8950671002": {
+        "title": "Head of Internal Audit"
+    },
+    "Faire:8950660002": {
+        "title": "Head of Tax"
+    },
+    "Faire:8951978002": {
+        "title": "Senior Accountant"
+    },
+    "Zoox:c6d372ce-1203-4d34-bd3e-f637e7d23483": {
+        "title": "Contract Student Worker - Data Scientist (20 hrs wk)"
+    },
+    "Zoox:7ff6f68a-52bd-48ab-87d4-029bcc43fa9f": {
+        "title": "Process Improvement Intern [Summer 2027]"
+    },
+    "Zoox:8356bb90-10cf-4c91-ba81-11acff1bdf60": {
+        "title": "Senior Optical & Mechanical Engineer (Interior lighting)"
+    },
+    "Dexterity:755a7b0c-98bb-4645-ab81-193c3994ff06": {
+        "title": "Sr. Electrical Engineer - Robotics Hardware"
+    },
+    "Telesat:1bbbc5b4-332e-408d-9e8a-e19dd7ecbe85": {
+        "title": "Accounts Payable Administrator"
+    },
+    "Palantir:4a9e0649-a925-4b25-914d-1eea058a3e01": {
+        "title": "Site Reliability Operations Analyst - Legal"
+    },
+    "Palantir:773bb739-f011-4202-88d7-362a562df0d3": {
+        "title": "Site Reliability Operations Analyst - Legal"
+    },
+    "PointClickCare:419d8aa9-e0ac-4e9d-8219-13a1126c4058": {
+        "title": "Senior Product Manager \u2013 Agentic Platform"
+    },
+    "PointClickCare:73ad5135-fd75-449d-8008-df929acb80c2": {
+        "title": "Senior Product Manager \u2013 Agentic Platform"
+    },
+    "ANYbotics:9cf13987-8abc-4678-a0f0-c524dcf08c3e": {
+        "title": "Senior Industrialization Engineer"
+    },
+    "Wattpad:b52f86f3-aa9a-4f52-abef-3f319984c424": {
+        "title": "[WEBTOON] Background Artist/3D Modeler (Freelance)"
+    },
+    "Wattpad:fc15ee06-e44a-4c44-bc3c-e6d665daa244": {
+        "title": "[WEBTOON] Storyboard/Thumbnail Artist (Freelance/Contract)"
+    },
+    "Scotiabank:279490": {
+        "title": "Associate Director"
+    },
+    "Scotiabank:272012": {
+        "title": "Associate Portfolio Manager"
+    },
+    "Scotiabank:279673": {
+        "title": "Associate, Credit Documentation, Canadian Commercial Banking"
+    },
+    "Scotiabank:279920": {
+        "title": "Associate, Credit Documentation, Canadian Commercial Banking - Montreal"
+    },
+    "Scotiabank:279872": {
+        "title": "Associate, Equity Derivatives Options Trader, Global Equities"
+    },
+    "Scotiabank:279897": {
+        "title": "Bilingual (English / French) Customer Care Advisor - Halifax NS, January 2027"
+    },
+    "Scotiabank:279892": {
+        "title": "Business Advisor - Oak Ridges, Richmond Hill, Ontario"
+    },
+    "Scotiabank:274438": {
+        "title": "Business Advisor - University District, Calgary, AB"
+    },
+    "Scotiabank:279883": {
+        "title": "Client Onboarding Senior Representative (12-Month Contract)"
+    },
+    "Scotiabank:279744": {
+        "title": "Coordonateur.trice r\u00e9gionale, Gestion financi\u00e8re MD - Ville de Qu\u00e9bec"
+    },
+    "Scotiabank:279669": {
+        "title": "Customer Experience Associate - Gander, Newfoundland (18.75 Hours/ Week)"
+    },
+    "Scotiabank:279858": {
+        "title": "Customer Experience Associate - Laval, QC (15 hours/week)"
+    },
+    "Scotiabank:279675": {
+        "title": "Customer Experience Associate - Regent Park, Regina, SK (Contract - 13 Months, 22.5 hours/week)"
+    },
+    "Scotiabank:279244": {
+        "title": "Data Engineer"
+    },
+    "Scotiabank:279346": {
+        "title": "Director de Estrategia y Performance de Riesgo Cr\u00e9dito Retail &amp; Pyme/ Riesgo Retail"
+    },
+    "Scotiabank:279925": {
+        "title": "Director, Engineering"
+    },
+    "Scotiabank:279900": {
+        "title": "Director, Enterprise Strategy, Canadian Banking"
+    },
+    "Scotiabank:279792": {
+        "title": "Director, National Accounts, Commercial Banking - Vancouver"
+    },
+    "Scotiabank:279424": {
+        "title": "ESPECIALISTA GASTOS"
+    },
+    "Scotiabank:279730": {
+        "title": "Financial Advisor - Beddington Town Centre, AB"
+    },
+    "Scotiabank:279887": {
+        "title": "Financial Advisor - Oak Ridges, Richmond Hill, Ontario"
+    },
+    "Scotiabank:279848": {
+        "title": "Financial Advisor, Investment &amp; Retirement Planning - \tKerrisdale, Vancouver"
+    },
+    "Scotiabank:279845": {
+        "title": "Lending Analyst Automotive Finance - Permanent and Casual Roles"
+    },
+    "Scotiabank:279913": {
+        "title": "Manager, AML Model Validation (Contract)"
+    },
+    "Scotiabank:279813": {
+        "title": "Manager, Fraud Client Protection"
+    },
+    "Scotiabank:279636": {
+        "title": "Regional Administrative Specialist, MD financial management - Trois-Rivieres"
+    },
+    "Scotiabank:279773": {
+        "title": "Scotia Jarislowsky Fraser Wealth Associate - Sudbury"
+    },
+    "Scotiabank:279838": {
+        "title": "Scotia Jarislowsky Fraser Wealth Associate - Vaughan"
+    },
+    "Scotiabank:279800": {
+        "title": "ScotiaMcLeod Branch Operations Assistant - Ottawa"
+    },
+    "Scotiabank:279851": {
+        "title": "Senior Analyst, L2 Alerts Escalations - GWO"
+    },
+    "Scotiabank:279843": {
+        "title": "Senior Analyst, Pricing"
+    },
+    "Scotiabank:279844": {
+        "title": "Senior Financial Advisor - Chelmsford, ON"
+    },
+    "Scotiabank:279860": {
+        "title": "Senior Financial Advisor - Spruceland Shopping Centre - Prince George, BC"
+    },
+    "Scotiabank:279423": {
+        "title": "Senior Financial Advisor, Country Hills Town Centre Branch, Calgary, AB"
+    },
+    "Scotiabank:278303": {
+        "title": "Senior Manager, Domestic Tax"
+    },
+    "Scotiabank:279690": {
+        "title": "Senior Manager, NYSDFS Part 504 Program"
+    },
+    "Scotiabank:279589": {
+        "title": "Senior Manager, Third Party Risk Management"
+    },
+    "Scotiabank:279170": {
+        "title": "Taxation Lead, MD Signature - Montreal, QC"
+    },
+    "Scotiabank:279591": {
+        "title": "Trust Officer, Scotiatrust - Montreal, Qc"
+    },
+    "Scotiabank:279659": {
+        "title": "Trust Officer, Scotiatrust - National Branch"
+    },
+    "ServiceNow:744000162604599": {
+        "title": "Partner Technology Architect - AI Platform & Data "
+    },
+    "ServiceNow:744000162602380": {
+        "title": "Business Development Representative (Native/Fluent Dutch, Finnish, Swedish OR Norwegian Speaking)"
+    },
+    "ServiceNow:744000162600710": {
+        "title": "Solution Sales Executive - MoveWorks"
+    },
+    "ServiceNow:744000162600639": {
+        "title": "Advisory Solution Consultant- Moveworks"
+    },
+    "ServiceNow:744000162599714": {
+        "title": "Sr Advisory Solution Consultant- Moveworks"
+    },
+    "ServiceNow:744000162599835": {
+        "title": "Senior Manager, Solution Consulting - Moveworks"
+    },
+    "ServiceNow:744000162590836": {
+        "title": "VP Partner Led Commercial EMEA"
+    },
+    "ServiceNow:744000162591559": {
+        "title": "Sr Manager, Sales CRM GTM"
+    },
+    "ServiceNow:744000162591339": {
+        "title": "Manager, CRM GTM Strategic Engagements"
+    },
+    "ServiceNow:744000162586889": {
+        "title": "Associate Accessibility Engineer Intern"
+    },
+    "ServiceNow:744000162583289": {
+        "title": "Sales Operations Manager"
+    },
+    "ServiceNow:744000162580164": {
+        "title": "Director, AI-Native & Emerging Talent Acquisition"
+    },
+    "ServiceNow:744000162578719": {
+        "title": "Senior Platform Architect"
+    },
+    "ServiceNow:744000162575369": {
+        "title": "Senior Software Engineer"
+    },
+    "ServiceNow:744000162572869": {
+        "title": "Director, Partner Management - Nordics"
+    },
+    "ServiceNow:744000162572680": {
+        "title": "Solution CRM Success Engineer"
+    },
+    "ServiceNow:744000162570099": {
+        "title": "Business Development Representative"
+    },
+    "ServiceNow:744000162568766": {
+        "title": "Business Development Representative - French"
+    },
+    "ServiceNow:744000162568867": {
+        "title": "Business Development Representative"
+    },
+    "ServiceNow:744000162567395": {
+        "title": "Senior CRM Account Executive - TMT"
+    },
+    "ServiceNow:744000162565581": {
+        "title": "Senior Advisory Specialist Solutions Consultant (Asia)"
+    },
+    "ServiceNow:744000162560854": {
+        "title": "Senior Sales Operations Analyst"
+    },
+    "ServiceNow:744000162561430": {
+        "title": "Full Stack Team Lead (Armis/Veza)"
+    },
+    "ServiceNow:744000162560360": {
+        "title": "Business Development Representative "
+    },
+    "ServiceNow:744000162555394": {
+        "title": "Sr Staff Software Engineer - infrastructure team (Veza/Armis)"
+    },
+    "ServiceNow:744000162539259": {
+        "title": "Advisory Solution Consultant - CRM & Agentic AI"
+    },
+    "ServiceNow:744000162536449": {
+        "title": "Director, Global Solution Sales"
+    },
+    "ServiceNow:744000162529089": {
+        "title": "Senior Machine Learning Engineer"
+    },
+    "ServiceNow:744000162528418": {
+        "title": "Senior Manager, Machine Learning Engineering Mgmt"
+    },
+    "ServiceNow:744000162512479": {
+        "title": "Senior CRM Account Executive \u2013 Life Sciences"
+    },
+    "ServiceNow:744000162505004": {
+        "title": "Advisory Solution Consultant - CRM & Agentic AI"
+    },
+    "ServiceNow:744000162502619": {
+        "title": "Senior CRM Account Executive \u2013 Public Sector"
+    },
+    "ServiceNow:744000162495859": {
+        "title": "Sr Staff Software Engineer"
+    },
+    "ServiceNow:744000162495197": {
+        "title": "Sr Staff Software Engineer"
+    },
+    "ServiceNow:744000162494199": {
+        "title": "Sr Staff Inbound Product Manager"
+    },
+    "ServiceNow:744000162483862": {
+        "title": "Advisory Solution Consultant (Forward Deployed Engineer) - CRM & Agentic AI"
+    },
+    "ServiceNow:744000162467009": {
+        "title": "Sr Partner Development Manager  UK & I ( Armis / Veza )"
+    },
+    "ServiceNow:744000162465264": {
+        "title": "Sales Specialist - AI, Data & Analytics"
+    },
+    "ServiceNow:744000162462412": {
+        "title": "CRM Solution Consultant"
+    },
+    "ServiceNow:744000162461963": {
+        "title": "CRM\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8"
+    },
+    "ServiceNow:744000162463249": {
+        "title": "CRM Solution Consultant"
+    },
+    "ServiceNow:744000162455659": {
+        "title": "Senior Commercial Growth AE Nordic Speaking "
+    },
+    "ServiceNow:744000162455619": {
+        "title": "Commercial Growth AE - Dutch Speaking "
+    },
+    "ServiceNow:744000162445019": {
+        "title": "Sr Software Engineer"
+    },
+    "ServiceNow:744000162437515": {
+        "title": "Marketing Mgr (Cybersecurity) "
+    },
+    "ServiceNow:744000162432231": {
+        "title": "Sr Dir, Risk and Security Sales, India"
+    },
+    "ServiceNow:744000162430849": {
+        "title": "Advisory Presales Solution Consultant, Enterprise - Sydney or Melbourne"
+    },
+    "ServiceNow:744000162428379": {
+        "title": "Senior Solution Sales Executive - Security "
+    },
+    "ServiceNow:744000162410339": {
+        "title": "Staff Full-Stack Engineer, Experience Team"
+    },
+    "ServiceNow:744000162408999": {
+        "title": "Sr Staff Outbound Product Manager"
+    },
+    "ServiceNow:744000162408293": {
+        "title": "Sr. Customer Success Manager - Moveworks"
+    },
+    "ServiceNow:744000162408169": {
+        "title": "Customer Success Manager - Moveworks"
+    },
+    "ServiceNow:744000162408099": {
+        "title": "Senior Staff Inbound Product Manager"
+    },
+    "ServiceNow:744000162403879": {
+        "title": "SVP, Product Marketing"
+    },
+    "ServiceNow:744000162402909": {
+        "title": "Partner Manager, US Public Sector"
+    },
+    "ServiceNow:744000162402819": {
+        "title": "Partner Manager, US Public Sector"
+    },
+    "ServiceNow:744000162402779": {
+        "title": "Advisory Solution Consultant - AI GTM"
+    },
+    "Canva:6000000001591054": {
+        "title": "Staff Software Engineer - Export"
+    },
+    "Canva:6000000001589970": {
+        "title": "Business Development Representative"
+    },
+    "Canva:6000000001589703": {
+        "title": "Head of Social, North America"
+    },
+    "General Dynamics Mission Systems:744000162592116": {
+        "title": "Senior Human Factors Engineering Analyst"
+    },
+    "General Dynamics Mission Systems:744000162515730": {
+        "title": "Senior Quality Engineer (Systems Auditor)    "
+    },
+    "Ubisoft:744000162541249": {
+        "title": "Sr Community Developer - Splinter Cell"
+    },
+    "Ubisoft:744000162505597": {
+        "title": "Senior Engine Programmer [Snowdrop]"
+    },
+    "Ubisoft:744000162496479": {
+        "title": "Associate Director Quality"
+    },
+    "Assent:744000162550110": {
+        "title": "Customer Success Operations Manager"
+    },
+    "Klick Health:744000162596429": {
+        "title": "Vice President, Consulting"
+    },
+    "Bombardier:16449": {
+        "title": "Professional, Senior, Engineering - Project Engineering - Research &amp; Technology"
+    },
+    "Bombardier:16765": {
+        "title": "Software Engineering Intern (Year-round)"
+    },
+    "Bombardier:16799": {
+        "title": "Talent Acquisition Advisor, Engineering &amp; Defense"
+    },
+    "Bombardier:16796": {
+        "title": "Technician, Avionics/Electronics"
+    },
+    "SAP Vancouver:459340": {
+        "title": "Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - Boston (Hybrid)"
+    },
+    "SAP Vancouver:459351": {
+        "title": "Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - Houston (Hybrid)"
+    },
+    "SAP Vancouver:457535": {
+        "title": "Development Expert"
+    },
+    "Ericsson:794709": {
+        "title": "AI Product Engineer"
+    },
+    "Ericsson:794715": {
+        "title": "Carrier VAR Partner Account Manager"
+    },
+    "Ericsson:794441": {
+        "title": "Cloud Native Test FW SW Developer"
+    },
+    "Ericsson:793813": {
+        "title": "Compliance Officer"
+    },
+    "Ericsson:794445": {
+        "title": "Customer Network Support Engineer"
+    },
+    "Ericsson:794757": {
+        "title": "Customer Project Manager"
+    },
+    "Ericsson:794193": {
+        "title": "Customer Security Manger -MCN"
+    },
+    "Ericsson:794763": {
+        "title": "Field Service Operation Manager"
+    },
+    "Ericsson:794602": {
+        "title": "Head of Service Reliability"
+    },
+    "Ericsson:794452": {
+        "title": "Implementation Coordinator"
+    },
+    "Ericsson:794542": {
+        "title": "Platform Engineer"
+    },
+    "Ericsson:794451": {
+        "title": "Senior Implementation Manager"
+    },
+    "Ericsson:794819": {
+        "title": "Senior Software Developer - Backend"
+    },
+    "Ericsson:794254": {
+        "title": "Senior Software Engineer - BE"
+    },
+    "Ericsson:794601": {
+        "title": "Service Architect"
+    },
+    "Ericsson:794760": {
+        "title": "Service Monitoring Engineer"
+    },
+    "Ericsson:794850": {
+        "title": "Software Developer"
+    },
+    "Ericsson:794518": {
+        "title": "Software Developer"
+    },
+    "Ericsson:794851": {
+        "title": "Software Developer"
+    },
+    "Ericsson:794810": {
+        "title": "Solution Integrator"
+    },
+    "Ericsson:793386": {
+        "title": "Specialist- DWDM"
+    },
+    "Ericsson:793385": {
+        "title": "Specialist- IP"
+    },
+    "Ericsson:793115": {
+        "title": "Strategic Product Manager"
+    },
+    "Ericsson:794568": {
+        "title": "Strategic Renewals Account Manager"
+    },
+    "MNP Digital:bf631fd2-c07d-425a-a618-e30d64d8f01e": {
+        "title": "Administrative Assistant, Forensics and Litigation Support"
+    },
+    "MNP Digital:331cf2ba-3f58-41e7-b6e4-b20b2ea6a196": {
+        "title": "Receptionist - Kindersley"
+    },
+    "MNP Digital:33447042-73a2-4f94-b0b3-dfc31ba43d4f": {
+        "title": "Accountant, Assurance and Accounting / Comptable, Certification et comptabilit\u00e9"
+    },
+    "MNP Digital:d335ae3c-7362-454c-ae6e-77edf9023bf4": {
+        "title": "Senior Accountant, Assurance and Accounting"
+    },
+    "Mila:9422B30316": {
+        "title": "Coordonnateur.trice aux op\u00e9rations acad\u00e9miques"
+    },
+    "Genetec:023308D089": {
+        "title": "Sales Engineer"
+    },
+    "Weights & Biases:4730855006": {
+        "title": "Benefits Lead"
+    },
+    "Weights & Biases:4730762006": {
+        "title": "EHS-by-Design Specialist"
+    },
+    "Weights & Biases:4730689006": {
+        "title": "Senior Analyst, Accounting Enablement"
+    },
+    "Weights & Biases:4730858006": {
+        "title": "Senior Manager, Financial Reporting"
+    },
+    "Weights & Biases:4730626006": {
+        "title": "Senior Systems Engineer, Virtualization"
+    },
+    "Weights & Biases:4730623006": {
+        "title": "Staff Electrical Engineer"
+    },
+    "Weights & Biases:4730744006": {
+        "title": "Technical Support Engineer III (Bare Metal)"
+    },
+    "Weights & Biases:4730759006": {
+        "title": "US- Central North- EHS Manager"
+    },
+    "Weights & Biases:4730435006": {
+        "title": "US- North West- EHS Manager"
+    },
+    "Hudson River Trading:7326870": {
+        "title": "AI Research Engineer"
+    },
+    "Hudson River Trading:8395576": {
+        "title": "Clearing Associate"
+    },
+    "Hudson River Trading:8400678": {
+        "title": "Senior Corporate Accountant"
+    },
+    "Hudson River Trading:8399720": {
+        "title": "Senior Immigration Specialist"
+    },
+    "Datadog:8400585": {
+        "title": "Art Director - Brand"
+    },
+    "Datadog:8383542": {
+        "title": "Mid-Market Sales Engineer (Dubai)"
+    },
+    "Datadog:8402937": {
+        "title": "National Partner Manager"
+    },
+    "Datadog:8384194": {
+        "title": "National Partner Manager"
+    },
+    "Stripe:8274927": {
+        "title": "Account Executive, Amer Platform (Growth Velocity)"
+    },
+    "Stripe:8350917": {
+        "title": "Activations Specialist, Bridge "
+    },
+    "Stripe:8317310": {
+        "title": "Engineering Manager, Stream Analytics"
+    },
+    "Stripe:8387804": {
+        "title": "Head of Americas Internal Audit"
+    },
+    "Stripe:8108391": {
+        "title": "Marketing Operations Associate (Automation)"
+    },
+    "Stripe:8384782": {
+        "title": "Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing"
+    },
+    "Stripe:8374754": {
+        "title": "Payments Performance Strategist, Fraud "
+    },
+    "Stripe:8403659": {
+        "title": "Senior Treasury Specialist, Bridge Capital & Liquidity Risk \u2013 Digital Assets"
+    },
+    "Stripe:8165265": {
+        "title": "Staff Product Manager, Infrastructure"
+    },
+    "MongoDB:8346138": {
+        "title": "2027 - AI and People Transformation Intern, NYC"
+    },
+    "MongoDB:8301842": {
+        "title": "2027 - Tax Intern, New York City"
+    },
+    "MongoDB:8381861": {
+        "title": "Associate Technical Services Engineer"
+    },
+    "MongoDB:8354295": {
+        "title": "Manager, Engineering"
+    },
+    "MongoDB:8397251": {
+        "title": "Program Manager, Public Sector Compliance"
+    },
+    "MongoDB:8393584": {
+        "title": "Recruiting Operations Manager"
+    },
+    "MongoDB:8381890": {
+        "title": "Regional Marketing Manager, Japan"
+    },
+    "MongoDB:8381864": {
+        "title": "Senior Financial Analyst"
+    },
+    "MongoDB:8403104": {
+        "title": "Senior Financial Analyst"
+    },
+    "MongoDB:8395822": {
+        "title": "Senior Program Manager, Governance, Risk and Compliance"
+    },
+    "MongoDB:8397699": {
+        "title": "Senior Software Engineer, Cloud Payments"
+    },
+    "MongoDB:8397701": {
+        "title": "Senior Software Engineer, Cloud Payments"
+    },
+    "MongoDB:8399277": {
+        "title": "Senior Solutions Architect"
+    },
+    "MongoDB:8355201": {
+        "title": "Staff Technical Program Manager, Growth"
+    },
+    "MongoDB:8399041": {
+        "title": "Staff Technical Program Manager, Growth"
+    },
+    "Pinterest:8312674": {
+        "title": "Programmatic Ads Sales Lead"
+    },
+    "Pinterest:8280215": {
+        "title": "Sr. Communications Lead, Product & Consumer Communications"
+    },
+    "Pinterest:8402791": {
+        "title": "Sr. Counsel - Product, Engineering & AI "
+    },
+    "Pinterest:8346516": {
+        "title": "Staff Machine Learning Engineer, Homefeed & Search Quality "
+    },
+    "Asana:8375265": {
+        "title": "Enterprise New Business Account Executive"
+    },
+    "Brex:8950778002": {
+        "title": "Accounting Partnerships Manager"
+    },
+    "Brex:8950781002": {
+        "title": "Accounting Partnerships Manager"
+    },
+    "Brex:8952012002": {
+        "title": "Screening & Transaction Monitoring Associate"
+    },
+    "Brex:8950656002": {
+        "title": "Screening & Transaction Monitoring Associate"
+    },
+    "Brex:8950667002": {
+        "title": "Screening & Transaction Monitoring Associate"
+    },
+    "Brex:8950668002": {
+        "title": "Screening & Transaction Monitoring Associate"
+    },
+    "Universal Robots:13064": {
+        "title": "Assembly and Test Operator (Teradyne, San Jose, CA)"
+    },
+    "Universal Robots:13081": {
+        "title": "Collaboration IT Architect &amp; Manager (BPIT, North Reading)"
+    },
+    "Universal Robots:13076": {
+        "title": "Logistics Analyst"
+    },
+    "Universal Robots:13083": {
+        "title": "Product Support Engineer (STD ENG, Philippines:Cebu)"
+    },
+    "Universal Robots:13088": {
+        "title": "RF Systems Engineer (Teradyne, North Reading, MA)"
+    },
+    "Universal Robots:13053": {
+        "title": "SBM Lead (Supply Base Management Lead)  (Teradyne Robotics, N. Reading MA / US Remote)"
+    },
+    "Epic Games:6266520004": {
+        "title": "Principal Animator"
+    },
+    "Epic Games:6242257004": {
+        "title": "Principal Animator"
+    },
+    "Airbnb:8378929": {
+        "title": "Recruiter, Sales & G&A (12-month contract)"
+    },
+    "Airbnb:8401203": {
+        "title": "Senior AI Development Lead"
+    },
+    "Airbnb:8400808": {
+        "title": "Senior Android Engineer, App Experience & Frameworks"
+    },
+    "Airbnb:8402949": {
+        "title": "Senior Financial Operations Lead, Vendor Operations"
+    },
+    "Airbnb:8403001": {
+        "title": "Senior Vendor Operations Manager"
+    },
+    "Databricks:8949593002": {
+        "title": "Business Development Representative"
+    },
+    "Databricks:8895479002": {
+        "title": " Partner Solutions Architect "
+    },
+    "Databricks:8943066002": {
+        "title": "Principal Campaign Marketing Manager, Integrated Campaigns"
+    },
+    "Databricks:8948868002": {
+        "title": "Senior Manager, AI Forward Deployed Engineering"
+    },
+    "Databricks:8948870002": {
+        "title": "Senior Manager, AI Forward Deployed Engineering"
+    },
+    "Databricks:8937360002": {
+        "title": "Senior Manager, AI Forward Deployed Engineering"
+    },
+    "Databricks:8948900002": {
+        "title": "Senior Manager, AI Forward Deployed Engineering"
+    },
+    "Databricks:8939557002": {
+        "title": "Senior Solutions Architect (Growth Accounts - All sectors) x 2 New Roles"
+    },
+    "Databricks:8951419002": {
+        "title": "Solutions Architect - Games "
+    },
+    "Databricks:8951414002": {
+        "title": "Solutions Architect - Games "
+    },
+    "Databricks:8951434002": {
+        "title": "Solutions Architect - Games "
+    },
+    "Databricks:8952359002": {
+        "title": "Solutions Architect (Growth Accounts - All sectors) x 2 New Roles"
+    },
+    "Databricks:8429240002": {
+        "title": "Solutions Architect  - Kansai Region"
+    },
+    "Databricks:8952028002": {
+        "title": "Specialist Solutions Architect - Azure Infrastructure & AI Platform"
+    },
+    "Databricks:8950673002": {
+        "title": "Staff Software Engineer - Threat and Abuse Defense"
+    },
+    "Databricks:8927392002": {
+        "title": "Startup Account Executive"
+    },
+    "Databricks:8943772002": {
+        "title": "VP, Enterprise - DoW/IC"
+    },
+    "Celestica:140673": {
+        "title": "04 - Operations Engineering Support 1"
+    },
+    "Celestica:142750": {
+        "title": "05 - Senior Technician, Quality"
+    },
+    "Celestica:142737": {
+        "title": "06 - Associate Engineer, Manufacturing Process"
+    },
+    "Celestica:141081": {
+        "title": "10 - Operations Support Manager 2 1 1"
+    },
+    "Celestica:142757": {
+        "title": "Analyst, Operations Quality"
+    },
+    "Celestica:142352": {
+        "title": "Commercial Finance Director"
+    },
+    "Celestica:142309": {
+        "title": "Engineer, Test Manufacturing"
+    },
+    "Celestica:142660": {
+        "title": "FAA Repair Station Final Inspector"
+    },
+    "Celestica:142354": {
+        "title": "Finance Manager"
+    },
+    "Celestica:142495": {
+        "title": "Operations Engineering Advisor"
+    },
+    "Celestica:141690": {
+        "title": "Operations Engineering Support 1"
+    },
+    "Celestica:142820": {
+        "title": "Senior Manager, Global Quality"
+    },
+    "Celestica:142218": {
+        "title": "Staff Engineer, Software"
+    },
+    "Celestica:141450": {
+        "title": "Student Intern, Aerospace &amp; Defense"
     }
 }
