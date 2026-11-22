@@ -421399,5 +421399,113 @@
     },
     "Celestica:141905": {
         "title": "Test Technician"
+    },
+    "OpenAI:ce15d226-65db-43f1-98ec-078e96a3a281": {
+        "title": "Research Engineer / Research Scientist, Post-Training \u2014 Collective Alignment (User Signals)"
+    },
+    "OpenAI:d1906ab2-b829-4a13-b1f2-f4af97d699fa": {
+        "title": "Research Engineer/Research Scientist-Post Training, Proactivity"
+    },
+    "OpenAI:bc85c1a9-0f75-4c3a-807b-6d2bb26c8445": {
+        "title": "Research Engineer/Research Scientist- Post Training, Model Experience"
+    },
+    "OpenAI:ecfe655c-1369-4bcd-aae0-4a3b75fdf61b": {
+        "title": "Research Engineer / Research Scientist - Post Training, Memory"
+    },
+    "OpenAI:740b5d1b-f63d-49bb-962d-8e2778e925ef": {
+        "title": "Research Engineer / Research Scientist, Human Flourishing"
+    },
+    "OpenAI:6785d983-8831-46d0-9c81-443f83664948": {
+        "title": "Research Engineer / Research Scientist, Health"
+    },
+    "Anduril:5306155007": {
+        "title": "Staff/Lead, Business Development (EMEA)"
+    },
+    "Anthropic:5491575008": {
+        "title": "Campaign Manager"
+    },
+    "Anthropic:5491578008": {
+        "title": "Head of Campaign Operations"
+    },
+    "Anthropic:5491573008": {
+        "title": "Program Manager, Cloud Partners"
+    },
+    "SpaceX:8952834002": {
+        "title": "Critical Lift Technician - Transport (Starship)"
+    },
+    "SpaceX:8952902002": {
+        "title": "Critical Lift & Transport Engineer (Starship)"
+    },
+    "SpaceX:8947625002": {
+        "title": "GNC Engineer (Starship)"
+    },
+    "SpaceX:8952875002": {
+        "title": "SPMT Operator - Transport (Starship)"
+    },
+    "SpaceX:8957359002": {
+        "title": "Sr. Manager, Supply Chain (Network Infrastructure)"
+    },
+    "SpaceX:8957350002": {
+        "title": "Sr. Manager, Supply Chain (Network Infrastructure)"
+    },
+    "SpaceX:8957360002": {
+        "title": "Sr. Manager, Supply Chain (Network Infrastructure)"
+    },
+    "SpaceX:8957229002": {
+        "title": "Sr. Sourcing Specialist (Compute Infrastructure)"
+    },
+    "SpaceX:8957217002": {
+        "title": "Sr. Sourcing Specialist (Compute Infrastructure)"
+    },
+    "SpaceX:8957226002": {
+        "title": "Sr. Sourcing Specialist (Network Infrastructure)"
+    },
+    "SpaceX:8957211002": {
+        "title": "Sr. Sourcing Specialist (Network Infrastructure)"
+    },
+    "SpaceX:8957169002": {
+        "title": "Supplier Quality Specialist (SpaceXSI)"
+    },
+    "ServiceNow:744000163098369": {
+        "title": "Data Analyst (Armis/Veza)"
+    },
+    "ServiceNow:744000163094814": {
+        "title": "Partner Sales Manager, VN+SG+MY"
+    },
+    "ServiceNow:744000163092399": {
+        "title": "Product Success Director"
+    },
+    "ServiceNow:744000163092289": {
+        "title": "Senior Sales Manager \u2013 Cyber Security & Risk (CSR) "
+    },
+    "ServiceNow:744000163090339": {
+        "title": "Staff Software Engineer, AI Native Engineering, Integrations"
+    },
+    "Ericsson:793202": {
+        "title": "Strategy Driver | Early Career Program"
+    },
+    "Autodesk:/job/Bengaluru-IND/Software-Engineer--Backend-Focused-_26WD102324-2": {
+        "title": "Software Engineer (Backend Focused)"
+    },
+    "Autodesk:/job/Japan---Remote/Farm-Staff---_26WD102093-1": {
+        "title": "Farm Staff - \u8fb2\u4f5c\u696d\u30b9\u30bf\u30c3\u30d5"
+    },
+    "Weights & Biases:4730711006": {
+        "title": "Senior Technical Program Manager, Assurance Engineering"
+    },
+    "Weights & Biases:4730698006": {
+        "title": "Senior Technical Program Manager, Production IAM"
+    },
+    "Weights & Biases:4730716006": {
+        "title": "Senior Technical Program Manager, Product Security"
+    },
+    "Weights & Biases:4730704006": {
+        "title": "Senior Technical Program Manager, Security Program Operations"
+    },
+    "Weights & Biases:4730726006": {
+        "title": "Senior Technical Program Manager, Security Risk and M&A Security "
+    },
+    "Weights & Biases:4730695006": {
+        "title": "Technical Program Manager, Cloud Security"
     }
 }
