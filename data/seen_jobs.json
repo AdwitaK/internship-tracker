@@ -425965,5 +425965,455 @@
     },
     "Celestica:142702": {
         "title": "Senior Manager, IT Business Partner"
+    },
+    "OpenAI:1f1ea997-283b-4d49-b25b-e8dbe2491938": {
+        "title": "Program Manager, Recruiting Events"
+    },
+    "Cohere:d24de9b2-35b6-456a-843e-a9e01d2facf2": {
+        "title": "Technical Program Manager, Model Delivery"
+    },
+    "Redis:99a702ee-a106-4736-bd45-9e51c4f734b0": {
+        "title": "Senior C/C++ Software Engineer"
+    },
+    "1Password:706c56db-a8a8-4c92-9954-36c2beeba7c5": {
+        "title": "Director, Channel Operations"
+    },
+    "1Password:6834777e-7707-4376-960f-c47db08eea8b": {
+        "title": "Customer Support Technical Representative"
+    },
+    "Lightspeed commerce:37cd9a7d-5173-422c-9e35-99c155969bca": {
+        "title": "Account Executive, Payments "
+    },
+    "Lightspeed commerce:43791c93-f5de-469d-84ea-794aa279d97d": {
+        "title": "Account Executive, Payments (Existing Merchants)"
+    },
+    "Lightspeed commerce:d0c66c05-6183-4aef-b938-ad61b03c0bed": {
+        "title": "Senior Account Executive, Payments "
+    },
+    "Lightspeed commerce:92b05631-e544-4624-b0b6-97c365b569c2": {
+        "title": "Channel Manager, Hospitality - Benelux"
+    },
+    "Lightspeed commerce:04b6eb83-e5e7-4604-9fa8-a574e1990e7d": {
+        "title": "Sales Development Representative (Permanent work from home)"
+    },
+    "Lightspeed commerce:fa17a541-48a1-4ec4-af87-3878f3a86727": {
+        "title": "Senior Account Executive, Payments"
+    },
+    "Lightspeed commerce:654d0f5e-970d-41f7-bacd-ebd132f39456": {
+        "title": "Account Executive, Payments"
+    },
+    "Lightspeed commerce:0c0be4f5-c294-4220-8716-bf092a5df63b": {
+        "title": "Account Executive, Payments"
+    },
+    "Lightspeed commerce:3b807f42-219d-4436-b96e-6b539eba48be": {
+        "title": "Senior Account Executive, Payments"
+    },
+    "Jobber:fe4b3430-46c1-4d8f-9523-b4b7f0fdc8a3": {
+        "title": "Senior AI Marketing Enablement Manager"
+    },
+    "Benevity:cc4b2845-1e6b-47ef-ba89-d5b7de097011": {
+        "title": "Senior Program Manager, Transformation"
+    },
+    "Dayforce:105122": {
+        "title": "Principal Network Architect"
+    },
+    "Dayforce:105125": {
+        "title": "Principal Network Architect"
+    },
+    "Dayforce:105128": {
+        "title": "Architecte r\u00e9seau principal"
+    },
+    "Dayforce:105132": {
+        "title": "Product Manager Sr (Global Pay)"
+    },
+    "Anduril:5310639007": {
+        "title": "Staff Software Engineer"
+    },
+    "IMC Trading:5051843101": {
+        "title": "Corporate Development Manager - Seoul"
+    },
+    "IMC Trading:5049643101": {
+        "title": "Software Engineer - Data"
+    },
+    "DRW:8401732": {
+        "title": "Immigration Specialist - APAC & EMEA"
+    },
+    "SpaceX:8943549002": {
+        "title": "Electrical Test Specialist, PCB (Starlink/Starmind)"
+    },
+    "Rocket Lab:8203628003": {
+        "title": "Senior RF  Radar Design Engineer II"
+    },
+    "Cloudflare:8417031": {
+        "title": "Business Development Representative - Russian Speaking"
+    },
+    "Cloudflare:8414208": {
+        "title": "Named Account Executive, Norway & Finland"
+    },
+    "Cloudflare:8413294": {
+        "title": "Senior Account Executive, FedCiv"
+    },
+    "Cloudflare:8414193": {
+        "title": "Senior Named Account Executive, Denmark"
+    },
+    "Cloudflare:8405066": {
+        "title": "Senior Territory Account Executive (Based in Sydney)"
+    },
+    "GitLab:8961167002": {
+        "title": "Enterprise Applications Engineer, Zendesk"
+    },
+    "Carta:8155611003": {
+        "title": "Director, Talent Network - Private Equity and Private Credit "
+    },
+    "League Inc:6272208004": {
+        "title": "Privacy Counsel"
+    },
+    "Twilio:8406761": {
+        "title": "Personalized Support Engineer 2"
+    },
+    "Twilio:8405815": {
+        "title": "Strategic Account Executive 3 (Central EMEA)"
+    },
+    "Magnet Forensics:4fa41f64-f9ba-4b70-9f77-3de8ed0f7725": {
+        "title": "Accounts Receivable Coordinator"
+    },
+    "Magnet Forensics:12b14267-06c2-4f35-916a-7684426c31c9": {
+        "title": "Technical Support Engineer"
+    },
+    "PointClickCare:18f73f69-b849-4a4b-9ecf-a1858b4f5e33": {
+        "title": "Director, Billing to Cash"
+    },
+    "Scotiabank:280616": {
+        "title": "Associate Communication Surveillance- Toronto"
+    },
+    "Scotiabank:279958": {
+        "title": "Associate Director, Regional Cash &amp; Intraday Liquidity Management"
+    },
+    "Scotiabank:280675": {
+        "title": "Banking Advisor - Hampton, NB (37.5 Hours / Week)"
+    },
+    "Scotiabank:280682": {
+        "title": "Business Advisor - Humbertown Centre, Etobicoke, ON"
+    },
+    "Scotiabank:279871": {
+        "title": "Centralized Administrative Coordinator, Scotiatrust - Ottawa, ON"
+    },
+    "Scotiabank:280435": {
+        "title": "Communications Enablement Lead (Contract)"
+    },
+    "Scotiabank:280458": {
+        "title": "Community &amp; Insights Enablement Lead (Contract)"
+    },
+    "Scotiabank:278185": {
+        "title": "Consultant, Digitization &amp; Automation"
+    },
+    "Scotiabank:280587": {
+        "title": "Customer Experience Associate - Bedford West, NS (30 Hours / Week)"
+    },
+    "Scotiabank:280261": {
+        "title": "Customer Experience Associate - Chinatown, Vancouver, BC(15Hours/Week)"
+    },
+    "Scotiabank:280692": {
+        "title": "Customer Experience Associate - Douglas Square Branch, AB (26.25 hours/week)"
+    },
+    "Scotiabank:280594": {
+        "title": "Customer Experience Associate - Granville &amp; 12th Branch, Vancouver, BC(18.75Hours/Week)"
+    },
+    "Scotiabank:280591": {
+        "title": "Director of CIAM Operations"
+    },
+    "Scotiabank:280615": {
+        "title": "Financial Advisor - Prince Albert, SK"
+    },
+    "Scotiabank:280609": {
+        "title": "Financial Advisor, Investment &amp; Retirement Planning - Sixth &amp; 6th Avenue - New Westminster,  BC"
+    },
+    "Scotiabank:280440": {
+        "title": "Learning Enablement Lead (Contract)"
+    },
+    "Scotiabank:279607": {
+        "title": "Manager, Financial Analysis IB - Finance"
+    },
+    "Scotiabank:279924": {
+        "title": "Oficial de Reporteria y Datos"
+    },
+    "Scotiabank:280655": {
+        "title": "Principal Engineer"
+    },
+    "Scotiabank:280634": {
+        "title": "Senior Analyst, Regulatory Intelligence &amp; Optimization - Global Compliance"
+    },
+    "Scotiabank:280595": {
+        "title": "Senior Customer Experience Associate - Redwood Square, Surrey, BC(15Hours/Week)"
+    },
+    "Scotiabank:280698": {
+        "title": "Senior Data Specialist"
+    },
+    "Scotiabank:280396": {
+        "title": "Senior Financial Advisor - Timmins - Business Banking Centre, Timmins, ON"
+    },
+    "Scotiabank:280641": {
+        "title": "Senior Financial Advisor- Centre Mall"
+    },
+    "Scotiabank:280635": {
+        "title": "Senior Manager Cloud Platform Engineering"
+    },
+    "Scotiabank:280648": {
+        "title": "Senior Manager, AI Security Engineering"
+    },
+    "Scotiabank:280601": {
+        "title": "Senior Manager, Insurance Products &amp; CVP - English Caribbean Region (ECR)"
+    },
+    "Scotiabank:280076": {
+        "title": "Senior Manager, Product Development- Scotia Global Asset Management"
+    },
+    "Scotiabank:280626": {
+        "title": "Senior Security Architect"
+    },
+    "Scotiabank:280455": {
+        "title": "Senior Solution - Data Architect"
+    },
+    "Scotiabank:280620": {
+        "title": "Software Engineer- Cash Management Technology"
+    },
+    "Scotiabank:280688": {
+        "title": "Summer Student"
+    },
+    "Scotiabank:279032": {
+        "title": "Summer Student"
+    },
+    "Scotiabank:279070": {
+        "title": "Summer Student"
+    },
+    "Scotiabank:279079": {
+        "title": "Summer Student"
+    },
+    "Softchoice:7845": {
+        "title": "Microsoft Technology Specialist"
+    },
+    "ServiceNow:744000164004019": {
+        "title": "Executive Assistant - Sales"
+    },
+    "Ubisoft:744000164086949": {
+        "title": "Senior Lighting Artist - Assassin's Creed Franchise"
+    },
+    "Ubisoft:744000164086710": {
+        "title": "\u00c9clairagiste s\u00e9nior - Franchise Assassin's Creed"
+    },
+    "Ubisoft:744000164050719": {
+        "title": "Ing\u00e9nieur.e Cloud (DevOps) - Fleet (F/H/X)"
+    },
+    "Ubisoft:744000164045990": {
+        "title": "Communications & Creator Strategy Manager (M/F/NB) "
+    },
+    "Ubisoft:744000164031149": {
+        "title": "Cloud Security Specialist"
+    },
+    "Ubisoft:744000164027610": {
+        "title": "Sp\u00e9cialiste s\u00e9curit\u00e9 infonuagique"
+    },
+    "Klick Health:744000164091569": {
+        "title": "Consultant"
+    },
+    "Klick Health:744000164076810": {
+        "title": "Senior Legal Counsel - Employment Law "
+    },
+    "Bombardier:16880": {
+        "title": "Battery Mechanic"
+    },
+    "Bombardier:16782": {
+        "title": "Capture &amp; Proposal Standards &amp; governance analyst - defense"
+    },
+    "Bombardier:16008": {
+        "title": "Intern, Engineering"
+    },
+    "Bombardier:16881": {
+        "title": "Material &amp; Work Planner"
+    },
+    "Bombardier:16882": {
+        "title": "Material Handler"
+    },
+    "Ericsson:794332": {
+        "title": "Antenna Developer - Resident Engineer"
+    },
+    "Ericsson:793140": {
+        "title": "Circle Optimization Lead"
+    },
+    "Ericsson:794454": {
+        "title": "Compliance Officer Group DPO"
+    },
+    "Ericsson:795178": {
+        "title": "Developer Power"
+    },
+    "Ericsson:795200": {
+        "title": "Executive Assistant"
+    },
+    "Ericsson:795066": {
+        "title": "Head of MS Transformation"
+    },
+    "Ericsson:788260": {
+        "title": "Last Mile ODM"
+    },
+    "Ericsson:794756": {
+        "title": "Principal Engineer I"
+    },
+    "Ericsson:795000": {
+        "title": "Program and Scope Manager"
+    },
+    "Ericsson:794970": {
+        "title": "Radio Algorithm Developer"
+    },
+    "Ericsson:795260": {
+        "title": "Senior Technical Lead"
+    },
+    "Ericsson:794998": {
+        "title": "Service Owner - Fixed"
+    },
+    "Ericsson:794999": {
+        "title": "Service Owner - Infrastructure"
+    },
+    "MNP Digital:3bb630a7-7f36-42f6-a1fb-2d2816973232": {
+        "title": "Proposal Operations Coordinator (Bilingual)"
+    },
+    "MNP Digital:45003de7-acc7-4cd7-8614-2d56a65566a9": {
+        "title": "Instructional Designer (Term)"
+    },
+    "MNP Digital:9b8eeab8-b44e-48e2-a10e-ed9c0c9eb836": {
+        "title": "Technology Project Manager (Term)"
+    },
+    "Genetec:E07E9588AA": {
+        "title": "Team Lead, DAP - Sp\u00e9cialiste Succ\u00e8s des Partenaires / Partner Success Specialist"
+    },
+    "EXFO:/job/Quebec-City-QC-Canada/Chef-d-quipe-technique---Technical-Leader_R-100639": {
+        "title": "Chef d'\u00e9quipe technique / Technical Leader"
+    },
+    "Datadog:8401334": {
+        "title": "Senior Sales Engineer"
+    },
+    "Stripe:8421413": {
+        "title": "Business Operations"
+    },
+    "Stripe:8421263": {
+        "title": "Product Strategy & Operations, Crypto S&O"
+    },
+    "Stripe:8421434": {
+        "title": "Software Engineer"
+    },
+    "Stripe:8421452": {
+        "title": "Software Engineer"
+    },
+    "Stripe:8421091": {
+        "title": "Software Engineer, Backend"
+    },
+    "Stripe:8421387": {
+        "title": "Software Engineer, Backend "
+    },
+    "Stripe:8421000": {
+        "title": "Software Engineer, Full Stack Atlas"
+    },
+    "Stripe:8421367": {
+        "title": "Software Engineer, Reporting Platform"
+    },
+    "MongoDB:8406025": {
+        "title": "EAE AI Sales Specialist - DACH"
+    },
+    "MongoDB:8406014": {
+        "title": "EAE AI Sales Specialist - UKI"
+    },
+    "MongoDB:8412394": {
+        "title": "Senior Software Engineer"
+    },
+    "MongoDB:8419313": {
+        "title": "Senior Solutions Architect"
+    },
+    "MongoDB:8419289": {
+        "title": "Senior Solutions Architect"
+    },
+    "MongoDB:8419294": {
+        "title": "Senior Solutions Architect"
+    },
+    "MongoDB:8419307": {
+        "title": "Senior Solutions Architect"
+    },
+    "MongoDB:8419310": {
+        "title": "Senior Solutions Architect"
+    },
+    "Universal Robots:13135": {
+        "title": "Assembler(GCS, Philippines: Cebu)"
+    },
+    "Universal Robots:13220": {
+        "title": "Business Intelligence Professional (GCS, Philippines:Cebu)"
+    },
+    "Universal Robots:13219": {
+        "title": "FP&amp;A Analyst (GCS, Philippines:Cebu)"
+    },
+    "Universal Robots:13215": {
+        "title": "New Product Planner"
+    },
+    "Universal Robots:13221": {
+        "title": "Operations Manager (GCS-CSO, Philippines: Cebu)"
+    },
+    "Universal Robots:13218": {
+        "title": "Project Manager (GCS, Philippines: Cebu)"
+    },
+    "Universal Robots:13102": {
+        "title": "Test Technician(GCS, Philippines: Cebu)"
+    },
+    "Databricks:8960960002": {
+        "title": "Deployment Strategist"
+    },
+    "Databricks:8963506002": {
+        "title": "Manager, Delivery Solutions Architects"
+    },
+    "Databricks:8964093002": {
+        "title": "Senior Manager, Capability Engineering & Customer Training, EMEA"
+    },
+    "Databricks:8963388002": {
+        "title": "Senior Manager, Capability Engineering & Customer Training, EMEA"
+    },
+    "Databricks:8964095002": {
+        "title": "Senior Manager, Capability Engineering & Customer Training, EMEA"
+    },
+    "Databricks:8964086002": {
+        "title": "Senior Manager, Capability Engineering & Customer Training, EMEA"
+    },
+    "Databricks:7606848002": {
+        "title": "Solutions Architect"
+    },
+    "Databricks:8960967002": {
+        "title": "Staff Forward Deployment Strategist"
+    },
+    "Celestica:142948": {
+        "title": "05 - Import/Export Administrator 2 1"
+    },
+    "Celestica:143023": {
+        "title": "06 - Production Team Leader 1"
+    },
+    "Celestica:143082": {
+        "title": "09 - Manager, Supply Chain Warehouse 1"
+    },
+    "Celestica:142935": {
+        "title": "Buying Associate"
+    },
+    "Celestica:142937": {
+        "title": "Buying Associate"
+    },
+    "Celestica:142950": {
+        "title": "Engineer, Global Supplier Quality"
+    },
+    "Celestica:141830": {
+        "title": "FP&amp;A Manager"
+    },
+    "Celestica:142577": {
+        "title": "Industrial Engineer"
+    },
+    "Celestica:142716": {
+        "title": "Mechanical Engineering Manager - complex electro-mechanical products"
+    },
+    "Celestica:142868": {
+        "title": "Senior Cloud Engineer"
+    },
+    "Celestica:142755": {
+        "title": "Senior Lead Engineer, Program/Project Mgmt"
     }
 }
